@@ -6,12 +6,15 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "data": "[ -d .venv ] || python3 -m venv .venv; .venv/bin/pip install -q -r scripts/requirements.txt && .venv/bin/python scripts/build_data.py",
+    "data:list": ".venv/bin/python scripts/build_data.py --list"
   },
   "dependencies": {
     "next": "16.4.0",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "server-only": "^0.0.1"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",

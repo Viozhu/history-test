@@ -1,26 +1,141 @@
 @import "tailwindcss";
 
+/* Exam-paper palette. Dark mode keeps a warm "night study" paper tone, never pure black. */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --paper: #f7f3ea;
+  --paper-raised: #fcfaf5;
+  --paper-sunk: #eee8db;
+  --ink: #1d1b16;
+  --ink-soft: #4a463d;
+  --ink-faint: #6f6a5e;
+  --rule: #1d1b16;
+  --rule-soft: #cfc7b6;
+  --omr: #d6336c; /* OMR card print colour */
+  --omr-soft: #f6d5e0;
+  --omr-fill: #1d1b16; /* computer sign-pen ink */
+  --pen: #c8102e; /* red grading pen */
+  --ok: #2f6b3a;
+  --ok-soft: #dcebdc;
+  --bad: #b3261e;
+  --bad-soft: #f6dcd9;
+  --warn: #9a5b00;
+  --warn-soft: #fbe8c8;
+  --focus: #1f5fbf;
+  --seal: #b3261e;
+  color-scheme: light;
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  :root:not([data-theme="light"]) {
+    --paper: #221e18;
+    --paper-raised: #2b261f;
+    --paper-sunk: #1b1813;
+    --ink: #ece4d3;
+    --ink-soft: #cfc5b0;
+    --ink-faint: #a69c87;
+    --rule: #d9cfba;
+    --rule-soft: #4a4337;
+    --omr: #f07aa0;
+    --omr-soft: #4a2633;
+    --omr-fill: #ece4d3;
+    --pen: #ff7a7a;
+    --ok: #8fd19e;
+    --ok-soft: #233a27;
+    --bad: #ff8a80;
+    --bad-soft: #43231f;
+    --warn: #f2b45a;
+    --warn-soft: #3d2f17;
+    --focus: #8ab4ff;
+    --seal: #ff7a7a;
+    color-scheme: dark;
   }
 }
 
+:root[data-theme="dark"] {
+  --paper: #221e18;
+  --paper-raised: #2b261f;
+  --paper-sunk: #1b1813;
+  --ink: #ece4d3;
+  --ink-soft: #cfc5b0;
+  --ink-faint: #a69c87;
+  --rule: #d9cfba;
+  --rule-soft: #4a4337;
+  --omr: #f07aa0;
+  --omr-soft: #4a2633;
+  --omr-fill: #ece4d3;
+  --pen: #ff7a7a;
+  --ok: #8fd19e;
+  --ok-soft: #233a27;
+  --bad: #ff8a80;
+  --bad-soft: #43231f;
+  --warn: #f2b45a;
+  --warn-soft: #3d2f17;
+  --focus: #8ab4ff;
+  --seal: #ff7a7a;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-paper-raised: var(--paper-raised);
+  --color-paper-sunk: var(--paper-sunk);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-ink-faint: var(--ink-faint);
+  --color-rule: var(--rule);
+  --color-rule-soft: var(--rule-soft);
+  --color-omr: var(--omr);
+  --color-omr-soft: var(--omr-soft);
+  --color-omr-fill: var(--omr-fill);
+  --color-pen: var(--pen);
+  --color-ok: var(--ok);
+  --color-ok-soft: var(--ok-soft);
+  --color-bad: var(--bad);
+  --color-bad-soft: var(--bad-soft);
+  --color-warn: var(--warn);
+  --color-warn-soft: var(--warn-soft);
+  --color-focus: var(--focus);
+  --color-seal: var(--seal);
+  --font-sans: "Noto Sans KR", "Noto Sans CJK KR", "Apple SD Gothic Neo", "Malgun Gothic", system-ui, sans-serif;
+  --font-serif: var(--font-noto-serif-kr), "AppleMyungjo", "Batang", serif;
+}
+
+html {
+  background: var(--paper);
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  word-break: keep-all; /* Korean line breaking at word boundaries */
+  overflow-wrap: anywhere;
+}
+
+/* Visible, consistent keyboard focus everywhere. */
+:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Crops are scanned paper; soften them a bit in dark mode so they don't glare. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .paper-img {
+    filter: brightness(0.88) contrast(1.05);
+  }
+}
+:root[data-theme="dark"] .paper-img {
+  filter: brightness(0.88) contrast(1.05);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }

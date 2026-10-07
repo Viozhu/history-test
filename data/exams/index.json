@@ -1,0 +1,90 @@
+[
+ {
+  "round": 69,
+  "title": "제69회 한국사능력검정시험 심화",
+  "year": 2024,
+  "date": null,
+  "source": "ocr",
+  "timeLimitMinutes": 80
+ },
+ {
+  "round": 70,
+  "title": "제70회 한국사능력검정시험 심화",
+  "year": 2024,
+  "date": null,
+  "source": "text",
+  "timeLimitMinutes": 80
+ },
+ {
+  "round": 71,
+  "title": "제71회 한국사능력검정시험 심화",
+  "year": 2024,
+  "date": null,
+  "source": "text",
+  "timeLimitMinutes": 80
+ },
+ {
+  "round": 72,
+  "title": "제72회 한국사능력검정시험 심화",
+  "year": 2024,
+  "date": null,
+  "source": "text",
+  "timeLimitMinutes": 80
+ },
+ {
+  "round": 73,
+  "title": "제73회 한국사능력검정시험 심화",
+  "year": 2025,
+  "date": null,
+  "source": "ocr",
+  "timeLimitMinutes": 80
+ },
+ {
+  "round": 74,
+  "title": "제74회 한국사능력검정시험 심화",
+  "year": 2025,
+  "date": null,
+  "source": "ocr",
+  "timeLimitMinutes": 80
+ },
+ {
+  "round": 75,
+  "title": "제75회 한국사능력검정시험 심화",
+  "year": 2025,
+  "date": null,
+  "source": "text",
+  "timeLimitMinutes": 80
+ },
+ {
+  "round": 76,
+  "title": "제76회 한국사능력검정시험 심화",
+  "year": 2025,
+  "date": null,
+  "source": "text",
+  "timeLimitMinutes": 80
+ },
+ {
+  "round": 77,
+  "title": "제77회 한국사능력검정시험 심화",
+  "year": 2026,
+  "date": null,
+  "source": "text",
+  "timeLimitMinutes": 80
+ },
+ {
+  "round": 78,
+  "title": "제78회 한국사능력검정시험 심화",
+  "year": 2026,
+  "date": null,
+  "source": "ocr",
+  "timeLimitMinutes": 80
+ },
+ {
+  "round": 79,
+  "title": "제79회 한국사능력검정시험 심화",
+  "year": 2026,
+  "date": null,
+  "source": "ocr",
+  "timeLimitMinutes": 80
+ }
+]

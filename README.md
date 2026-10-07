@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# history-test — 한국사능력검정시험 심화 simulator
 
-## Getting Started
+An exam-faithful, fully static web app for practicing the Korean History Proficiency Test,
+advanced level (한국사능력검정시험 심화), built from the official past exams published by
+국사편찬위원회 (rounds 69–79).
 
-First, run the development server:
+- **Exam mode** (`/exam/[round]`): 80-minute timer (amber < 10 min, red < 5), no feedback until
+  submission, confirmation listing blank questions, auto-submit at 0, pause (marked as not
+  allowed in the real exam).
+- **Practice mode** (`/practice/[round]`): check each answer, correct option highlighted,
+  optional shuffle.
+- **Results** (`/exam/[round]/result`): red-pen grading reveal, score, grade
+  (1급 ≥ 80 · 2급 70–79 · 3급 60–69 · 불합격), breakdown by points and era, review of each question.
+- **Wrong-answer notebook** (`/review`) with filters and a "retry these" session, and
+  **history** (`/history`) with a score trend.
+- OMR answer card, keyboard shortcuts (1–5, ← →, F, G, Enter, ?), two layouts
+  (one question per screen / continuous booklet), KO/EN interface labels, dark mode.
+
+Everything is stored in `localStorage` (attempts autosave on every change). There is no backend.
+
+## Development
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+npm run dev        # http://localhost:3000
+npm run build      # static build; every round is prerendered
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Deploy on Vercel with zero configuration (framework preset: Next.js).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Data pipeline
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The app reads `data/exams/{round}.json` and `public/exams/{round}/*.webp`, both generated from
+the PDFs (question booklet 문제지 + answer key 정답표 per round) and committed to the repo.
+To regenerate them you need the PDFs and macOS:
 
-## Learn More
+```bash
+npm run data:list                      # show the round → booklet/answer-key mapping
+npm run data                           # all rounds
+.venv/bin/python scripts/build_data.py --rounds 77,79 --src "/path/to/pdfs"
+```
 
-To learn more about Next.js, take a look at the following resources:
+By default the PDFs are read from `../Questions & awnsers` (never modified).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+How it works (`scripts/build_data.py`, Python + PyMuPDF):
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. **Answer keys** are parsed into answer + points and validated: exactly 50 questions, answers
+   1–5, points 1–3 summing to 100. An invalid key stops the run with a report.
+2. **Booklets**: 6 rounds have a text layer; 5 (69, 73, 74, 78, 79) have their text converted to
+   vector outlines, so they are OCR'd with Apple Vision (`scripts/ocr.swift`, Korean) — Tesseract
+   produced unusable Korean in tests.
+3. Questions are located by their `N.` headers in the two-column layout. For each question the
+   stem and the five options are extracted as text; the material (사료, maps, photos) is cropped
+   as a WebP image whose alt text is the extracted text; the whole question is also cropped as
+   `fallbackImage`. When options can't be parsed (e.g. picture or timeline options), the app
+   shows the original question image with ①–⑤ buttons.
+4. The `[N점]` tag printed in the booklet is cross-checked against the answer key.
+5. `reports/review-report.md` lists questions that used the fallback or look suspicious.
 
-## Deploy on Vercel
+Editable files (rerun the pipeline after editing):
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- `data/era-map.json` — era tag per question (선사·고조선 … 현대), used for the era breakdown and
+  notebook filter. Empty by default; no tags are guessed.
+- `data/rounds-meta.json` — exam date per round.

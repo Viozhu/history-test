@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# pipeline
+/.venv/
+/.cache/
+
+# agent tooling state
+.omc/
+__pycache__/
