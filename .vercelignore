@@ -1,0 +1,3 @@
+# Local data pipeline (needs macOS + the source PDFs); not part of the deployed site.
+scripts/
+reports/
