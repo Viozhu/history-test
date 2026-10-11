@@ -1,3 +1,7 @@
 # Local data pipeline (needs macOS + the source PDFs); not part of the deployed site.
-scripts/
+# scripts/check_explanations.mjs and scripts/lib/ must ship: `prebuild` runs them.
+scripts/build_data.py
+scripts/test_build_data.py
+scripts/ocr.swift
+scripts/requirements.txt
 reports/
