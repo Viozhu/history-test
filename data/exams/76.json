@@ -31,7 +31,8 @@
     "주로 동굴이나 강가의 막집에 거주하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "선사·고조선",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q01.webp",
     "width": 893,
@@ -65,7 +66,8 @@
     "화백 회의에서 국가의 중대사를 결정하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "선사·고조선",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q02.webp",
     "width": 893,
@@ -99,7 +101,8 @@
     "(다) - (가) - (나)"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q03.webp",
     "width": 895,
@@ -133,7 +136,8 @@
     ""
    ],
    "optionsAreImages": true,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q04.webp",
     "width": 895,
@@ -167,7 +171,8 @@
     "특수 행정 구역인 소에서 여러 물품을 생산하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q05.webp",
     "width": 893,
@@ -201,7 +206,8 @@
     "국호를 마진으로 바꾸고 도읍을 철원으로 옮겼다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q06.webp",
     "width": 893,
@@ -235,7 +241,8 @@
     "신편제종교장총록을 편찬하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q07.webp",
     "width": 895,
@@ -269,7 +276,8 @@
     "골품에 따라 관등 승진, 일상생활 등을 엄격히 제한하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q08.webp",
     "width": 895,
@@ -303,7 +311,8 @@
     "김춘추가 당으로 건너가 군사적 지원을 요청하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q09.webp",
     "width": 893,
@@ -337,7 +346,8 @@
     "경애왕이 후백제군의 왕경 습격으로 사망하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q10.webp",
     "width": 893,
@@ -371,7 +381,8 @@
     "외국어 교육과 통역을 관장하는 통문관을 설치하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q11.webp",
     "width": 893,
@@ -405,7 +416,8 @@
     "오월에 사신을 보내고 검교태보의 직을 받았다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q12.webp",
     "width": 895,
@@ -439,7 +451,8 @@
     "주전도감을 설치하여 해동통보를 발행하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q13.webp",
     "width": 895,
@@ -473,7 +486,8 @@
     "(다) - (가) - (나)"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q14.webp",
     "width": 893,
@@ -507,7 +521,8 @@
     "최무선이 화포를 이용하여 왜구를 물리친 곳을 알아본다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q15.webp",
     "width": 893,
@@ -541,7 +556,8 @@
     "철령위 설치에 반발하여 요동 정벌을 추진하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q16.webp",
     "width": 895,
@@ -575,7 +591,8 @@
     ""
    ],
    "optionsAreImages": true,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q17.webp",
     "width": 895,
@@ -609,7 +626,8 @@
     "망이·망소이가 가혹한 수탈에 저항하여 봉기하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q18.webp",
     "width": 893,
@@ -643,7 +661,8 @@
     "군정, 재정의 내용을 정리한 만기요람이 만들어졌다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q19.webp",
     "width": 893,
@@ -677,7 +696,8 @@
     "조의제문이 발단이 되어 김일손 등이 피해를 입었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q20.webp",
     "width": 895,
@@ -711,7 +731,8 @@
     "김준룡이 광교산 전투에서 항전하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q21.webp",
     "width": 895,
@@ -745,7 +766,8 @@
     "사초와 시정기를 바탕으로 실록을 편찬하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q22.webp",
     "width": 893,
@@ -779,7 +801,8 @@
     "관청에 물품을 조달하는 공인이 등장한 배경을 조사한다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q23.webp",
     "width": 893,
@@ -813,7 +836,8 @@
     "우서에서 사농공상의 직업적 평등과 전문화를 강조하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q24.webp",
     "width": 893,
@@ -847,7 +871,8 @@
     "한성 방어를 위하여 총융청과 수어청을 창설하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q25.webp",
     "width": 895,
@@ -881,7 +906,8 @@
     "저잣거리에서 한글 소설을 읽어주는 전기수"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q26.webp",
     "width": 895,
@@ -915,7 +941,8 @@
     ""
    ],
    "optionsAreImages": true,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q27.webp",
     "width": 893,
@@ -949,7 +976,8 @@
     "(마)"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q28.webp",
     "width": 893,
@@ -983,7 +1011,8 @@
     "한성근 부대가 문수산성에서 항전하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q29.webp",
     "width": 895,
@@ -1017,7 +1046,8 @@
     "외국인을 재정 고문으로 두도록 하는 조항을 담고 있다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q30.webp",
     "width": 895,
@@ -1051,7 +1081,8 @@
     "상황 수습을 위해 박규수가 안핵사로 파견되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q31.webp",
     "width": 893,
@@ -1085,7 +1116,8 @@
     "계몽 서적을 보급하기 위해 태극 서관을 운영하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q32.webp",
     "width": 893,
@@ -1119,7 +1151,8 @@
     "개혁의 방향을 제시한 홍범 14조를 반포하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q33.webp",
     "width": 895,
@@ -1153,7 +1186,8 @@
     "ㄷ, ㄹ"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q34.webp",
     "width": 895,
@@ -1187,7 +1221,8 @@
     "이상설, 고종의 특사로 헤이그에 가다"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q35.webp",
     "width": 893,
@@ -1221,7 +1256,8 @@
     "경성 고무 여자 직공 조합의 파업을 취재하는 기자"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q36.webp",
     "width": 893,
@@ -1255,7 +1291,8 @@
     "조선 민립 대학 기성회 창립을 위한 총회가 개최되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q37.webp",
     "width": 895,
@@ -1289,7 +1326,8 @@
     "조선 총독부에 국권 반환 요구서를 제출하고자 하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q38.webp",
     "width": 895,
@@ -1323,7 +1361,8 @@
     "강주룡이 을밀대 지붕에서 고공 농성을 벌였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q39.webp",
     "width": 893,
@@ -1357,7 +1396,8 @@
     "최초의 여성 권리 선언문인 여권통문을 발표하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q40.webp",
     "width": 893,
@@ -1391,7 +1431,8 @@
     "임시 사료 편찬회를 두어 한일 관계 사료집을 간행하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q41.webp",
     "width": 895,
@@ -1425,7 +1466,8 @@
     "동양 척식 주식회사가 설립되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q42.webp",
     "width": 895,
@@ -1459,7 +1501,8 @@
     "모던 걸, 전통적 여성상을 탈피한 신여성의 등장"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q43.webp",
     "width": 893,
@@ -1493,7 +1536,8 @@
     "조선 인민 공화국 수립이 선포된 후 해산하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q44.webp",
     "width": 893,
@@ -1527,7 +1571,8 @@
     "진상 규명과 희생자 명예 회복을 위한 특별법이 제정되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q45.webp",
     "width": 895,
@@ -1561,7 +1606,8 @@
     "(마) - 이황과 사단칠정 논쟁을 한 인물을 검색한다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q46.webp",
     "width": 895,
@@ -1595,7 +1641,8 @@
     "(다) - (가) - (나)"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q47.webp",
     "width": 893,
@@ -1629,7 +1676,8 @@
     "외환 위기 극복을 위한 금 모으기 운동에 동참하는 시민"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q48.webp",
     "width": 893,
@@ -1663,7 +1711,8 @@
     "최초로 남북 이산가족 고향 방문단 교환이 이루어졌다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q49.webp",
     "width": 895,
@@ -1697,7 +1746,8 @@
     "(마) - 전제 군주제를 명문화한 대한국 국제를 반포하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/76/q50.webp",
     "width": 895,

@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function ExamPage({ params }: Props) {
   const { round } = await params;
-  const exam = getExam(round);
+  const exam = getExam(round, { explanations: false });
   if (!exam) notFound();
   // Most sessions open on question 1: fetch its image before hydration (it is the LCP).
   const first = exam.questions[0];

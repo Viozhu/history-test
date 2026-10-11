@@ -47,3 +47,6 @@ next-env.d.ts
 # agent tooling state
 .omc/
 __pycache__/
+
+# local agent workspaces
+/.superpowers/

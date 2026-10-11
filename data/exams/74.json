@@ -31,7 +31,8 @@
     "거푸집을 이용하여 세형 동검을 제작하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "선사·고조선",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q01.webp",
     "width": 893,
@@ -65,7 +66,8 @@
     "왕 아래 상, 대부, 장군 등의 관직을 두었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "선사·고조선",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q02.webp",
     "width": 893,
@@ -99,7 +101,8 @@
     "황룡사 구층 목탑의 축조를 건의하는 승려"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q03.webp",
     "width": 895,
@@ -133,7 +136,8 @@
     "신라가 한강 하류를 차지하여 신주를 설치하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q04.webp",
     "width": 895,
@@ -167,7 +171,8 @@
     "왕족인 부여씨와 8성 귀족이 지배층을 이루었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q05.webp",
     "width": 893,
@@ -201,7 +206,8 @@
     "지방관을 감찰하고자 외사정을 파견하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q06.webp",
     "width": 893,
@@ -235,7 +241,8 @@
     "서적 관리, 주요 문서 작성 등을 위해 문적원을 두었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q07.webp",
     "width": 895,
@@ -269,7 +276,8 @@
     "인내천 사상을 내세워 인간 평등을 주장하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q08.webp",
     "width": 895,
@@ -303,7 +311,8 @@
     "구법순례기인 왕오천축국전을 저술하다"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q09.webp",
     "width": 893,
@@ -337,7 +346,8 @@
     "견훤이 고창 전투에서 고려군에게 패배하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q10.webp",
     "width": 893,
@@ -371,7 +381,8 @@
     "관리에게 등급에 따라 전지와 시지를 지급하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q11.webp",
     "width": 895,
@@ -405,7 +416,8 @@
     "윤관이 별무반을 이끌고 동북 9성을 개척하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q12.webp",
     "width": 895,
@@ -432,7 +444,8 @@
     ""
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q13.webp",
     "width": 893,
@@ -466,7 +479,8 @@
     "(다)- (가) - (나)"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q14.webp",
     "width": 893,
@@ -500,7 +514,8 @@
     "국산 약재와 치료 방법을 정리한 향약집성방이 간행되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q15.webp",
     "width": 895,
@@ -534,7 +549,8 @@
     "성상융회를 제창하여 교종 내 대립을 해소하고자 하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q16.webp",
     "width": 895,
@@ -568,7 +584,8 @@
     "상평통보로 물건을 거래하는 보부상"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q17.webp",
     "width": 895,
@@ -595,7 +612,8 @@
     ""
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q18.webp",
     "width": 893,
@@ -622,7 +640,8 @@
     ""
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q19.webp",
     "width": 893,
@@ -656,7 +675,8 @@
     "혼일강리역대국도지도가 제작되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q20.webp",
     "width": 895,
@@ -690,7 +710,8 @@
     "국방 문제를 논의하기 위한 임시 기구로 비변사가 설치되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q21.webp",
     "width": 895,
@@ -724,7 +745,8 @@
     "붕당의 폐해를 경계하기 위해 탕평비가 건립되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q22.webp",
     "width": 895,
@@ -758,7 +780,8 @@
     "예학을 조선의 현실에 맞게 정리한 가례집람을 저술하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q23.webp",
     "width": 893,
@@ -792,7 +815,8 @@
     "각 궁방과 중앙 관서의 공노비 6만여 명을 해방하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q24.webp",
     "width": 893,
@@ -826,7 +850,8 @@
     "전개 과정에서 이승훈, 정약용 등이 연루되어 처벌되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q25.webp",
     "width": 895,
@@ -860,7 +885,8 @@
     "호랑이를 소재로 민화를 그리는 화가"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q26.webp",
     "width": 895,
@@ -894,7 +920,8 @@
     "시장을 관리하기 위한 동시전이 설치되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q27.webp",
     "width": 893,
@@ -928,7 +955,8 @@
     "헤이그 특사가 파견되는 원인을 살펴본다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q28.webp",
     "width": 893,
@@ -962,7 +990,8 @@
     "(마) - 백정 출신으로 관민 공동회에서 연설하다"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q29.webp",
     "width": 895,
@@ -996,7 +1025,8 @@
     "개혁의 방향을 제시한 홍범 14조를 반포하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q30.webp",
     "width": 895,
@@ -1030,7 +1060,8 @@
     "외규장각 도서가 약탈된 배경을 찾아본다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q31.webp",
     "width": 893,
@@ -1064,7 +1095,8 @@
     "유인석이 이끄는 부대가 충주성을 점령하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q32.webp",
     "width": 893,
@@ -1098,7 +1130,8 @@
     "대조선 국민군단을 결성하고 군사 훈련을 실시하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q33.webp",
     "width": 895,
@@ -1132,7 +1165,8 @@
     "어린이날 기념 행사에 참여하는 천도교 소년회 회원"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q34.webp",
     "width": 895,
@@ -1166,7 +1200,8 @@
     "(마)"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q35.webp",
     "width": 893,
@@ -1200,7 +1235,8 @@
     "성진회와 각 학교 독서회에 의해 전국적으로 확산되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q36.webp",
     "width": 893,
@@ -1234,7 +1270,8 @@
     "조선 총독부에 국권 반환 요구서를 제출하려 하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q37.webp",
     "width": 895,
@@ -1268,7 +1305,8 @@
     "도쿄에서 일어난 이봉창 의거를 계획하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q38.webp",
     "width": 895,
@@ -1302,7 +1340,8 @@
     "민족을 역사 서술의 중심에 둔 독사신론을 집필하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q39.webp",
     "width": 893,
@@ -1336,7 +1375,8 @@
     "새마을 운동, 근면 · 자조· 협동을 기치로 내세우다"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q40.webp",
     "width": 893,
@@ -1370,7 +1410,8 @@
     "(마) - 교민들을 중심으로 흥사단이 창립되다"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q41.webp",
     "width": 895,
@@ -1404,7 +1445,8 @@
     "한국 독립당의 군사 조직으로 북만주 지역에서 활약하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q42.webp",
     "width": 895,
@@ -1438,7 +1480,8 @@
     "조선 민립 대학 기성회가 창립되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q43.webp",
     "width": 893,
@@ -1472,7 +1515,8 @@
     "진상 규명 및 희생자 명예 회복에 관한 특별법이 제정되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q44.webp",
     "width": 893,
@@ -1506,7 +1550,8 @@
     "국가 보위 비상 대책 위원회가 구성되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q45.webp",
     "width": 895,
@@ -1540,7 +1585,8 @@
     "야당 총재의 국회의원직 제명으로 촉발되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q46.webp",
     "width": 895,
@@ -1574,7 +1620,8 @@
     "평화 통일론을 주장한 진보당의 조봉암이 처형되었습니다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q47.webp",
     "width": 893,
@@ -1608,7 +1655,8 @@
     "대통령 직속 자문 기구로 노사정 위원회가 출범하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q48.webp",
     "width": 893,
@@ -1642,7 +1690,8 @@
     "남북 간 경제 교류 활성화를 위한 개성 공단 착공식을 열었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q49.webp",
     "width": 895,
@@ -1676,7 +1725,8 @@
     "a - 대한 제국 수립 이후 개혁의 일환으로 처음 단행되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/74/q50.webp",
     "width": 895,

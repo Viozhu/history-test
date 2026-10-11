@@ -294,6 +294,42 @@ def build_regions(pages: list[list[Line]], headers: list[Header]) -> list[Questi
     return qs
 
 
+# "[47~48] 다음을 읽고 물음에 답하시오." — OCR may read the closing bracket as 」 or ).
+GROUP_RE = re.compile(r"^\s*[\[［(]?\s*(\d{1,2})\s*[~∼～\-]\s*(\d{1,2})\s*[\]］」)]")
+
+
+@dataclass
+class Shared:
+    """Material printed once above a group of questions ("[47~48] …"), outside every question region."""
+
+    first: int
+    last: int
+    page: int
+    col: int
+    top: float
+    bottom: float
+    lines: list[Line]  # material lines, instruction line excluded
+
+
+def find_shared_blocks(pages: list[list[Line]], headers: list[Header]) -> list[Shared]:
+    out = []
+    for pno, lines in enumerate(pages):
+        for l in lines:
+            m = GROUP_RE.match(l.text)
+            col = col_of(l)
+            if not m or col is None or not ("답하시오" in l.text or "물음" in l.text):
+                continue
+            below = [h.line.y0 for h in headers if h.page == pno and h.col == col and h.line.y0 > l.y0]
+            top, bottom = l.y0 - 4, (min(below) - 6) if below else CONTENT_BOTTOM
+            cx0, cx1 = COLS[col]
+            inside = [
+                o for o in lines if o is not l and cx0 - 8 <= o.x0 < cx1 and top <= (o.y0 + o.y1) / 2 <= bottom
+            ]
+            inside.sort(key=lambda o: (round(o.y0 / 4), o.x0))
+            out.append(Shared(int(m.group(1)), int(m.group(2)), pno, col, top, bottom, inside))
+    return out
+
+
 def split_markers(text: str) -> list[tuple[int, str]]:
     """'① ㄱ, ㄴ ② ㄱ, ㄷ' -> [(1,'ㄱ, ㄴ'), (2,'ㄱ, ㄷ')]; text before the first marker gets 0."""
     parts: list[tuple[int, str]] = []
@@ -453,6 +489,14 @@ def process_round(round_no: int, files: dict[str, Path], eras: dict, meta: dict)
     if img_dir.exists():
         shutil.rmtree(img_dir)
     round_eras = eras.get(str(round_no), {})
+    shared_by_q: dict[int, dict] = {}
+    for sb in find_shared_blocks(pages, headers):
+        cx0, cx1 = COLS[sb.col]
+        text = "\n".join(l.text for l in sb.lines) or None
+        img = save_crop(doc[sb.page], pymupdf.Rect(cx0 - 6, sb.top, cx1 + 4, sb.bottom), img_dir / f"s{sb.first:02d}-{sb.last:02d}.webp")
+        img["alt"] = f"{sb.first}~{sb.last}번 공통 자료" + (f": {text[:300]}" if text else "")
+        for n in range(sb.first, sb.last + 1):
+            shared_by_q[n] = {"range": [sb.first, sb.last], "image": img, "passage": text}
     questions, review = [], []
     for q in regions:
         page = doc[q.page]
@@ -517,6 +561,7 @@ def process_round(round_no: int, files: dict[str, Path], eras: dict, meta: dict)
             "options": opts.texts if (opts and not use_fallback) else ["", "", "", "", ""],
             "optionsAreImages": bool(opts and opts.pictures),
             "era": era,
+            "shared": shared_by_q.get(n),
             "fallbackImage": {**full, "alt": f"{n}번 문항 원본"},
             "useFallback": use_fallback,
             "source": source,

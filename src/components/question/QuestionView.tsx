@@ -4,6 +4,7 @@
 import { useState } from "react";
 import { usePrefs } from "@/lib/prefs";
 import type { Choice, ImageRef, Question } from "@/lib/types";
+import { Explanation } from "./Explanation";
 import { Lightbox } from "./Lightbox";
 
 export const MARKERS = ["①", "②", "③", "④", "⑤"] as const;
@@ -17,6 +18,8 @@ export interface QuestionViewProps {
   onSelect?: (choice: Choice | null) => void;
   /** When set, show the correct answer and mark `selected` right/wrong. */
   reveal?: boolean;
+  /** Show the explanation (when revealed) collapsed in a <details>. */
+  collapseExplanation?: boolean;
   /** Shown before the number, e.g. the round in mixed review sessions. */
   label?: string;
   /** Heading level for the question header (default h2). */
@@ -31,6 +34,7 @@ export function QuestionView({
   selected,
   onSelect,
   reveal = false,
+  collapseExplanation = false,
   label,
   headingLevel = "h2",
   priority = false,
@@ -59,6 +63,14 @@ export function QuestionView({
       </header>
 
       <div className="mt-3 space-y-3">
+        {q.shared && (
+          <figure className="space-y-1.5">
+            <figcaption className="font-sans text-xs font-medium text-ink-soft">
+              {t.sharedMaterial(q.shared.range[0], q.shared.range[1])}
+            </figcaption>
+            <Figure image={q.shared.image} onZoom={setZoom} priority={priority} />
+          </figure>
+        )}
         {showOriginal ? (
           <Figure image={q.fallbackImage} onZoom={setZoom} priority={priority} />
         ) : (
@@ -107,6 +119,16 @@ export function QuestionView({
           />
         ))}
       </div>
+
+      {reveal && q.explanation && (
+        <Explanation
+          explanation={q.explanation}
+          answer={q.answer}
+          mine={selected}
+          collapsed={collapseExplanation}
+          headingLevel={headingLevel === "h2" ? "h3" : "h4"}
+        />
+      )}
 
       <Lightbox image={zoom} onClose={() => setZoom(null)} />
     </article>

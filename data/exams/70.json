@@ -31,7 +31,8 @@
     "가락바퀴와 뼈바늘을 사용하여 옷을 만들기 시작하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "선사·고조선",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q01.webp",
     "width": 893,
@@ -65,7 +66,8 @@
     "제가 회의에서 나라의 중대사를 결정하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "선사·고조선",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q02.webp",
     "width": 893,
@@ -99,7 +101,8 @@
     "신라가 왜를 격퇴하기 위해 고구려에 군사를 청하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q03.webp",
     "width": 895,
@@ -133,7 +136,8 @@
     "이문진이 유기를 간추린 신집 5권을 편찬하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q04.webp",
     "width": 895,
@@ -167,7 +171,8 @@
     "주요 경전의 이름이 새겨진 임신서기석이 만들어졌습니다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q05.webp",
     "width": 893,
@@ -201,7 +206,8 @@
     "화엄일승법계도를 지어 화엄 사상을 정리하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q06.webp",
     "width": 893,
@@ -235,7 +241,8 @@
     "상수리 제도를 시행하여 지방 세력을 견제하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q07.webp",
     "width": 893,
@@ -269,7 +276,8 @@
     "국왕에게 조언하는 내용의 화왕계를 저술하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q08.webp",
     "width": 895,
@@ -303,7 +311,8 @@
     "(마)"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q09.webp",
     "width": 895,
@@ -337,7 +346,8 @@
     "흑치상지, 임존성에서 부흥군을 이끌다"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q10.webp",
     "width": 893,
@@ -371,7 +381,8 @@
     "설점수세제를 시행하여 민간의 광산 개발을 허용하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q11.webp",
     "width": 893,
@@ -405,7 +416,8 @@
     "(마) - 보현십원가를 지어 불교 교리를 대중에게 전파하다"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q12.webp",
     "width": 895,
@@ -439,7 +451,8 @@
     "정계와 계백료서를 지어 관리의 규범을 제시하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q13.webp",
     "width": 895,
@@ -473,7 +486,8 @@
     "이성계 등 신흥 무인 세력이 성장하는 과정을 조사한다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q14.webp",
     "width": 893,
@@ -507,7 +521,8 @@
     "이자겸과 척준경이 반란을 일으켜 궁궐을 불태웠다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q15.webp",
     "width": 893,
@@ -541,7 +556,8 @@
     "기근에 대비하기 위하여 구황촬요가 간행되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q16.webp",
     "width": 895,
@@ -575,7 +591,8 @@
     "붕당의 폐해를 경계하기 위한 탕평비를 건립하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q17.webp",
     "width": 895,
@@ -609,7 +626,8 @@
     "외교 담판을 통해 강동 6주를 획득하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q18.webp",
     "width": 893,
@@ -643,7 +661,8 @@
     "수조권이 세습되던 수신전과 휼양전이 폐지되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q19.webp",
     "width": 893,
@@ -677,7 +696,8 @@
     "인현 왕후가 폐위되고 남인이 권력을 차지한 사건을 알아본다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q20.webp",
     "width": 895,
@@ -711,7 +731,8 @@
     "제한된 범위의 무역을 허용한 계해약조가 체결되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q21.webp",
     "width": 895,
@@ -745,7 +766,8 @@
     "(마) - 무구정광대다라니경이 발견된 삼층 석탑이 있다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q22.webp",
     "width": 893,
@@ -779,7 +801,8 @@
     "ㄷ, ㄹ"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q23.webp",
     "width": 893,
@@ -813,7 +836,8 @@
     "삼정의 문란을 시정하기 위한 삼정이정청이 설치되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q24.webp",
     "width": 895,
@@ -847,7 +871,8 @@
     "담배, 인삼 등 상품 작물을 재배하는 농민"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q25.webp",
     "width": 895,
@@ -881,7 +906,8 @@
     "10리마다 눈금을 표시한 대동여지도를 완성하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q26.webp",
     "width": 893,
@@ -915,7 +941,8 @@
     ""
    ],
    "optionsAreImages": true,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q27.webp",
     "width": 893,
@@ -949,7 +976,8 @@
     "황사영이 외국 군대의 출병을 요청하는 백서를 작성하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q28.webp",
     "width": 895,
@@ -983,7 +1011,8 @@
     "부산, 원산, 인천이 개항되는 결과를 가져왔다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q29.webp",
     "width": 895,
@@ -1017,7 +1046,8 @@
     "구식 군인에 대한 차별 대우가 발단이 되어 일어났다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q30.webp",
     "width": 893,
@@ -1051,7 +1081,8 @@
     "태종이 도읍을 한양으로 다시 옮기며 건립하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q31.webp",
     "width": 893,
@@ -1085,7 +1116,8 @@
     "의병 부대가 연합하여 서울 진공 작전을 전개하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q32.webp",
     "width": 895,
@@ -1119,7 +1151,8 @@
     "근대 학문을 가르치는 한성 사범 학교 교사"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q33.webp",
     "width": 895,
@@ -1153,7 +1186,8 @@
     "흥사단이 창립되어 교민들에게 민족의식을 심어주고자 하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q34.webp",
     "width": 893,
@@ -1187,7 +1221,8 @@
     "시위를 준비하는 과정에서 사회주의자들이 대거 검거되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q35.webp",
     "width": 893,
@@ -1221,7 +1256,8 @@
     "황국 신민 서사의 암송을 강요하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q36.webp",
     "width": 895,
@@ -1255,7 +1291,8 @@
     "무장 투쟁을 전개하기 위해 중광단을 조직하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q37.webp",
     "width": 895,
@@ -1289,7 +1326,8 @@
     "(다) - (가) - (나)"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q38.webp",
     "width": 893,
@@ -1323,7 +1361,8 @@
     "카프(KAPF)를 형성하여 활동하는 신경향파 작가"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q39.webp",
     "width": 893,
@@ -1357,7 +1396,8 @@
     "조선 사상범 예방 구금령을 시행하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q40.webp",
     "width": 895,
@@ -1391,7 +1431,8 @@
     "새로운 국가 건설을 위한 이념으로 삼균주의를 주장하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q41.webp",
     "width": 895,
@@ -1425,7 +1466,8 @@
     "(마)"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q42.webp",
     "width": 893,
@@ -1459,7 +1501,8 @@
     "‌\u0007남북 관계 발전과 평화 번영을 위한 10·4 남북 정상 선언에 서명하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q43.webp",
     "width": 893,
@@ -1493,7 +1536,8 @@
     "유상 매수, 유상 분배를 규정한 농지 개혁법이 제정되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q44.webp",
     "width": 895,
@@ -1527,7 +1571,8 @@
     "(가), (나) - 6월 민주 항쟁 이후에 제정되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q45.webp",
     "width": 895,
@@ -1561,7 +1606,8 @@
     "원조 물자를 가공하는 삼백 산업이 발달하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q46.webp",
     "width": 895,
@@ -1595,7 +1641,8 @@
     "중학교 입시 제도가 폐지되고 무시험 추첨제가 실시되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q47.webp",
     "width": 893,
@@ -1629,7 +1676,8 @@
     "㉤ - 구제도감을 두어 백성을 구호하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q48.webp",
     "width": 893,
@@ -1663,7 +1711,8 @@
     "37년 만에 야간 통행 금지가 해제되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q49.webp",
     "width": 895,
@@ -1697,7 +1746,8 @@
     "ㄷ, ㄹ"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/70/q50.webp",
     "width": 895,

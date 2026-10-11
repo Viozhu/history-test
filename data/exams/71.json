@@ -31,7 +31,8 @@
     "빗살무늬 토기를 만들어 식량을 저장하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "선사·고조선",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q01.webp",
     "width": 893,
@@ -65,7 +66,8 @@
     "사회 질서를 유지하기 위해 범금 8조를 만들었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "선사·고조선",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q02.webp",
     "width": 893,
@@ -99,7 +101,8 @@
     "지방에 22담로를 두어 왕족을 파견하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q03.webp",
     "width": 895,
@@ -133,7 +136,8 @@
     "풍수지리 사상이 반영된 송악명당기를 저술하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q04.webp",
     "width": 895,
@@ -167,7 +171,8 @@
     "(다) - (나) - (가)"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q05.webp",
     "width": 893,
@@ -201,7 +206,8 @@
     "김흠돌의 난을 진압하고 귀족들을 숙청하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q06.webp",
     "width": 893,
@@ -235,7 +241,8 @@
     ""
    ],
    "optionsAreImages": true,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q07.webp",
     "width": 895,
@@ -269,7 +276,8 @@
     "연개소문이 정변을 일으켜 영류왕을 시해하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q08.webp",
     "width": 895,
@@ -303,7 +311,8 @@
     "(마)"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q09.webp",
     "width": 893,
@@ -337,7 +346,8 @@
     "설점수세제의 시행으로 민간의 광산 개발이 허용되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q10.webp",
     "width": 893,
@@ -371,7 +381,8 @@
     "최충헌이 봉사 10조를 올려 시정 개혁을 건의하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q11.webp",
     "width": 893,
@@ -405,7 +416,8 @@
     "정계와 계백료서를 지어 관리의 규범을 제시하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q12.webp",
     "width": 895,
@@ -439,7 +451,8 @@
     "흥왕사에 교장도감을 두고 속장경을 편찬하였어."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q13.webp",
     "width": 895,
@@ -473,7 +486,8 @@
     "역관들이 시사(詩社)에 참여해 위항 문학 활동을 하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q14.webp",
     "width": 893,
@@ -507,7 +521,8 @@
     "신기군, 신보군, 항마군으로 구성된 별무반을 창설하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q15.webp",
     "width": 893,
@@ -541,7 +556,8 @@
     ""
    ],
    "optionsAreImages": true,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q16.webp",
     "width": 895,
@@ -575,7 +591,8 @@
     "만권당에서 조맹부, 요수 등의 문인들과 교유하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q17.webp",
     "width": 895,
@@ -609,7 +626,8 @@
     "이성계를 중심으로 한 고려군이 황산에서 왜구를 격퇴하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q18.webp",
     "width": 893,
@@ -643,7 +661,8 @@
     "성삼문 등이 상왕의 복위를 꾀하다가 처형되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q19.webp",
     "width": 893,
@@ -677,7 +696,8 @@
     "도승지를 수장으로 좌승지, 우승지 등의 관직을 두었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q20.webp",
     "width": 895,
@@ -711,7 +731,8 @@
     "조광조 등이 반정 공신의 위훈 삭제를 주장하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q21.webp",
     "width": 895,
@@ -745,7 +766,8 @@
     "김상헌 등이 남한산성에서 화의에 반대하여 항전을 주장하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q22.webp",
     "width": 893,
@@ -779,7 +801,8 @@
     "풍흉에 따라 전세를 차등 부과하는 기준을 알아본다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q23.webp",
     "width": 893,
@@ -813,7 +836,8 @@
     "정여립 모반 사건을 빌미로 기축옥사가 일어났다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q24.webp",
     "width": 895,
@@ -847,7 +871,8 @@
     "열하일기에서 수레와 선박의 사용을 강조하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q25.webp",
     "width": 895,
@@ -881,7 +906,8 @@
     "송파장에서 산대놀이 공연을 벌이는 광대"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q26.webp",
     "width": 893,
@@ -915,7 +941,8 @@
     "삼정의 문란을 해결하기 위해 삼정이정청이 설치되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q27.webp",
     "width": 893,
@@ -949,7 +976,8 @@
     "황사영이 외국 군대의 출병을 요청하는 백서를 작성하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q28.webp",
     "width": 895,
@@ -983,7 +1011,8 @@
     "톈진 조약에 따라 조선에서 철수하는 일본 군인"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q29.webp",
     "width": 895,
@@ -1017,7 +1046,8 @@
     "양반, 파계승 등을 풍자하는 내용이 담겨 있다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q30.webp",
     "width": 893,
@@ -1051,7 +1081,8 @@
     "교육의 기본 방향을 제시한 교육 입국 조서를 반포하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q31.webp",
     "width": 893,
@@ -1085,7 +1116,8 @@
     "서당 규칙을 제정하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q32.webp",
     "width": 895,
@@ -1119,7 +1151,8 @@
     "순한글판으로 발행된 최초의 신문이었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q33.webp",
     "width": 895,
@@ -1153,7 +1186,8 @@
     "독립운동 자금 마련을 위해 독립 공채를 발행하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q34.webp",
     "width": 893,
@@ -1187,7 +1221,8 @@
     "제1차 한일 협약 체결의 영향을 알아본다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q35.webp",
     "width": 893,
@@ -1221,7 +1256,8 @@
     "서전서숙과 명동 학교를 설립하여 민족 교육을 실시하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q36.webp",
     "width": 893,
@@ -1255,7 +1291,8 @@
     "서울역에서 신임 총독의 마차에 폭탄을 투척하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q37.webp",
     "width": 895,
@@ -1289,7 +1326,8 @@
     "경복궁에서 조선 물산 공진회가 최초로 개최되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q38.webp",
     "width": 895,
@@ -1323,7 +1361,8 @@
     "국가 총동원법을 제정하여 인력과 물자를 강제 동원하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q39.webp",
     "width": 893,
@@ -1357,7 +1396,8 @@
     "(마)"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q40.webp",
     "width": 893,
@@ -1391,7 +1431,8 @@
     "고율의 소작료에 반발하여 암태도 소작 쟁의가 발생하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q41.webp",
     "width": 895,
@@ -1425,7 +1466,8 @@
     "상품 광고의 새로운 장을 연 컬러텔레비전 방송"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q42.webp",
     "width": 895,
@@ -1459,7 +1501,8 @@
     "쌍성보 전투에서 한중 연합 작전을 전개하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q43.webp",
     "width": 893,
@@ -1493,7 +1536,8 @@
     "국민 징용령에 의해 강제로 동원되는 노동자"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q44.webp",
     "width": 893,
@@ -1527,7 +1571,8 @@
     "무 - ‌\u0007아우내 3·1 운동 독립 사적지를 조사하여 유관순이 우리 고장에서 만세 시위를 주도했음을 알 수 있었습니다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q45.webp",
     "width": 895,
@@ -1561,7 +1606,8 @@
     "비상계엄이 선포된 가운데 발췌 개헌안이 통과되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q46.webp",
     "width": 895,
@@ -1595,7 +1641,8 @@
     "신한 민주당이 창당 한 달 만에 제1 야당이 되는 결과를 가져왔다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q47.webp",
     "width": 893,
@@ -1629,7 +1676,8 @@
     "외환 위기 극복을 위한 금 모으기 운동이 전개되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q48.webp",
     "width": 893,
@@ -1663,7 +1711,8 @@
     "대통령이 하야하여 미국으로 망명하는 결과를 가져왔다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q49.webp",
     "width": 895,
@@ -1697,7 +1746,8 @@
     "남북 이산가족 고향 방문단의 교환을 최초로 실현하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/71/q50.webp",
     "width": 895,
