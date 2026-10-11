@@ -31,7 +31,8 @@
     "주먹도끼, 찍개 등의 뗀석기를 처음 제작하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "선사·고조선",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q01.webp",
     "width": 893,
@@ -65,7 +66,8 @@
     "국가의 중대사를 논의한 화백 회의에 대해 조사한다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "선사·고조선",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q02.webp",
     "width": 893,
@@ -99,7 +101,8 @@
     "김춘추가 당으로 건너가 군사 동맹을 체결하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q03.webp",
     "width": 895,
@@ -133,7 +136,8 @@
     "(다) - 백제 금동 대향로가 출토되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q04.webp",
     "width": 895,
@@ -167,7 +171,8 @@
     "여러 가(加)들이 별도로 사출도를 주관하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q05.webp",
     "width": 893,
@@ -201,7 +206,8 @@
     "울산항을 통한 아라비아 상인들과의 교류"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q06.webp",
     "width": 893,
@@ -235,7 +241,8 @@
     "관리 선발을 위해 독서삼품과를 시행하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q07.webp",
     "width": 893,
@@ -269,7 +276,8 @@
     "복신과 도침이 주류성에서 군사를 일으켰어요."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q08.webp",
     "width": 895,
@@ -303,7 +311,8 @@
     "광평성을 비롯한 정치 기구를 마련하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q09.webp",
     "width": 895,
@@ -337,7 +346,8 @@
     "(다) - 선종의 영향을 받아 만들어졌다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q10.webp",
     "width": 893,
@@ -371,7 +381,8 @@
     "최승로의 시무 28조를 받아들여 통치 체제를 정비하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q11.webp",
     "width": 893,
@@ -405,7 +416,8 @@
     "철령위 설치에 반발해 요동 정벌을 추진하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q12.webp",
     "width": 895,
@@ -439,7 +451,8 @@
     "9재 학당을 설립하여 유학 교육에 힘썼습니다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q13.webp",
     "width": 895,
@@ -473,7 +486,8 @@
     "(다) - (나) - (가)"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q14.webp",
     "width": 893,
@@ -507,7 +521,8 @@
     "국정을 총괄하는 기구로 교정도감이 설치되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q15.webp",
     "width": 893,
@@ -541,7 +556,8 @@
     "광산을 전문적으로 경영하는 덕대가 나타났다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q16.webp",
     "width": 895,
@@ -575,7 +591,8 @@
     ""
    ],
    "optionsAreImages": true,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q17.webp",
     "width": 895,
@@ -609,7 +626,8 @@
     "유자광의 고변을 계기로 남이를 처형하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q18.webp",
     "width": 893,
@@ -643,7 +661,8 @@
     "대사성을 수장으로 좨주, 직강 등의 관직을 두었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q19.webp",
     "width": 893,
@@ -677,7 +696,8 @@
     "이조 전랑 임명을 둘러싸고 김효원과 심의겸이 대립하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q20.webp",
     "width": 893,
@@ -711,7 +731,8 @@
     "(마)"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q21.webp",
     "width": 895,
@@ -745,7 +766,8 @@
     "관련 기록물이 세계 기록 유산에 등재되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q22.webp",
     "width": 895,
@@ -779,7 +801,8 @@
     ""
    ],
    "optionsAreImages": true,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q23.webp",
     "width": 893,
@@ -813,7 +836,8 @@
     "신립이 탄금대에서 배수의 진을 치고 전투를 벌였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q24.webp",
     "width": 893,
@@ -847,7 +871,8 @@
     "관청에 물품을 조달하는 공인이 등장하는 배경이 되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q25.webp",
     "width": 895,
@@ -881,7 +906,8 @@
     "양반의 허례와 무능을 풍자한 양반전을 지었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q26.webp",
     "width": 895,
@@ -915,7 +941,8 @@
     "설점수세제의 시행으로 민간의 광산 개발이 허용되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q27.webp",
     "width": 893,
@@ -949,7 +976,8 @@
     "한양을 기준으로 역법을 정리한 칠정산 내편을 제작하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q28.webp",
     "width": 893,
@@ -983,7 +1011,8 @@
     "ㄷ, ㄹ"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q29.webp",
     "width": 895,
@@ -1017,7 +1046,8 @@
     "청과 대등한 입장에서 한청 통상 조약이 맺어졌다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q30.webp",
     "width": 895,
@@ -1051,7 +1081,8 @@
     "청의 요청으로 나선 정벌에 조총 부대를 파견하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q31.webp",
     "width": 893,
@@ -1085,7 +1116,8 @@
     "교육 입국 조서가 반포되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q32.webp",
     "width": 893,
@@ -1119,7 +1151,8 @@
     "농민들이 조병갑의 탐학에 맞서 만석보를 파괴하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q33.webp",
     "width": 895,
@@ -1153,7 +1186,8 @@
     "봉오동 전투에서 일본군을 격퇴하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q34.webp",
     "width": 895,
@@ -1187,7 +1221,8 @@
     "지계아문을 설치하여 토지 소유자에게 지계를 발급하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q35.webp",
     "width": 893,
@@ -1221,7 +1256,8 @@
     "성진회와 각 학교 독서회에 의해 전국적으로 확산되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q36.webp",
     "width": 893,
@@ -1255,7 +1291,8 @@
     "중광단을 중심으로 조직되어 항일 독립 전쟁에 참여하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q37.webp",
     "width": 895,
@@ -1289,7 +1326,8 @@
     "(마)"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q38.webp",
     "width": 895,
@@ -1323,7 +1361,8 @@
     "브나로드 운동을 소재로 한 소설 상록수를 신문에 연재하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q39.webp",
     "width": 893,
@@ -1357,7 +1396,8 @@
     "상품 화폐 경제의 발달과 신분제의 동요"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q40.webp",
     "width": 893,
@@ -1391,7 +1431,8 @@
     "안창남의 고국 방문 비행을 환영하기 위해 상경하는 청년"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q41.webp",
     "width": 895,
@@ -1425,7 +1466,8 @@
     "㉤ - 안중근 의사가 순국한 곳이다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q42.webp",
     "width": 895,
@@ -1459,7 +1501,8 @@
     "정부 차원에서 진상 조사 보고서를 발간하고 공식 사과하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q43.webp",
     "width": 893,
@@ -1493,7 +1536,8 @@
     "유상 매수, 유상 분배 원칙의 농지 개혁법이 제정되었어요."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q44.webp",
     "width": 893,
@@ -1527,7 +1571,8 @@
     "통일 주체 국민 회의 대의원 명단을 점검하는 공무원"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q45.webp",
     "width": 895,
@@ -1561,7 +1606,8 @@
     "대통령 중심제에서 의원 내각제로 바뀌는 계기가 되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q46.webp",
     "width": 895,
@@ -1588,7 +1634,20 @@
     "(다) - (라) - (나) - (가)"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": {
+    "range": [
+     47,
+     48
+    ],
+    "image": {
+     "src": "/exams/72/s47-48.webp",
+     "width": 893,
+     "height": 1093,
+     "alt": "47~48번 공통 자료: (가) ‌\u0007㉠ 왕은 5월에 교서를 내려 문무 관료들에게 토지를 차등 있게\n주었다. …… 봄 정월에 중앙과 지방 관리들의 녹읍을 폐지하고\n해마다 조를 차등 있게 주고 이를 일정한 법으로 삼았다.\n(나) ‌\u0007처음으로 직관(職官)·산관(散官)의 각 품의 전시과를 제정하였는데,\n관품의 높고 낮은 것은 논하지 않고 다만 인품만 가지고 전시과의\n등급을 결정하였다.\n(다) ‌\u0007도평의사사에서 글을 올려 과전을 지급하는 법을 정할 것을\n청하니, 그 의견을 따랐다. 경기는 사방의 근본이므로 마땅히\n과전을 설치하여 사대부를 우대하여야 한다. 무릇 수도"
+    },
+    "passage": "(가) ‌\u0007㉠ 왕은 5월에 교서를 내려 문무 관료들에게 토지를 차등 있게\n주었다. …… 봄 정월에 중앙과 지방 관리들의 녹읍을 폐지하고\n해마다 조를 차등 있게 주고 이를 일정한 법으로 삼았다.\n(나) ‌\u0007처음으로 직관(職官)·산관(散官)의 각 품의 전시과를 제정하였는데,\n관품의 높고 낮은 것은 논하지 않고 다만 인품만 가지고 전시과의\n등급을 결정하였다.\n(다) ‌\u0007도평의사사에서 글을 올려 과전을 지급하는 법을 정할 것을\n청하니, 그 의견을 따랐다. 경기는 사방의 근본이므로 마땅히\n과전을 설치하여 사대부를 우대하여야 한다. 무릇 수도에 거주하며\n왕실을 지키는 자는 현직, 산직(散職)을 불문하고 각각 과(科)에\n따라 받게 한다.\n(라) ‌\u0007만약 그 자신이 죽고 그 아내에게 미치게 되면 수신전이라\n일컬었고, 부부가 다 죽고 그 아들에게 전해지면 휼양전이라\n일컬었으며, 만약 그 아들이 관직에 제수되더라도 그대로 그\n전지를 주고는 과전이라 일컬었는데, …… ㉡ 왕께서 이를 없애고,\n현직 관리에게 주어 직전(職田)이라 하였던 것입니다."
+   },
    "fallbackImage": {
     "src": "/exams/72/q47.webp",
     "width": 893,
@@ -1622,7 +1681,20 @@
     "ㄷ, ㄹ"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": {
+    "range": [
+     47,
+     48
+    ],
+    "image": {
+     "src": "/exams/72/s47-48.webp",
+     "width": 893,
+     "height": 1093,
+     "alt": "47~48번 공통 자료: (가) ‌\u0007㉠ 왕은 5월에 교서를 내려 문무 관료들에게 토지를 차등 있게\n주었다. …… 봄 정월에 중앙과 지방 관리들의 녹읍을 폐지하고\n해마다 조를 차등 있게 주고 이를 일정한 법으로 삼았다.\n(나) ‌\u0007처음으로 직관(職官)·산관(散官)의 각 품의 전시과를 제정하였는데,\n관품의 높고 낮은 것은 논하지 않고 다만 인품만 가지고 전시과의\n등급을 결정하였다.\n(다) ‌\u0007도평의사사에서 글을 올려 과전을 지급하는 법을 정할 것을\n청하니, 그 의견을 따랐다. 경기는 사방의 근본이므로 마땅히\n과전을 설치하여 사대부를 우대하여야 한다. 무릇 수도"
+    },
+    "passage": "(가) ‌\u0007㉠ 왕은 5월에 교서를 내려 문무 관료들에게 토지를 차등 있게\n주었다. …… 봄 정월에 중앙과 지방 관리들의 녹읍을 폐지하고\n해마다 조를 차등 있게 주고 이를 일정한 법으로 삼았다.\n(나) ‌\u0007처음으로 직관(職官)·산관(散官)의 각 품의 전시과를 제정하였는데,\n관품의 높고 낮은 것은 논하지 않고 다만 인품만 가지고 전시과의\n등급을 결정하였다.\n(다) ‌\u0007도평의사사에서 글을 올려 과전을 지급하는 법을 정할 것을\n청하니, 그 의견을 따랐다. 경기는 사방의 근본이므로 마땅히\n과전을 설치하여 사대부를 우대하여야 한다. 무릇 수도에 거주하며\n왕실을 지키는 자는 현직, 산직(散職)을 불문하고 각각 과(科)에\n따라 받게 한다.\n(라) ‌\u0007만약 그 자신이 죽고 그 아내에게 미치게 되면 수신전이라\n일컬었고, 부부가 다 죽고 그 아들에게 전해지면 휼양전이라\n일컬었으며, 만약 그 아들이 관직에 제수되더라도 그대로 그\n전지를 주고는 과전이라 일컬었는데, …… ㉡ 왕께서 이를 없애고,\n현직 관리에게 주어 직전(職田)이라 하였던 것입니다."
+   },
    "fallbackImage": {
     "src": "/exams/72/q48.webp",
     "width": 893,
@@ -1656,7 +1728,8 @@
     "사회 통합을 위한 다문화 가족 지원법이 시행되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q49.webp",
     "width": 895,
@@ -1690,7 +1763,8 @@
     ""
    ],
    "optionsAreImages": true,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/72/q50.webp",
     "width": 895,

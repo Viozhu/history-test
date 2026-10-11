@@ -31,7 +31,8 @@
     "주먹도끼, 찍개 등의 석기를 처음 제작하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "선사·고조선",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q01.webp",
     "width": 893,
@@ -65,7 +66,8 @@
     "대아찬 거칠부에게 명하여 국사를 편찬하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q02.webp",
     "width": 893,
@@ -92,7 +94,8 @@
     ""
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "선사·고조선",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q03.webp",
     "width": 895,
@@ -126,7 +129,8 @@
     "사신을 보내 중국 남조의 양과 외교 관계를 강화하다"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q04.webp",
     "width": 895,
@@ -160,7 +164,8 @@
     "미천왕이 낙랑군을 축출하여 영토를 확장하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q05.webp",
     "width": 893,
@@ -187,7 +192,8 @@
     ""
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q06.webp",
     "width": 893,
@@ -214,7 +220,8 @@
     ""
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q07.webp",
     "width": 895,
@@ -248,7 +255,8 @@
     "감자, 고구마 등을 구황 작물로 재배하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q08.webp",
     "width": 895,
@@ -282,7 +290,8 @@
     "골품에 따라 관등 승진, 일상생활 등을 엄격히 제한하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q09.webp",
     "width": 893,
@@ -316,7 +325,8 @@
     "후대 왕들이 지켜야 할 정책 방향을 담은 훈요 10조를 남겼다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q10.webp",
     "width": 893,
@@ -350,7 +360,8 @@
     "정서가 유배 중에 정과정이라는 고려 가요를 지었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q11.webp",
     "width": 895,
@@ -384,7 +395,8 @@
     "기유약조를 체결하여 일본과의 교역을 재개하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q12.webp",
     "width": 895,
@@ -418,7 +430,8 @@
     "동북 9성을 설치하고 경계를 알리는 비석을 세웠다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q13.webp",
     "width": 893,
@@ -452,7 +465,8 @@
     "무신 집권기 하층민의 반란이 발생한 배경을 파악한다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q14.webp",
     "width": 893,
@@ -479,7 +493,8 @@
     ""
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q15.webp",
     "width": 893,
@@ -506,7 +521,8 @@
     ""
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q16.webp",
     "width": 895,
@@ -540,7 +556,8 @@
     "경대승이 정중부 등을 제거하고 권력을 장악하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q17.webp",
     "width": 895,
@@ -574,7 +591,8 @@
     "교정별감이 되어 국정 전반을 장악하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "고려",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q18.webp",
     "width": 893,
@@ -608,7 +626,8 @@
     "전세를 풍흉에 따라 9등급으로 차등 부과한 이유를 알아본다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q19.webp",
     "width": 893,
@@ -642,7 +661,8 @@
     "5품 이하 관리의 임명 과정에서 서경권을 행사하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q20.webp",
     "width": 895,
@@ -676,7 +696,8 @@
     "재상 중심의 정치를 강조한 조선경국전을 저술하였어요."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q21.webp",
     "width": 895,
@@ -710,7 +731,8 @@
     "시전 상인의 특권을 축소하는 신해통공을 단행하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q22.webp",
     "width": 893,
@@ -744,7 +766,8 @@
     "국방 문제를 논의하기 위해 비변사가 처음으로 설치되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q23.webp",
     "width": 893,
@@ -778,7 +801,8 @@
     "삼남 지방의 농법을 소개한 농사직설이 편찬되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 전기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q24.webp",
     "width": 895,
@@ -812,7 +836,8 @@
     "박재혁이 경찰서에서 폭탄을 터뜨리는 의거를 일으켰다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q25.webp",
     "width": 895,
@@ -846,7 +871,8 @@
     "붕당 정치의 폐해를 막기 위해 탕평비가 건립되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q26.webp",
     "width": 895,
@@ -880,7 +906,8 @@
     "양반전을 지어 양반의 허례와 무능을 풍자하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q27.webp",
     "width": 893,
@@ -914,7 +941,8 @@
     "안동 김씨 등의 세도 정치로 매관매직이 성행하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "조선 후기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q28.webp",
     "width": 893,
@@ -948,7 +976,8 @@
     "황사영이 외국 군대의 출병을 요청하는 원인이 되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q29.webp",
     "width": 895,
@@ -982,7 +1011,8 @@
     "통리기무아문을 설치하고 그 아래에 12사를 두었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q30.webp",
     "width": 895,
@@ -1016,7 +1046,8 @@
     "지계아문을 설치하여 지계를 발급하였습니다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q31.webp",
     "width": 893,
@@ -1050,7 +1081,8 @@
     "독립운동 자금 마련을 위해 독립 공채를 발행하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q32.webp",
     "width": 893,
@@ -1084,7 +1116,8 @@
     "조선 민립 대학 기성회에서 모금 활동을 전개하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q33.webp",
     "width": 895,
@@ -1118,7 +1151,8 @@
     "관민 공동회가 개최되어 헌의 6조를 결의하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q34.webp",
     "width": 895,
@@ -1152,7 +1186,8 @@
     "ㄷ, ㄹ"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q35.webp",
     "width": 893,
@@ -1186,7 +1221,8 @@
     "조선 총독부에 국권 반환 요구서를 제출하려 하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q36.webp",
     "width": 893,
@@ -1213,7 +1249,8 @@
     ""
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q37.webp",
     "width": 895,
@@ -1247,7 +1284,8 @@
     "서울 진공 작전에 참여하는 13도 창의군 의병"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q38.webp",
     "width": 895,
@@ -1281,7 +1319,8 @@
     "정부에 비판적인 경향신문이 폐간되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q39.webp",
     "width": 893,
@@ -1315,7 +1354,8 @@
     "민족의 얼을 강조하고 조선학 운동을 주도하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q40.webp",
     "width": 893,
@@ -1349,7 +1389,8 @@
     "홍범도 부대와 연합하여 청산리에서 일본군을 격퇴하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "일제강점기",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q41.webp",
     "width": 895,
@@ -1383,7 +1424,8 @@
     "김구, 김규식 등이 남북 협상에 참여하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q42.webp",
     "width": 895,
@@ -1417,7 +1459,8 @@
     "민의원에서 통과된 법안을 심의하는 참의원 의원"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q43.webp",
     "width": 893,
@@ -1451,7 +1494,8 @@
     "여운형 등의 주도로 좌우 합작 위원회가 구성되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q44.webp",
     "width": 893,
@@ -1485,7 +1529,8 @@
     "민주화 시위 도중 대학생 강경대가 희생되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q45.webp",
     "width": 895,
@@ -1519,7 +1564,8 @@
     "저임금 노동자의 생활 안정을 위해 최저 임금법을 제정하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q46.webp",
     "width": 895,
@@ -1546,7 +1592,20 @@
     "(다)-(라)-(나)- (가)"
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "개항기",
+   "shared": {
+    "range": [
+     47,
+     48
+    ],
+    "image": {
+     "src": "/exams/69/s47-48.webp",
+     "width": 893,
+     "height": 833,
+     "alt": "47~48번 공통 자료: (가) 여덟째는 적금서당이다. 왕 6년에 보덕국 사람들로 당을 만들었다.\n금장의 색은 적이다. 아홉째는 청금서당이다. ······ 금장의 색은\n청백이다.\n(나) 응양군, 1령(6)으로 군에는 정3품의 상장군 1인과 종3품의 대장군\n1인을 두었으며, ····· 정8품의 산원 3인, 정9품의 위 20인, 대정은\n40인을 두었다.\n(다) 무위영, 절목계하본(WE TA)에 의하여 낭청 1명을 훈련도감의\n예에 따라 문신으로 추천하여 군색종사관으로 칭하고 ······ 중군은\n포장· 장어영 중군을 거친 자로 추천하여 금군별장이라 칭한다.\n(라)"
+    },
+    "passage": "(가) 여덟째는 적금서당이다. 왕 6년에 보덕국 사람들로 당을 만들었다.\n금장의 색은 적이다. 아홉째는 청금서당이다. ······ 금장의 색은\n청백이다.\n(나) 응양군, 1령(6)으로 군에는 정3품의 상장군 1인과 종3품의 대장군\n1인을 두었으며, ····· 정8품의 산원 3인, 정9품의 위 20인, 대정은\n40인을 두었다.\n(다) 무위영, 절목계하본(WE TA)에 의하여 낭청 1명을 훈련도감의\n예에 따라 문신으로 추천하여 군색종사관으로 칭하고 ······ 중군은\n포장· 장어영 중군을 거친 자로 추천하여 금군별장이라 칭한다.\n(라) 별대와 정초군의 군병을 합하여 한 영(쌀)의 제도를 만들어 본영은\n금위영이라 칭하고, 군병은 금위별대라 칭한다."
+   },
    "fallbackImage": {
     "src": "/exams/69/q47.webp",
     "width": 893,
@@ -1573,7 +1632,20 @@
     "쌍성총관부를 공격하여 철령 이북의 땅을 수복하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "삼국·남북국",
+   "shared": {
+    "range": [
+     47,
+     48
+    ],
+    "image": {
+     "src": "/exams/69/s47-48.webp",
+     "width": 893,
+     "height": 833,
+     "alt": "47~48번 공통 자료: (가) 여덟째는 적금서당이다. 왕 6년에 보덕국 사람들로 당을 만들었다.\n금장의 색은 적이다. 아홉째는 청금서당이다. ······ 금장의 색은\n청백이다.\n(나) 응양군, 1령(6)으로 군에는 정3품의 상장군 1인과 종3품의 대장군\n1인을 두었으며, ····· 정8품의 산원 3인, 정9품의 위 20인, 대정은\n40인을 두었다.\n(다) 무위영, 절목계하본(WE TA)에 의하여 낭청 1명을 훈련도감의\n예에 따라 문신으로 추천하여 군색종사관으로 칭하고 ······ 중군은\n포장· 장어영 중군을 거친 자로 추천하여 금군별장이라 칭한다.\n(라)"
+    },
+    "passage": "(가) 여덟째는 적금서당이다. 왕 6년에 보덕국 사람들로 당을 만들었다.\n금장의 색은 적이다. 아홉째는 청금서당이다. ······ 금장의 색은\n청백이다.\n(나) 응양군, 1령(6)으로 군에는 정3품의 상장군 1인과 종3품의 대장군\n1인을 두었으며, ····· 정8품의 산원 3인, 정9품의 위 20인, 대정은\n40인을 두었다.\n(다) 무위영, 절목계하본(WE TA)에 의하여 낭청 1명을 훈련도감의\n예에 따라 문신으로 추천하여 군색종사관으로 칭하고 ······ 중군은\n포장· 장어영 중군을 거친 자로 추천하여 금군별장이라 칭한다.\n(라) 별대와 정초군의 군병을 합하여 한 영(쌀)의 제도를 만들어 본영은\n금위영이라 칭하고, 군병은 금위별대라 칭한다."
+   },
    "fallbackImage": {
     "src": "/exams/69/q48.webp",
     "width": 893,
@@ -1607,7 +1679,8 @@
     "관련 기록물이 유네스코 세계 기록 유산으로 등재되었다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q49.webp",
     "width": 895,
@@ -1641,7 +1714,8 @@
     "역사 바로 세우기를 내세우며 옛 조선 총독부 건물을 철거하였다."
    ],
    "optionsAreImages": false,
-   "era": null,
+   "era": "현대",
+   "shared": null,
    "fallbackImage": {
     "src": "/exams/69/q50.webp",
     "width": 895,

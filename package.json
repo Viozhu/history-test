@@ -3,12 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "prebuild": "node scripts/check_explanations.mjs --partial",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
     "data": "[ -d .venv ] || python3 -m venv .venv; .venv/bin/pip install -q -r scripts/requirements.txt && .venv/bin/python scripts/build_data.py",
-    "data:list": ".venv/bin/python scripts/build_data.py --list"
+    "data:list": ".venv/bin/python scripts/build_data.py --list",
+    "explain:check": "node scripts/check_explanations.mjs",
+    "explain:merge": "node scripts/merge_explanations.mjs",
+    "explain:test": "node --test scripts/explanations.test.mjs",
+    "explain:eras": "node scripts/apply_eras.mjs"
   },
   "dependencies": {
     "next": "16.4.0",

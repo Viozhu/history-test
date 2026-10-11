@@ -19,6 +19,35 @@ export interface ImageRef {
   alt?: string;
 }
 
+/** Why one wrong option is wrong (data/explanations/{round}.json). */
+export interface OptionNote {
+  n: Choice;
+  why: string;
+  /** What the option actually describes, e.g. "신석기". */
+  belongsTo?: string;
+}
+
+export interface ExplanationText {
+  clues: string[];
+  identifies: string;
+  correct: string;
+  /** The four wrong options, ascending. */
+  options: OptionNote[];
+  point: string;
+}
+
+export interface Explanation {
+  ko: ExplanationText;
+  en: ExplanationText;
+}
+
+/** Material printed once for a group of questions ("[47~48] 다음을 읽고 물음에 답하시오"). */
+export interface SharedMaterial {
+  range: [number, number];
+  image: ImageRef;
+  passage: string | null;
+}
+
 export interface Question {
   id: string; // "79-01"
   round: number;
@@ -31,6 +60,8 @@ export interface Question {
   options: [string, string, string, string, string]; // "" when shown inside an image
   optionsAreImages: boolean; // options are pictures inside images[0]
   era: Era | null;
+  shared?: SharedMaterial | null; // shown above the question's own material
+  explanation?: Explanation; // merged from data/explanations at build time; absent if not written yet
   fallbackImage: ImageRef; // the whole question as printed
   useFallback: boolean; // parsing failed: render fallbackImage + ①–⑤ buttons
   source: "text" | "ocr";

@@ -262,7 +262,7 @@ function NotebookEntry({
       {open && (
         <div id={panelId} className="mt-4 border-l-2 border-rule-soft pl-3 sm:pl-5">
           {q ? (
-            <QuestionView question={q} selected={e.lastChoice} reveal label={t.round(e.round)} headingLevel="h3" />
+            <QuestionView question={q} selected={e.lastChoice} reveal collapseExplanation label={t.round(e.round)} headingLevel="h3" />
           ) : (
             <p className="text-sm text-ink-soft">{q === undefined ? l.loading : l.failed}</p>
           )}
