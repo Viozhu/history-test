@@ -58,3 +58,11 @@ test("rejects round mismatch and unknown question numbers", () => {
   assert.match(errs, /round 98 does not match 99/);
   assert.match(errs, /q7: not in exam/);
 });
+
+test("a voided question (answer null) explains all five options", () => {
+  const voided = { round: 99, questions: [{ number: 1, answer: null }] };
+  const f = { round: 99, questions: { 1: entry(null) } };
+  assert.deepEqual(validateRound(voided, f), []);
+  f.questions[1].ko.options.pop();
+  assert.match(validateRound(voided, f).join("\n"), /q1 ko: options must be \[1,2,3,4,5\]/);
+});

@@ -53,7 +53,8 @@ export interface Question {
   round: number;
   number: number; // 1–50
   points: 1 | 2 | 3;
-  answer: 1 | 2 | 3 | 4 | 5;
+  /** null = 정답 없음: voided after appeal, every candidate (blank included) gets the points. */
+  answer: Choice | null;
   stem: string;
   passage: string | null; // text of the material, used as alt text / for search
   images: ImageRef[]; // material crop (사료, maps, photos) shown under the stem

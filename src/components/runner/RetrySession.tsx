@@ -3,6 +3,7 @@
 // from several rounds. Kept in memory; the notebook itself is updated as you go.
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
+import { isCorrect } from "@/lib/grade";
 import { useHydrated, usePrefs } from "@/lib/prefs";
 import { loadRetrySet, newId } from "@/lib/storage";
 import type { Attempt, Exam, Question } from "@/lib/types";
@@ -124,7 +125,7 @@ function Loaded() {
       labelFor={(q) => t.round(q.round)}
       describe={(k) => `${k}. ${t.round(byKey[k].round)} ${byKey[k].number}번`}
       onFinish={(a) =>
-        setDone({ ok: a.order.filter((k) => a.answers[k] === byKey[k].answer).length, total: a.order.length })
+        setDone({ ok: a.order.filter((k) => isCorrect(byKey[k], a.answers[k])).length, total: a.order.length })
       }
     />
   );

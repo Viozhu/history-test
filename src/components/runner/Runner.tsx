@@ -7,7 +7,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { QuestionView } from "@/components/question/QuestionView";
 import { LangToggle, ThemeToggle } from "@/components/site/PrefsControls";
 import { recordWrong, removeWrong } from "@/lib/storage";
-import { TIME_LIMIT_MS } from "@/lib/grade";
+import { isCorrect, TIME_LIMIT_MS } from "@/lib/grade";
 import { usePrefs } from "@/lib/prefs";
 import type { Attempt, Choice, Question } from "@/lib/types";
 import { Clock } from "./Clock";
@@ -80,7 +80,7 @@ export function Runner({
   const marks = useMemo(() => {
     if (isExam) return undefined;
     const m: Record<number, "ok" | "bad"> = {};
-    for (const k of a.checked) m[k] = a.answers[k] === questions[k]?.answer ? "ok" : "bad";
+    for (const k of a.checked) m[k] = questions[k] && isCorrect(questions[k], a.answers[k]) ? "ok" : "bad";
     return m;
   }, [isExam, a.checked, a.answers, questions]);
   const allChecked = !isExam && a.checked.length === total;
@@ -190,10 +190,10 @@ export function Runner({
       const q = questions[key];
       const choice = a.answers[key];
       if (isExam || !q || !choice || checked.has(key)) return;
-      const ok = choice === q.answer;
+      const ok = isCorrect(q, choice);
       if (!ok) recordWrong(q.round, q.number, choice);
       setA((p) => ({ ...p, checked: [...p.checked, key] }));
-      setMessage(`${q.number}번: ${ok ? t.correct : `${t.incorrect}. ${t.correctAnswer} ${q.answer}`}`);
+      setMessage(`${q.number}번: ${ok ? t.correct : `${t.incorrect}. ${t.correctAnswer} ${q.answer ?? t.noAnswer}`}`);
     },
     [questions, a.answers, isExam, checked, t],
   );
@@ -287,7 +287,7 @@ export function Runner({
     const q = questions[key];
     if (!q) return null;
     const isChecked = checked.has(key);
-    const ok = isChecked && a.answers[key] === q.answer;
+    const ok = isChecked && isCorrect(q, a.answers[key]);
     const flagged = a.flags.includes(key);
     const pos = order.indexOf(key);
     return (
@@ -339,7 +339,7 @@ export function Runner({
               {ok ? t.correct : t.incorrect}
               {!ok && (
                 <span className="font-normal">
-                  · {t.correctAnswer} {q.answer}
+                  · {t.correctAnswer} {q.answer ?? t.noAnswer}
                 </span>
               )}
             </span>

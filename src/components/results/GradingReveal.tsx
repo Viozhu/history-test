@@ -3,7 +3,7 @@
 // then the score counts up, then the grade seal is stamped. Plays once per result.
 import { useEffect, useState } from "react";
 import { MARKERS } from "@/components/question/QuestionView";
-import { formatClock } from "@/lib/grade";
+import { formatClock, isCorrect } from "@/lib/grade";
 import { usePrefs } from "@/lib/prefs";
 import type { AttemptResult, Question } from "@/lib/types";
 import s from "./GradingReveal.module.css";
@@ -39,7 +39,7 @@ const L = {
     sheetTitle: "답안지 채점",
     cellHint: "번호를 누르면 문항을 볼 수 있습니다.",
     limit: "제한 시간",
-    cell: (n: number, mine: string, ok: boolean, answer: number) =>
+    cell: (n: number, mine: string, ok: boolean, answer: number | string) =>
       `${n}번, 내 답 ${mine}, ${ok ? "정답" : `오답, 정답 ${answer}번`}`,
     result: (score: number, grade: string) => `${score}점, ${grade}`,
   },
@@ -49,7 +49,7 @@ const L = {
     sheetTitle: "Graded answer sheet",
     cellHint: "Select a number to see the question.",
     limit: "limit",
-    cell: (n: number, mine: string, ok: boolean, answer: number) =>
+    cell: (n: number, mine: string, ok: boolean, answer: number | string) =>
       `Question ${n}, your answer ${mine}, ${ok ? "correct" : `incorrect, answer ${answer}`}`,
     result: (score: number, grade: string) => `${score} points, ${grade}`,
   },
@@ -182,7 +182,7 @@ export function GradingReveal({
         <ol className={`mt-3 grid grid-cols-5 gap-1.5 sm:grid-cols-10 ${phase === "mark" ? s.marking : ""}`}>
           {questions.map((q, i) => {
             const mine = r.answers[q.number];
-            const ok = mine === q.answer;
+            const ok = isCorrect(q, mine);
             const v = q.number % 2;
             const style = { "--d": `${i * STAGGER_MS}ms` } as React.CSSProperties;
             return (
@@ -190,7 +190,7 @@ export function GradingReveal({
                 <button
                   type="button"
                   onClick={() => onOpen(q.number)}
-                  aria-label={l.cell(q.number, mine ? `${mine}번` : t.blank, ok, q.answer)}
+                  aria-label={l.cell(q.number, mine ? `${mine}번` : t.blank, ok, q.answer ?? t.noAnswer)}
                   className="relative flex h-14 w-full flex-col items-center justify-center rounded-sm border border-rule-soft bg-paper-raised font-serif hover:border-ink"
                   style={style}
                 >
@@ -200,7 +200,7 @@ export function GradingReveal({
                   <span className={`text-lg leading-none ${mine ? "text-ink" : "text-ink-faint"}`}>
                     {mine ? MARKERS[mine - 1] : "–"}
                   </span>
-                  {!ok && (
+                  {!ok && q.answer && (
                     <span className={`${s.late} absolute right-1 bottom-0.5 font-serif text-[11px] leading-none text-pen`}>
                       {MARKERS[q.answer - 1]}
                     </span>

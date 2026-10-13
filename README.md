@@ -2,7 +2,7 @@
 
 An exam-faithful, fully static web app for practicing the Korean History Proficiency Test,
 advanced level (한국사능력검정시험 심화), built from the official past exams published by
-국사편찬위원회 (rounds 69–79).
+국사편찬위원회 (rounds 60–79).
 
 - **Exam mode** (`/exam/[round]`): 80-minute timer (amber < 10 min, red < 5), no feedback until
   submission, confirmation listing blank questions, auto-submit at 0, pause (marked as not
@@ -45,10 +45,13 @@ By default the PDFs are read from `../Questions & awnsers` (never modified).
 How it works (`scripts/build_data.py`, Python + PyMuPDF):
 
 1. **Answer keys** are parsed into answer + points and validated: exactly 50 questions, answers
-   1–5, points 1–3 summing to 100. An invalid key stops the run with a report.
-2. **Booklets**: 6 rounds have a text layer; 5 (69, 73, 74, 78, 79) have their text converted to
-   vector outlines, so they are OCR'd with Apple Vision (`scripts/ocr.swift`, Korean) — Tesseract
-   produced unusable Korean in tests.
+   1–5, points 1–3 summing to 100. An invalid key stops the run with a report. A question the
+   key marks 없음 (voided after appeal, e.g. 63회 42번) gets `answer: null`: every choice,
+   blank included, is graded correct, as in the real exam.
+2. **Booklets**: 7 rounds have a text layer; 13 (60, 61, 63–69, 73, 74, 78, 79) have their text
+   converted to vector outlines, so they are OCR'd with Apple Vision (`scripts/ocr.swift`, Korean)
+   — Tesseract produced unusable Korean in tests. Two page layouts exist (`Geometry` in the
+   script): 60–68 (748×1091 pt, margins alternating between odd and even pages) and 69–79.
 3. Questions are located by their `N.` headers in the two-column layout. For each question the
    stem and the five options are extracted as text; the material (사료, maps, photos) is cropped
    as a WebP image whose alt text is the extracted text; the whole question is also cropped as

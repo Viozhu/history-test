@@ -19,7 +19,8 @@ function checkText(where, x, answer, errs) {
   }
 }
 
-/** Returns error messages for one round file; [] when valid. */
+/** Returns error messages for one round file; [] when valid. A voided question (answer null)
+ * needs a note for all five options. */
 export function validateRound(exam, file, { partial = false } = {}) {
   const errs = [];
   const r = exam.round;

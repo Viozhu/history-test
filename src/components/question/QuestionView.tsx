@@ -2,6 +2,7 @@
 // Renders one question the way it is printed in the booklet: numbered header, stem,
 // material (사료/maps/photos as zoomable crops) and the five options.
 import { useState } from "react";
+import { isCorrect } from "@/lib/grade";
 import { usePrefs } from "@/lib/prefs";
 import type { Choice, ImageRef, Question } from "@/lib/types";
 import { Explanation } from "./Explanation";
@@ -113,12 +114,16 @@ export function QuestionView({
             text={compactOptions ? "" : q.options[c - 1]}
             selected={selected === c}
             correct={reveal && q.answer === c}
-            wrong={reveal && selected === c && q.answer !== c}
+            wrong={reveal && selected === c && !isCorrect(q, c)}
             disabled={!onSelect}
             onClick={() => onSelect?.(selected === c ? null : c)}
           />
         ))}
       </div>
+
+      {reveal && q.answer === null && (
+        <p className="mt-3 rounded-md bg-paper-sunk px-3 py-2 font-sans text-sm text-ink-soft">{t.voidedNote}</p>
+      )}
 
       {reveal && q.explanation && (
         <Explanation
