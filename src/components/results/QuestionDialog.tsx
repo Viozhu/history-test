@@ -3,6 +3,7 @@
 // browser, Esc closes), with prev/next navigation through the wrong answers.
 import { useEffect, useRef } from "react";
 import { MARKERS, QuestionView } from "@/components/question/QuestionView";
+import { isCorrect } from "@/lib/grade";
 import { usePrefs } from "@/lib/prefs";
 import type { AttemptResult, Exam } from "@/lib/types";
 
@@ -75,13 +76,13 @@ export function QuestionDialog({
             <p className="mb-4 flex flex-wrap gap-x-5 gap-y-1 font-sans text-sm">
               <span>
                 <span className="text-ink-faint">{t.yourAnswer}</span>{" "}
-                <strong className={mine === q.answer ? "text-ok" : "text-bad"}>
+                <strong className={isCorrect(q, mine) ? "text-ok" : "text-bad"}>
                   {mine ? MARKERS[mine - 1] : t.blank}
                 </strong>
               </span>
               <span>
                 <span className="text-ink-faint">{t.correctAnswer}</span>{" "}
-                <strong className="text-ok">{MARKERS[q.answer - 1]}</strong>
+                <strong className="text-ok">{q.answer ? MARKERS[q.answer - 1] : t.noAnswer}</strong>
               </span>
             </p>
             <QuestionView question={q} selected={mine ?? null} reveal headingLevel="h3" />

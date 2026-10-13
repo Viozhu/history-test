@@ -8,6 +8,15 @@ misread (usually ①); their text was taken by position and the stray marker str
 
 | 회차 | Source | Fallback | Flagged | OCR marker fixes |
 |---|---|---|---|---|
+| 60 | ocr | 3 | 11 | 15 |
+| 61 | ocr | 5 | 8 | 14 |
+| 62 | text | 0 | 1 | 0 |
+| 63 | ocr | 6 | 8 | 7 |
+| 64 | ocr | 5 | 10 | 19 |
+| 65 | ocr | 5 | 13 | 17 |
+| 66 | ocr | 6 | 9 | 13 |
+| 67 | ocr | 6 | 11 | 16 |
+| 68 | ocr | 6 | 8 | 15 |
 | 69 | ocr | 6 | 8 | 36 |
 | 70 | text | 0 | 1 | 0 |
 | 71 | text | 0 | 2 | 0 |
@@ -19,6 +28,112 @@ misread (usually ①); their text was taken by position and the stray marker str
 | 77 | text | 0 | 2 | 0 |
 | 78 | ocr | 5 | 9 | 36 |
 | 79 | ocr | 4 | 6 | 45 |
+
+## 60회 (ocr)
+
+- **60-06**: 4 low-confidence OCR line(s)
+- **60-10**: options not found → whole-question image fallback
+- **60-11**: options not found → whole-question image fallback
+- **60-25**: 1 low-confidence OCR line(s)
+- **60-27**: options not found → whole-question image fallback; 2 low-confidence OCR line(s)
+- **60-34**: 6 low-confidence OCR line(s)
+- **60-38**: 1 low-confidence OCR line(s)
+- **60-41**: 1 low-confidence OCR line(s)
+- **60-42**: 4 low-confidence OCR line(s)
+- **60-46**: points tag [N점] not found in the booklet
+- **60-50**: 5 low-confidence OCR line(s)
+
+## 61회 (ocr)
+
+- **61-12**: 4 low-confidence OCR line(s)
+- **61-18**: options not found → whole-question image fallback
+- **61-23**: options not found → whole-question image fallback
+- **61-28**: options not found → whole-question image fallback
+- **61-29**: options not found → whole-question image fallback
+- **61-30**: 4 low-confidence OCR line(s)
+- **61-40**: options not found → whole-question image fallback; 5 low-confidence OCR line(s)
+- **61-46**: 1 low-confidence OCR line(s)
+
+## 62회 (text)
+
+- **62-05**: picture options (options are shown inside the question image)
+
+## 63회 (ocr)
+
+- **63-04**: options not found → whole-question image fallback; 1 low-confidence OCR line(s)
+- **63-08**: 2 low-confidence OCR line(s)
+- **63-10**: options not found → whole-question image fallback; 1 low-confidence OCR line(s)
+- **63-15**: options not found → whole-question image fallback; 2 low-confidence OCR line(s)
+- **63-17**: options not found → whole-question image fallback
+- **63-20**: 2 low-confidence OCR line(s)
+- **63-40**: options not found → whole-question image fallback; 3 low-confidence OCR line(s)
+- **63-46**: options not found → whole-question image fallback
+
+## 64회 (ocr)
+
+- **64-03**: 1 low-confidence OCR line(s)
+- **64-04**: options not found → whole-question image fallback; 1 low-confidence OCR line(s)
+- **64-10**: 1 low-confidence OCR line(s)
+- **64-12**: 5 low-confidence OCR line(s)
+- **64-16**: options not found → whole-question image fallback
+- **64-24**: 1 low-confidence OCR line(s)
+- **64-27**: 2 low-confidence OCR line(s)
+- **64-30**: options not found → whole-question image fallback; 5 low-confidence OCR line(s)
+- **64-31**: options not found → whole-question image fallback; 3 low-confidence OCR line(s)
+- **64-43**: options not found → whole-question image fallback; 1 low-confidence OCR line(s)
+
+## 65회 (ocr)
+
+- **65-03**: 1 low-confidence OCR line(s)
+- **65-04**: options not found → whole-question image fallback; 1 low-confidence OCR line(s)
+- **65-08**: 2 low-confidence OCR line(s)
+- **65-09**: 1 low-confidence OCR line(s)
+- **65-11**: 2 low-confidence OCR line(s)
+- **65-17**: options not found → whole-question image fallback
+- **65-22**: options not found → whole-question image fallback
+- **65-26**: options not found → whole-question image fallback
+- **65-32**: 5 low-confidence OCR line(s)
+- **65-44**: 2 low-confidence OCR line(s)
+- **65-45**: options not found → whole-question image fallback; 1 low-confidence OCR line(s)
+- **65-47**: 4 low-confidence OCR line(s)
+- **65-49**: 1 low-confidence OCR line(s)
+
+## 66회 (ocr)
+
+- **66-03**: options not found → whole-question image fallback
+- **66-07**: points tag [N점] not found in the booklet
+- **66-11**: options not found → whole-question image fallback
+- **66-13**: options not found → whole-question image fallback; 4 low-confidence OCR line(s)
+- **66-17**: options not found → whole-question image fallback; 3 low-confidence OCR line(s)
+- **66-21**: options not found → whole-question image fallback; 4 low-confidence OCR line(s)
+- **66-45**: options not found → whole-question image fallback; 5 low-confidence OCR line(s)
+- **66-46**: 2 low-confidence OCR line(s)
+- **66-47**: 3 low-confidence OCR line(s)
+
+## 67회 (ocr)
+
+- **67-02**: options not found → whole-question image fallback; 2 low-confidence OCR line(s)
+- **67-04**: options not found → whole-question image fallback
+- **67-16**: options not found → whole-question image fallback
+- **67-18**: 2 low-confidence OCR line(s)
+- **67-19**: 3 low-confidence OCR line(s)
+- **67-26**: options not found → whole-question image fallback
+- **67-28**: 2 low-confidence OCR line(s)
+- **67-38**: points tag [N점] not found in the booklet; 3 low-confidence OCR line(s)
+- **67-41**: 1 low-confidence OCR line(s)
+- **67-47**: options not found → whole-question image fallback
+- **67-48**: options not found → whole-question image fallback; 1 low-confidence OCR line(s)
+
+## 68회 (ocr)
+
+- **68-10**: options not found → whole-question image fallback; 1 low-confidence OCR line(s)
+- **68-13**: options not found → whole-question image fallback
+- **68-31**: options not found → whole-question image fallback
+- **68-32**: options not found → whole-question image fallback; 6 low-confidence OCR line(s)
+- **68-37**: options not found → whole-question image fallback; 6 low-confidence OCR line(s)
+- **68-40**: 2 low-confidence OCR line(s)
+- **68-43**: 1 low-confidence OCR line(s)
+- **68-49**: options not found → whole-question image fallback
 
 ## 69회 (ocr)
 
@@ -61,7 +176,7 @@ misread (usually ①); their text was taken by position and the stray marker str
 - **74-18**: options not found → whole-question image fallback; 4 low-confidence OCR line(s)
 - **74-19**: options not found → whole-question image fallback; 2 low-confidence OCR line(s)
 - **74-20**: 1 low-confidence OCR line(s)
-- **74-35**: points tag [N점] not found in the booklet; 4 low-confidence OCR line(s)
+- **74-35**: 4 low-confidence OCR line(s)
 - **74-36**: 2 low-confidence OCR line(s)
 - **74-38**: 1 low-confidence OCR line(s)
 - **74-43**: 3 low-confidence OCR line(s)

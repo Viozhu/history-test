@@ -169,7 +169,7 @@ export function ResultView({ exam }: { exam: Exam }) {
                         <span className="rounded-[3px] border border-rule-soft px-1 text-ink-faint">{t.blank}</span>
                       )}
                       <span className="mx-1 text-ink-faint">→</span>
-                      <span className="text-ok">{q ? MARKERS[q.answer - 1] : ""}</span>
+                      <span className="text-ok">{q?.answer ? MARKERS[q.answer - 1] : q ? t.noAnswer : ""}</span>
                     </span>
                   </button>
                 </li>

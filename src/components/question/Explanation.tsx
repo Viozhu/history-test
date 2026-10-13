@@ -1,6 +1,7 @@
 "use client";
 // Explanation (해설) of a revealed question: clues in the material, why the keyed answer is
-// right, why each other option is wrong (the user's pick marked), and a takeaway.
+// right, why each other option is wrong (the user's pick marked), and a takeaway. For a voided
+// question (answer null) `correct` explains the annulment and all five options are listed.
 import { usePrefs } from "@/lib/prefs";
 import type { Choice, Explanation as ExplanationData } from "@/lib/types";
 import { MARKERS } from "./QuestionView";
@@ -13,7 +14,7 @@ export function Explanation({
   headingLevel,
 }: {
   explanation: ExplanationData;
-  answer: Choice;
+  answer: Choice | null;
   /** The user's choice (null = blank): tagged "your answer". */
   mine: Choice | null;
   /** Wrap in a closed <details> (notebook list). */
@@ -46,21 +47,23 @@ export function Explanation({
       <div>
         <p className={label}>✅ {t.explWhyRight}</p>
         <p className="flex items-start gap-2">
-          <span className="font-bold text-ok">{MARKERS[answer - 1]}</span>
+          <span className="font-bold text-ok">{answer ? MARKERS[answer - 1] : "–"}</span>
           <span className="flex-1 font-serif">{x.correct}</span>
-          {mine === answer && <span className="shrink-0 text-xs font-bold text-ok">◀ {t.yourAnswer}</span>}
+          {answer && mine === answer && <span className="shrink-0 text-xs font-bold text-ok">◀ {t.yourAnswer}</span>}
         </p>
       </div>
 
       <div>
-        <p className={label}>❌ {t.explWhyWrong}</p>
+        <p className={label}>{answer === null ? `🔍 ${t.explAllOptions}` : `❌ ${t.explWhyWrong}`}</p>
         <ul className="space-y-1">
           {x.options.map((o) => {
             const isMine = o.n === mine;
+            // Voided question: the user's pick was credited, so it is not marked as wrong.
+            const mineStyle = answer === null ? "border-rule-soft bg-paper-sunk" : "border-bad bg-bad-soft";
             return (
               <li
                 key={o.n}
-                className={`flex items-start gap-2 rounded-md border px-2 py-1 ${isMine ? "border-bad bg-bad-soft" : "border-transparent"}`}
+                className={`flex items-start gap-2 rounded-md border px-2 py-1 ${isMine ? mineStyle : "border-transparent"}`}
               >
                 <span className="text-ink-soft">{MARKERS[o.n - 1]}</span>
                 <span className="flex-1 font-serif">{o.why}</span>
@@ -69,7 +72,7 @@ export function Explanation({
                     {o.belongsTo}
                   </span>
                 )}
-                {isMine && mineTag}
+                {isMine && (answer === null ? <span className="shrink-0 text-xs font-bold text-ok">◀ {t.yourAnswer}</span> : mineTag)}
               </li>
             );
           })}

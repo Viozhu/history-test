@@ -44,17 +44,47 @@ ROUNDS_META = DATA / "rounds-meta.json"
 
 ERAS = ["선사·고조선", "삼국·남북국", "고려", "조선 전기", "조선 후기", "개항기", "일제강점기", "현대"]
 
-# Booklet geometry (points). Identical in every round 69–79.
-COLS = [(43.0, 354.0), (374.0, 686.0)]
-CONTENT_TOP = {0: 140.0}  # page 1 has the title block
-CONTENT_TOP_DEFAULT = 58.0
-CONTENT_BOTTOM = 958.0
 OCR_DPI = 300
 CROP_DPI = 200
 
 MARKERS = "①②③④⑤"
 CIRCLED = {c: i + 1 for i, c in enumerate(MARKERS)}
 NUM_QUESTIONS = 50
+
+
+
+@dataclass(frozen=True)
+class Geometry:
+    """Booklet layout (points): two text columns per page, content band between top and bottom."""
+
+    cols: tuple[tuple[tuple[float, float], tuple[float, float]], ...]  # by page index parity
+    top_first: float  # page 1 has the title block
+    top: float
+    bottom: float
+
+
+# Rounds 69–79: 728×1032 pages, same margins on every page.
+GEOMETRY_69 = Geometry((((43.0, 354.0), (374.0, 686.0)),), 140.0, 58.0, 958.0)
+# Rounds 60–68: 748×1091 pages whose margins alternate between odd and even pages.
+GEOMETRY_60 = Geometry((((56.0, 370.0), (385.0, 700.0)), ((46.0, 360.0), (377.0, 692.0))), 175.0, 90.0, 1005.0)
+GEOM = GEOMETRY_69
+
+
+def geometry_for(doc: pymupdf.Document) -> Geometry:
+    w = doc[0].rect.width
+    if abs(w - 748.4) < 3:
+        return GEOMETRY_60
+    if abs(w - 728.5) < 3:
+        return GEOMETRY_69
+    raise PipelineError(f"unknown booklet page width {w:.1f} pt: add a Geometry for this layout")
+
+
+def cols(page: int) -> tuple[tuple[float, float], tuple[float, float]]:
+    return GEOM.cols[page % len(GEOM.cols)]
+
+
+def content_top(page: int) -> float:
+    return GEOM.top_first if page == 0 else GEOM.top
 
 
 class PipelineError(Exception):
@@ -91,8 +121,11 @@ def discover(src: Path) -> dict[int, dict[str, Path]]:
 # --------------------------------------------------------------------------- answer key
 
 
+VOIDED = 0  # "없음": the question was annulled after appeal and every candidate gets its points
+
+
 def parse_key(path: Path) -> dict[int, tuple[int, int]]:
-    """Return {number: (answer, points)}; raises with a clear report when invalid."""
+    """Return {number: (answer, points)}, answer VOIDED for "정답 없음"; raises with a clear report when invalid."""
     page = pymupdf.open(path)[0]
     words = page.get_text("words")
     rows: list[list[tuple]] = []
@@ -109,6 +142,8 @@ def parse_key(path: Path) -> dict[int, tuple[int, int]]:
             t = w[4].strip()
             if t in CIRCLED:
                 toks.append(CIRCLED[t])
+            elif t in ("없음", "정답없음"):
+                toks.append(VOIDED)
             elif re.fullmatch(r"[0-9]{1,2}", t):  # str.isdigit() is True for ③
                 toks.append(int(t))
         if len(toks) != 15:
@@ -124,7 +159,7 @@ def parse_key(path: Path) -> dict[int, tuple[int, int]]:
         missing = sorted(set(range(1, NUM_QUESTIONS + 1)) - set(key))
         extra = sorted(set(key) - set(range(1, NUM_QUESTIONS + 1)))
         problems.append(f"expected questions 1–50; missing={missing} extra={extra}")
-    bad_ans = [n for n, (a, _) in key.items() if a not in range(1, 6)]
+    bad_ans = [n for n, (a, _) in key.items() if a != VOIDED and a not in range(1, 6)]
     bad_pts = [n for n, (_, p) in key.items() if p not in (1, 2, 3)]
     if bad_ans:
         problems.append(f"answers outside 1–5 for questions {bad_ans}")
@@ -223,7 +258,8 @@ def ocr_lines(round_no: int, doc: pymupdf.Document, booklet: Path) -> list[list[
 HEADER_RE = re.compile(r"^\s*(\d{1,2})\s*[.,·]\s*(.*)$")
 # "[2점]". OCR often reads the opening bracket as 1/l/I/|, e.g. "12점]".
 POINTS_LINE_RE = re.compile(r"^[\[\(1lI|]?\s*([123])\s*점\s*[\]\)]?$")
-POINTS_INLINE_RE = re.compile(r"\s*[\[\(1lI|]\s*([123])\s*점\s*[\]\)]?\s*$")
+# At the end of the stem; OCR may also drop the opening bracket entirely ("…것은? 2점]").
+POINTS_INLINE_RE = re.compile(r"\s*(?:[\[\(1lI|]\s*([123])\s*점\s*[\]\)]?|([123])\s*점\s*[\]\)])\s*$")
 # What OCR sometimes produces instead of a circled digit at the start of an option.
 MARKER_JUNK_RE = re.compile(r"^\s*(?:[①②③④⑤]|\(?[1-5]\)|[lI|ⓛ©®])\s*")
 
@@ -248,8 +284,8 @@ class Question:
     flags: list[str] = field(default_factory=list)
 
 
-def col_of(line: Line) -> int | None:
-    for i, (a, b) in enumerate(COLS):
+def col_of(line: Line, page: int) -> int | None:
+    for i, (a, b) in enumerate(cols(page)):
         if a - 8 <= line.x0 <= b:
             return i
     return None
@@ -259,10 +295,10 @@ def find_headers(pages: list[list[Line]]) -> list[Header]:
     expected = 1
     headers: list[Header] = []
     for pno, lines in enumerate(pages):
-        top = CONTENT_TOP.get(pno, CONTENT_TOP_DEFAULT)
-        for col, (cx0, _) in enumerate(COLS):
+        top = content_top(pno)
+        for col, (cx0, _) in enumerate(cols(pno)):
             cands = sorted(
-                (l for l in lines if cx0 - 6 <= l.x0 <= cx0 + 8 and top <= l.y0 < CONTENT_BOTTOM and l.h >= 11),
+                (l for l in lines if cx0 - 12 <= l.x0 <= cx0 + 8 and top <= l.y0 < GEOM.bottom and l.h >= 11),
                 key=lambda l: l.y0,
             )
             for l in cands:
@@ -280,8 +316,8 @@ def build_regions(pages: list[list[Line]], headers: list[Header]) -> list[Questi
     for i, h in enumerate(headers):
         nxt = next((o for o in headers[i + 1 :] if o.page == h.page and o.col == h.col), None)
         top = h.line.y0 - 4
-        bottom = (nxt.line.y0 - 6) if nxt else CONTENT_BOTTOM
-        cx0, cx1 = COLS[h.col]
+        bottom = (nxt.line.y0 - 6) if nxt else GEOM.bottom
+        cx0, cx1 = cols(h.page)[h.col]
         inside = [
             l
             for l in pages[h.page]
@@ -316,12 +352,12 @@ def find_shared_blocks(pages: list[list[Line]], headers: list[Header]) -> list[S
     for pno, lines in enumerate(pages):
         for l in lines:
             m = GROUP_RE.match(l.text)
-            col = col_of(l)
+            col = col_of(l, pno)
             if not m or col is None or not ("답하시오" in l.text or "물음" in l.text):
                 continue
             below = [h.line.y0 for h in headers if h.page == pno and h.col == col and h.line.y0 > l.y0]
-            top, bottom = l.y0 - 4, (min(below) - 6) if below else CONTENT_BOTTOM
-            cx0, cx1 = COLS[col]
+            top, bottom = l.y0 - 4, (min(below) - 6) if below else GEOM.bottom
+            cx0, cx1 = cols(pno)[col]
             inside = [
                 o for o in lines if o is not l and cx0 - 8 <= o.x0 < cx1 and top <= (o.y0 + o.y1) / 2 <= bottom
             ]
@@ -356,7 +392,7 @@ class Options:
 
 def find_vertical_options(q: Question) -> Options | None:
     """Five left-aligned lines at the bottom of the region (the common layout)."""
-    cx0 = COLS[q.col][0]
+    cx0 = cols(q.page)[q.col][0]
     left = [l for l in q.lines if cx0 + 3 <= l.x0 <= cx0 + 17]
     if len(left) < 5:
         return None
@@ -425,7 +461,7 @@ def extract_stem(q: Question) -> tuple[str, float, int | None]:
     pts = None
     pm = POINTS_INLINE_RE.search(stem)
     if pm:
-        pts = int(pm.group(1))
+        pts = int(pm.group(1) or pm.group(2))
         stem = stem[: pm.start()]
     used = 0
     for l in sorted(q.lines, key=lambda l: l.y0):
@@ -436,12 +472,12 @@ def extract_stem(q: Question) -> tuple[str, float, int | None]:
             pts = pts or int(tm.group(1))
             bottom = max(bottom, l.y1)
             continue
-        if "?" in stem or used >= 2 or l.x0 > COLS[q.col][0] + 40:
+        if "?" in stem or used >= 2 or l.x0 > cols(q.page)[q.col][0] + 40:
             continue
         text = l.text
         tm = POINTS_INLINE_RE.search(text)
         if tm:
-            pts = pts or int(tm.group(1))
+            pts = pts or int(tm.group(1) or tm.group(2))
             text = text[: tm.start()]
         stem += " " + text
         bottom = max(bottom, l.y1)
@@ -472,7 +508,9 @@ def load_json(path: Path, default):
 
 def process_round(round_no: int, files: dict[str, Path], eras: dict, meta: dict) -> tuple[dict, list[dict]]:
     key = parse_key(files["key"])
+    global GEOM
     doc = pymupdf.open(files["booklet"])
+    GEOM = geometry_for(doc)
     source = "text" if has_text_layer(doc) else "ocr"
     pages = [text_lines(p) for p in doc] if source == "text" else ocr_lines(round_no, doc, files["booklet"])
     headers = find_headers(pages)
@@ -491,7 +529,7 @@ def process_round(round_no: int, files: dict[str, Path], eras: dict, meta: dict)
     round_eras = eras.get(str(round_no), {})
     shared_by_q: dict[int, dict] = {}
     for sb in find_shared_blocks(pages, headers):
-        cx0, cx1 = COLS[sb.col]
+        cx0, cx1 = cols(sb.page)[sb.col]
         text = "\n".join(l.text for l in sb.lines) or None
         img = save_crop(doc[sb.page], pymupdf.Rect(cx0 - 6, sb.top, cx1 + 4, sb.bottom), img_dir / f"s{sb.first:02d}-{sb.last:02d}.webp")
         img["alt"] = f"{sb.first}~{sb.last}번 공통 자료" + (f": {text[:300]}" if text else "")
@@ -500,7 +538,7 @@ def process_round(round_no: int, files: dict[str, Path], eras: dict, meta: dict)
     questions, review = [], []
     for q in regions:
         page = doc[q.page]
-        cx0, cx1 = COLS[q.col]
+        cx0, cx1 = cols(q.page)[q.col]
         n = q.number
         answer, points = key[n]
         flags: list[str] = []
@@ -554,7 +592,7 @@ def process_round(round_no: int, files: dict[str, Path], eras: dict, meta: dict)
             "round": round_no,
             "number": n,
             "points": points,
-            "answer": answer,
+            "answer": None if answer == VOIDED else answer,
             "stem": stem,
             "passage": passage,
             "images": images,

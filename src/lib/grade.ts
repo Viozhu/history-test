@@ -1,6 +1,11 @@
-import type { Attempt, AttemptResult, Breakdown, Choice, Era, Exam, Grade, Mode } from "./types";
+import type { Attempt, AttemptResult, Breakdown, Choice, Era, Exam, Grade, Mode, Question } from "./types";
 
 export const TIME_LIMIT_MS = 80 * 60 * 1000;
+
+/** A voided question (answer null) counts as correct for every choice, blank included. */
+export function isCorrect(q: Pick<Question, "answer">, choice: Choice | null | undefined): boolean {
+  return q.answer === null || choice === q.answer;
+}
 
 export function gradeFor(score: number): Grade {
   if (score >= 80) return "1급";
@@ -22,7 +27,7 @@ export function scoreAttempt(
   let score = 0;
   let correctCount = 0;
   for (const q of exam.questions) {
-    const ok = answers[q.number] === q.answer;
+    const ok = isCorrect(q, answers[q.number]);
     const buckets = [byPoints[String(q.points) as "1" | "2" | "3"]];
     if (q.era) buckets.push((byEra[q.era] ??= empty()));
     for (const b of buckets) {

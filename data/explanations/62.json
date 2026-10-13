@@ -1,0 +1,3441 @@
+{
+ "round": 62,
+ "questions": {
+  "1": {
+   "era": "선사·고조선",
+   "ko": {
+    "clues": [
+     "사유 재산과 계급이 발생",
+     "민무늬 토기",
+     "비파형 동검",
+     "고인돌"
+    ],
+    "identifies": "(가)는 청동기 시대이다.",
+    "correct": "청동기 시대에는 벼농사가 시작되어 반달 돌칼로 곡식을 수확하였다.",
+    "options": [
+     {
+      "n": 2,
+      "why": "주로 동굴이나 막집에 거주한 것은 구석기 시대의 생활 모습이다.",
+      "belongsTo": "구석기 시대"
+     },
+     {
+      "n": 3,
+      "why": "소를 이용한 깊이갈이(심경법)가 일반화된 것은 고려 시대이다.",
+      "belongsTo": "고려"
+     },
+     {
+      "n": 4,
+      "why": "호미, 쇠스랑 등 철제 농기구를 제작한 것은 철기 시대 이후이다.",
+      "belongsTo": "철기 시대"
+     },
+     {
+      "n": 5,
+      "why": "가락바퀴와 뼈바늘로 옷을 만들기 시작한 것은 신석기 시대이다.",
+      "belongsTo": "신석기 시대"
+     }
+    ],
+    "point": "민무늬 토기·비파형 동검·고인돌·반달 돌칼은 청동기 시대의 대표 유물이다."
+   },
+   "en": {
+    "clues": [
+     "private property and social classes emerged",
+     "민무늬 토기 (plain pottery)",
+     "비파형 동검 (mandolin-shaped bronze dagger)",
+     "고인돌 (dolmen)"
+    ],
+    "identifies": "(A) is the Bronze Age.",
+    "correct": "In the Bronze Age rice farming began, and grain was harvested with 반달 돌칼 (half-moon stone knives).",
+    "options": [
+     {
+      "n": 2,
+      "why": "Living mainly in caves or 막집 (makeshift huts) is a Paleolithic way of life.",
+      "belongsTo": "Paleolithic"
+     },
+     {
+      "n": 3,
+      "why": "Deep plowing with oxen (심경법) became widespread in the Goryeo period.",
+      "belongsTo": "Goryeo"
+     },
+     {
+      "n": 4,
+      "why": "Making iron farming tools such as hoes (호미) and rakes (쇠스랑) belongs to the Iron Age and later.",
+      "belongsTo": "Iron Age"
+     },
+     {
+      "n": 5,
+      "why": "Beginning to make clothes with 가락바퀴 (spindle whorls) and bone needles is Neolithic.",
+      "belongsTo": "Neolithic"
+     }
+    ],
+    "point": "Plain pottery, mandolin-shaped daggers, dolmens and half-moon stone knives are the hallmark Bronze Age artifacts."
+   }
+  },
+  "2": {
+   "era": "선사·고조선",
+   "ko": {
+    "clues": [
+     "쑹화강 유역",
+     "평원과 구릉, 넓은 못",
+     "12월 영고",
+     "명마, 적옥, 담비 가죽",
+     "형사취수(형수를 아내로 삼음)"
+    ],
+    "identifies": "이 나라는 부여이다.",
+    "correct": "부여에서는 왕 아래 마가·우가·저가·구가 등 여러 가(加)가 별도로 사출도를 다스렸다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "정사암에 모여 재상을 선출한 것은 백제이다.",
+      "belongsTo": "백제"
+     },
+     {
+      "n": 3,
+      "why": "읍락 간의 경계를 중시하여 책화가 있었던 것은 동예이다.",
+      "belongsTo": "동예"
+     },
+     {
+      "n": 4,
+      "why": "사회 질서 유지를 위해 범금 8조를 둔 것은 고조선이다.",
+      "belongsTo": "고조선"
+     },
+     {
+      "n": 5,
+      "why": "제사장인 천군과 신성 지역인 소도가 존재한 것은 삼한이다.",
+      "belongsTo": "삼한"
+     }
+    ],
+    "point": "부여 = 쑹화강·영고(12월)·사출도·1책 12법·형사취수제."
+   },
+   "en": {
+    "clues": [
+     "Songhua River basin",
+     "plains, hills and wide marshes",
+     "영고 (Yeonggo, sky-worship festival) in the 12th month",
+     "fine horses, red jade, sable furs",
+     "levirate (marrying an elder brother's widow)"
+    ],
+    "identifies": "This state is 부여 (Buyeo).",
+    "correct": "In Buyeo, several 가 (ga, tribal chiefs) such as Maga, Uga, Jeoga and Guga separately governed the 사출도 (sachuldo, four outer districts) under the king.",
+    "options": [
+     {
+      "n": 1,
+      "why": "Selecting the chief minister by gathering at 정사암 (Jeongsaam rock) was Baekje.",
+      "belongsTo": "Baekje"
+     },
+     {
+      "n": 3,
+      "why": "책화 (chaekhwa, compensation for trespass), which stressed boundaries between villages, was Dongye.",
+      "belongsTo": "Dongye"
+     },
+     {
+      "n": 4,
+      "why": "The 범금 8조 (Eight Prohibitions) to maintain social order belonged to Gojoseon.",
+      "belongsTo": "Gojoseon"
+     },
+     {
+      "n": 5,
+      "why": "The priest 천군 (cheongun) and the sacred area 소도 (sodo) existed in the Samhan.",
+      "belongsTo": "Samhan"
+     }
+    ],
+    "point": "Buyeo = Songhua River, Yeonggo (12th month), sachuldo, twelvefold restitution for theft, levirate marriage."
+   }
+  },
+  "3": {
+   "era": "삼국·남북국",
+   "ko": {
+    "clues": [
+     "해반천",
+     "봉황동 유적",
+     "수로왕릉",
+     "대성동 고분군",
+     "파사석탑",
+     "구지봉"
+    ],
+    "identifies": "(가)는 김해 지역을 중심으로 성장한 금관가야이다.",
+    "correct": "금관가야는 철이 풍부하여 덩이쇠를 화폐처럼 사용하고 낙랑·왜 등에 철을 수출하였다.",
+    "options": [
+     {
+      "n": 2,
+      "why": "한 무제의 공격으로 멸망한 것은 고조선이다.",
+      "belongsTo": "고조선"
+     },
+     {
+      "n": 3,
+      "why": "혼인 풍속으로 민며느리제가 있었던 것은 옥저이다.",
+      "belongsTo": "옥저"
+     },
+     {
+      "n": 4,
+      "why": "골품에 따라 관등 승진에 제한이 있었던 것은 신라이다.",
+      "belongsTo": "신라"
+     },
+     {
+      "n": 5,
+      "why": "빈민 구제를 위해 진대법을 시행한 것은 고구려 고국천왕 때이다.",
+      "belongsTo": "고구려"
+     }
+    ],
+    "point": "수로왕릉·구지봉·대성동 고분군·파사석탑 → 김해 금관가야, 덩이쇠와 철 수출."
+   },
+   "en": {
+    "clues": [
+     "Haebancheon stream",
+     "Bonghwang-dong site",
+     "Tomb of King Suro",
+     "Daeseong-dong tombs",
+     "파사석탑 (Pasa stone pagoda)",
+     "구지봉 (Gujibong peak)"
+    ],
+    "identifies": "(A) is 금관가야 (Geumgwan Gaya), centred on Gimhae.",
+    "correct": "Rich in iron, Geumgwan Gaya used 덩이쇠 (iron ingots) like currency and exported iron to Nangnang and Wa.",
+    "options": [
+     {
+      "n": 2,
+      "why": "Being destroyed by an attack of Emperor Wu of Han was Gojoseon.",
+      "belongsTo": "Gojoseon"
+     },
+     {
+      "n": 3,
+      "why": "The marriage custom 민며느리제 (minmyeoneuri, child-bride system) existed in Okjeo.",
+      "belongsTo": "Okjeo"
+     },
+     {
+      "n": 4,
+      "why": "Limits on rank promotion according to 골품 (bone rank) existed in Silla.",
+      "belongsTo": "Silla"
+     },
+     {
+      "n": 5,
+      "why": "Enacting 진대법 (jindaebeop, grain-loan relief) for the poor was Goguryeo under King Gogukcheon.",
+      "belongsTo": "Goguryeo"
+     }
+    ],
+    "point": "Tomb of King Suro, Gujibong, Daeseong-dong tombs, Pasa pagoda → Geumgwan Gaya in Gimhae; iron ingots and iron exports."
+   }
+  },
+  "4": {
+   "era": "삼국·남북국",
+   "ko": {
+    "clues": [
+     "고국원왕의 뒤를 이어 즉위",
+     "전진으로부터 불교 수용",
+     "태학 설립"
+    ],
+    "identifies": "밑줄 그은 '왕'은 고구려 소수림왕이다.",
+    "correct": "소수림왕은 불교 수용, 태학 설립과 함께 율령을 반포하여 통치 체제를 정비하였다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "평양으로 수도를 옮긴 것은 고구려 장수왕이다.",
+      "belongsTo": "고구려 장수왕"
+     },
+     {
+      "n": 2,
+      "why": "병부와 상대등을 설치한 것은 신라 법흥왕이다.",
+      "belongsTo": "신라 법흥왕"
+     },
+     {
+      "n": 3,
+      "why": "22담로에 왕족을 파견한 것은 백제 무령왕이다.",
+      "belongsTo": "백제 무령왕"
+     },
+     {
+      "n": 4,
+      "why": "고흥에게 서기를 편찬하게 한 것은 백제 근초고왕이다.",
+      "belongsTo": "백제 근초고왕"
+     }
+    ],
+    "point": "소수림왕: 불교 수용·태학 설립·율령 반포(372~373) — 체제 정비의 3종 세트."
+   },
+   "en": {
+    "clues": [
+     "succeeded King Gogugwon",
+     "accepted Buddhism from Former Qin (전진)",
+     "founded the 태학 (Taehak, national academy)"
+    ],
+    "identifies": "The underlined 'king' is King Sosurim of Goguryeo.",
+    "correct": "Along with adopting Buddhism and founding the Taehak, King Sosurim promulgated 율령 (yullyeong, legal codes) to organise the governing system.",
+    "options": [
+     {
+      "n": 1,
+      "why": "Moving the capital to Pyeongyang was King Jangsu of Goguryeo.",
+      "belongsTo": "Goguryeo King Jangsu"
+     },
+     {
+      "n": 2,
+      "why": "Establishing the 병부 (Ministry of War) and 상대등 (sangdaedeung, chief councillor) was King Beopheung of Silla.",
+      "belongsTo": "Silla King Beopheung"
+     },
+     {
+      "n": 3,
+      "why": "Dispatching royal relatives to the 22 담로 (damno, local districts) was King Muryeong of Baekje.",
+      "belongsTo": "Baekje King Muryeong"
+     },
+     {
+      "n": 4,
+      "why": "Having Go Heung compile the 서기 (Seogi, history) was King Geunchogo of Baekje.",
+      "belongsTo": "Baekje King Geunchogo"
+     }
+    ],
+    "point": "King Sosurim: Buddhism, Taehak, legal codes (372–373) — the trio of state consolidation."
+   }
+  },
+  "5": {
+   "era": "삼국·남북국",
+   "ko": {
+    "clues": [
+     "금제 사리봉영기",
+     "2009년 해체 수리",
+     "백제 왕후 … 사택적덕의 따님",
+     "서동 왕자와 선화 공주 설화"
+    ],
+    "identifies": "'이 탑'은 백제 무왕 때 세워진 익산 미륵사지 석탑이다.",
+    "correct": "③은 목탑 양식을 반영한 현존 최고(最古)의 석탑인 익산 미륵사지 석탑으로, 해체 수리 중 금제 사리봉영기가 발견되었다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "벽돌 모양으로 돌을 다듬어 쌓은 경주 분황사 모전 석탑이다.",
+      "belongsTo": "신라 선덕 여왕"
+     },
+     {
+      "n": 2,
+      "why": "기단부 위에 큰 1층 탑신과 여러 층의 지붕돌을 올린 경주 정혜사지 십삼층 석탑이다.",
+      "belongsTo": "통일 신라"
+     },
+     {
+      "n": 4,
+      "why": "벽돌로 쌓은 발해의 영광탑이다.",
+      "belongsTo": "발해"
+     },
+     {
+      "n": 5,
+      "why": "이중 기단 위에 세운 경주 감은사지 삼층 석탑으로, 통일 신라 석탑이다.",
+      "belongsTo": "통일 신라"
+     }
+    ],
+    "point": "사리봉영기(639, 기해년)·사택적덕의 딸·무왕 → 익산 미륵사지 석탑."
+   },
+   "en": {
+    "clues": [
+     "gold 사리봉영기 (sarira enshrinement record)",
+     "dismantled for repair in 2009",
+     "Baekje queen … daughter of Sataek Jeokdeok",
+     "legend of Prince Seodong and Princess Seonhwa"
+    ],
+    "identifies": "'This pagoda' is the stone pagoda at Mireuksa temple site in Iksan, built under King Mu of Baekje.",
+    "correct": "③ shows the Iksan Mireuksa-ji stone pagoda, the oldest surviving Korean stone pagoda imitating wooden style; the gold sarira record was found during its dismantling.",
+    "options": [
+     {
+      "n": 1,
+      "why": "It shows the 분황사 모전 석탑 (Bunhwangsa brick-imitating stone pagoda) in Gyeongju, built of stones cut like bricks.",
+      "belongsTo": "Silla, Queen Seondeok"
+     },
+     {
+      "n": 2,
+      "why": "It shows the thirteen-story stone pagoda at Jeonghyesa temple site in Gyeongju, with a large first story topped by many roof stones.",
+      "belongsTo": "Unified Silla"
+     },
+     {
+      "n": 4,
+      "why": "It shows the 영광탑 (Yeonggwang brick pagoda) of Balhae.",
+      "belongsTo": "Balhae"
+     },
+     {
+      "n": 5,
+      "why": "It shows the three-story stone pagoda at Gameunsa temple site in Gyeongju, a Unified Silla pagoda on a double base.",
+      "belongsTo": "Unified Silla"
+     }
+    ],
+    "point": "Sarira record (639), daughter of Sataek Jeokdeok, King Mu → Iksan Mireuksa-ji stone pagoda."
+   }
+  },
+  "6": {
+   "era": "삼국·남북국",
+   "ko": {
+    "clues": [
+     "백강과 탄현",
+     "계백 결사대 5천 명",
+     "황산",
+     "검모잠",
+     "안승"
+    ],
+    "identifies": "(가)는 황산벌 전투(660), (나)는 검모잠의 고구려 부흥 운동과 안승의 신라 망명(670년 무렵)이다.",
+    "correct": "백제 멸망(660) 이후 복신과 도침이 왜에 있던 부여풍을 왕으로 추대하여 백제 부흥 운동을 전개하였다(661).",
+    "options": [
+     {
+      "n": 1,
+      "why": "당이 안동도호부를 요동으로 옮긴 것은 나당 전쟁 승리 후인 676년으로 (나) 이후이다.",
+      "belongsTo": "676년"
+     },
+     {
+      "n": 2,
+      "why": "성왕이 관산성 전투에서 전사한 것은 554년으로 (가) 이전이다.",
+      "belongsTo": "554년"
+     },
+     {
+      "n": 3,
+      "why": "신라군이 기벌포에서 당군을 격파한 것은 676년으로 (나) 이후이다.",
+      "belongsTo": "676년"
+     },
+     {
+      "n": 4,
+      "why": "김춘추가 당과의 군사 동맹을 성사시킨 것은 648년으로 (가) 이전이다.",
+      "belongsTo": "648년"
+     }
+    ],
+    "point": "나당 동맹(648) → 황산벌·백제 멸망(660) → 백제 부흥 운동(복신·도침·부여풍) → 고구려 멸망(668) → 검모잠·안승(670) → 매소성·기벌포(675~676)."
+   },
+   "en": {
+    "clues": [
+     "Baekgang and Tanhyeon",
+     "Gyebaek's 5,000 death-defying soldiers",
+     "Hwangsan",
+     "Geom Mojam",
+     "An Seung"
+    ],
+    "identifies": "(A) is the Battle of Hwangsanbeol (660); (B) is Geom Mojam's Goguryeo restoration movement and An Seung's flight to Silla (c. 670).",
+    "correct": "After Baekje fell (660), Boksin and Dochim enthroned Buyeo Pung, who had been in Wa, leading the Baekje restoration movement (661).",
+    "options": [
+     {
+      "n": 1,
+      "why": "Tang moving the 안동도호부 (Andong Protectorate) to Liaodong happened in 676 after the Silla–Tang War, after (B).",
+      "belongsTo": "676"
+     },
+     {
+      "n": 2,
+      "why": "King Seong dying at the Battle of Gwansanseong was in 554, before (A).",
+      "belongsTo": "554"
+     },
+     {
+      "n": 3,
+      "why": "Silla defeating Tang forces at 기벌포 (Gibeolpo) was in 676, after (B).",
+      "belongsTo": "676"
+     },
+     {
+      "n": 4,
+      "why": "Kim Chunchu concluding the military alliance with Tang was in 648, before (A).",
+      "belongsTo": "648"
+     }
+    ],
+    "point": "Silla–Tang alliance (648) → Hwangsanbeol, fall of Baekje (660) → Baekje restoration (Boksin, Dochim, Buyeo Pung) → fall of Goguryeo (668) → Geom Mojam & An Seung (670) → Maesoseong, Gibeolpo (675–676)."
+   }
+  },
+  "7": {
+   "era": "삼국·남북국",
+   "ko": {
+    "clues": [
+     "고구려 문화의 계승",
+     "당 문화의 수용",
+     "상경성 평면도",
+     "말갈계 토기",
+     "청동 낙타상"
+    ],
+    "identifies": "(가)는 발해이다.",
+    "correct": "발해는 문왕 때 주자감을 설치하여 귀족 자제에게 유학을 교육하였다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "후당과 오월에 사신을 파견한 것은 후백제(견훤)이다.",
+      "belongsTo": "후백제"
+     },
+     {
+      "n": 3,
+      "why": "9서당과 10정의 군사 조직을 운영한 것은 통일 신라이다.",
+      "belongsTo": "통일 신라"
+     },
+     {
+      "n": 4,
+      "why": "화백 회의에서 국가 중대사를 논의한 것은 신라이다.",
+      "belongsTo": "신라"
+     },
+     {
+      "n": 5,
+      "why": "내신좌평, 위사좌평 등 6좌평의 관제를 마련한 것은 백제이다.",
+      "belongsTo": "백제"
+     }
+    ],
+    "point": "발해 = 고구려 계승 + 당 문화(3성 6부·상경성 주작대로·주자감) + 말갈 요소."
+   },
+   "en": {
+    "clues": [
+     "inheriting Goguryeo culture",
+     "adopting Tang culture",
+     "plan of 상경성 (Sanggyeong capital)",
+     "Malgal-type pottery",
+     "bronze camel figurine"
+    ],
+    "identifies": "(A) is 발해 (Balhae).",
+    "correct": "Under King Mun, Balhae set up the 주자감 (Jujagam, national academy) to teach Confucianism to aristocratic youth.",
+    "options": [
+     {
+      "n": 1,
+      "why": "Sending envoys to Later Tang and Wuyue was Later Baekje (Gyeon Hwon).",
+      "belongsTo": "Later Baekje"
+     },
+     {
+      "n": 3,
+      "why": "Running the 9서당 (nine Seodang units) and 10정 (ten Jeong garrisons) was Unified Silla.",
+      "belongsTo": "Unified Silla"
+     },
+     {
+      "n": 4,
+      "why": "Discussing major state affairs in the 화백 회의 (Hwabaek council) was Silla.",
+      "belongsTo": "Silla"
+     },
+     {
+      "n": 5,
+      "why": "Establishing the six 좌평 (jwapyeong) ministers such as Naesin and Wisa jwapyeong was Baekje.",
+      "belongsTo": "Baekje"
+     }
+    ],
+    "point": "Balhae = Goguryeo heritage + Tang culture (3 Departments 6 Ministries, Sanggyeong's Jujak avenue, Jujagam) + Malgal elements."
+   }
+  },
+  "8": {
+   "era": "삼국·남북국",
+   "ko": {
+    "clues": [
+     "김흠돌의 반란 진압",
+     "국학 설치",
+     "9주 정비"
+    ],
+    "identifies": "○○왕은 통일 신라 신문왕이다.",
+    "correct": "신문왕은 관료전을 지급하고(687) 녹읍을 폐지하여(689) 귀족의 경제 기반을 약화시켰다.",
+    "options": [
+     {
+      "n": 2,
+      "why": "마립간 칭호를 처음 사용한 것은 신라 내물왕이다.",
+      "belongsTo": "신라 내물왕"
+     },
+     {
+      "n": 3,
+      "why": "이사부를 보내 우산국을 복속시킨 것은 신라 지증왕이다.",
+      "belongsTo": "신라 지증왕"
+     },
+     {
+      "n": 4,
+      "why": "화랑도를 국가적 조직으로 개편한 것은 신라 진흥왕이다.",
+      "belongsTo": "신라 진흥왕"
+     },
+     {
+      "n": 5,
+      "why": "이차돈의 순교를 계기로 불교를 공인한 것은 신라 법흥왕이다.",
+      "belongsTo": "신라 법흥왕"
+     }
+    ],
+    "point": "신문왕: 김흠돌의 난 진압·국학·9주 5소경·9서당·관료전 지급·녹읍 폐지."
+   },
+   "en": {
+    "clues": [
+     "suppressed the revolt of Kim Heumdol",
+     "established the 국학 (Gukhak, national academy)",
+     "reorganised the nine 주 (provinces)"
+    ],
+    "identifies": "King ○○ is King Sinmun of Unified Silla.",
+    "correct": "King Sinmun granted 관료전 (gwallyojeon, office land) in 687 and abolished 녹읍 (nogeup, stipend villages) in 689, weakening the nobles' economic base.",
+    "options": [
+     {
+      "n": 2,
+      "why": "First using the title 마립간 (maripgan) was King Naemul of Silla.",
+      "belongsTo": "Silla King Naemul"
+     },
+     {
+      "n": 3,
+      "why": "Sending Isabu to subjugate 우산국 (Usan-guk) was King Jijeung of Silla.",
+      "belongsTo": "Silla King Jijeung"
+     },
+     {
+      "n": 4,
+      "why": "Reorganising the 화랑도 (hwarang corps) into a state organisation was King Jinheung of Silla.",
+      "belongsTo": "Silla King Jinheung"
+     },
+     {
+      "n": 5,
+      "why": "Officially recognising Buddhism after Ichadon's martyrdom was King Beopheung of Silla.",
+      "belongsTo": "Silla King Beopheung"
+     }
+    ],
+    "point": "King Sinmun: crushed Kim Heumdol, Gukhak, 9 provinces & 5 secondary capitals, 9 Seodang, office land granted, nogeup abolished."
+   }
+  },
+  "9": {
+   "era": "삼국·남북국",
+   "ko": {
+    "clues": [
+     "적산 법화원 창건",
+     "산둥반도 신라인 거주지",
+     "당의 무령군 소장",
+     "흥덕왕 때 귀국",
+     "왕위 쟁탈전에 휘말려 암살"
+    ],
+    "identifies": "'이 인물'은 장보고이다.",
+    "correct": "장보고는 흥덕왕 때 완도에 청해진을 설치하고 이를 중심으로 당·신라·일본을 잇는 해상 무역을 전개하였다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "구법 순례기인 왕오천축국전을 지은 것은 혜초이다.",
+      "belongsTo": "혜초"
+     },
+     {
+      "n": 2,
+      "why": "진성 여왕에게 시무책 10여 조를 올린 것은 최치원이다.",
+      "belongsTo": "최치원"
+     },
+     {
+      "n": 4,
+      "why": "9산 선문 중 가지산문은 도의를 개조로 하는 선종 산문이다.",
+      "belongsTo": "도의"
+     },
+     {
+      "n": 5,
+      "why": "이두를 체계적으로 정리한 것은 설총이다.",
+      "belongsTo": "설총"
+     }
+    ],
+    "point": "적산 법화원·청해진·해상 무역 → 장보고."
+   },
+   "en": {
+    "clues": [
+     "founded 적산 법화원 (Jeoksan Beophwawon temple)",
+     "Silla settlement on the Shandong Peninsula",
+     "officer in Tang's Wuning army",
+     "returned under King Heungdeok",
+     "assassinated amid the struggle for the throne"
+    ],
+    "identifies": "'This person' is 장보고 (Jang Bogo).",
+    "correct": "Under King Heungdeok, Jang Bogo set up 청해진 (Cheonghaejin) at Wando and ran maritime trade linking Tang, Silla and Japan from it.",
+    "options": [
+     {
+      "n": 1,
+      "why": "Writing the pilgrimage record 왕오천축국전 (Memoir of a Pilgrimage to the Five Kingdoms of India) was Hyecho.",
+      "belongsTo": "Hyecho"
+     },
+     {
+      "n": 2,
+      "why": "Submitting ten-odd points of reform proposals (시무책) to Queen Jinseong was Choe Chiwon.",
+      "belongsTo": "Choe Chiwon"
+     },
+     {
+      "n": 4,
+      "why": "The 가지산문 (Gajisan school), one of the Nine Mountain Seon schools, traces its founding to Doui.",
+      "belongsTo": "Doui"
+     },
+     {
+      "n": 5,
+      "why": "Systematically organising 이두 (idu, borrowed-character script) was Seol Chong.",
+      "belongsTo": "Seol Chong"
+     }
+    ],
+    "point": "Jeoksan Beophwawon, Cheonghaejin, maritime trade → Jang Bogo."
+   }
+  },
+  "10": {
+   "era": "고려",
+   "ko": {
+    "clues": [
+     "천덕전",
+     "신라왕이 신하로 있겠다고 요청",
+     "신라국을 없애 경주라 함",
+     "김부의 식읍"
+    ],
+    "identifies": "밑줄 그은 '왕'은 신라 경순왕(김부)의 귀부를 받은 고려 태조 왕건이다.",
+    "correct": "태조는 빈민 구제 기관인 흑창을 설치하였다.",
+    "options": [
+     {
+      "n": 2,
+      "why": "12목을 설치하고 지방관을 파견한 것은 고려 성종이다.",
+      "belongsTo": "고려 성종"
+     },
+     {
+      "n": 3,
+      "why": "국자감에 7재를 운영한 것은 고려 예종이다.",
+      "belongsTo": "고려 예종"
+     },
+     {
+      "n": 4,
+      "why": "광덕, 준풍 등 독자적 연호를 사용한 것은 고려 광종이다.",
+      "belongsTo": "고려 광종"
+     },
+     {
+      "n": 5,
+      "why": "전시과 제도를 처음 마련한 것은 고려 경종이다.",
+      "belongsTo": "고려 경종"
+     }
+    ],
+    "point": "태조 왕건: 신라 귀부(935)·흑창·사심관·기인 제도·훈요 10조."
+   },
+   "en": {
+    "clues": [
+     "Cheondeokjeon hall",
+     "the Silla king asked to become a subject",
+     "abolished Silla and named it Gyeongju",
+     "granted as 식읍 (sigeup, fief) to Kim Bu"
+    ],
+    "identifies": "The underlined 'king' is Taejo Wang Geon of Goryeo, who received the submission of Silla's King Gyeongsun (Kim Bu).",
+    "correct": "Taejo established 흑창 (Heukchang), a relief granary for the poor.",
+    "options": [
+     {
+      "n": 2,
+      "why": "Setting up the 12 목 (mok, provincial districts) and dispatching local officials was King Seongjong of Goryeo.",
+      "belongsTo": "Goryeo King Seongjong"
+     },
+     {
+      "n": 3,
+      "why": "Running the 7재 (seven specialised courses) at the Gukjagam was King Yejong of Goryeo.",
+      "belongsTo": "Goryeo King Yejong"
+     },
+     {
+      "n": 4,
+      "why": "Using independent era names such as Gwangdeok and Junpung was King Gwangjong of Goryeo.",
+      "belongsTo": "Goryeo King Gwangjong"
+     },
+     {
+      "n": 5,
+      "why": "First creating the 전시과 (jeonsigwa, land-stipend system) was King Gyeongjong of Goryeo.",
+      "belongsTo": "Goryeo King Gyeongjong"
+     }
+    ],
+    "point": "Taejo Wang Geon: Silla's submission (935), Heukchang, sasimgwan & gin systems, Ten Injunctions."
+   }
+  },
+  "11": {
+   "era": "조선 전기",
+   "ko": {
+    "clues": [
+     "함길도 도절제사 김종서",
+     "공험진",
+     "선춘점의 윤관 비",
+     "윤관이 (가)를 쫓고 9성 설치"
+    ],
+    "identifies": "(가)는 여진이다.",
+    "correct": "조선 태종은 경성과 경원에 무역소를 설치하여 여진을 회유하였다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "청방인문표는 신라가 당에 김인문의 석방을 요청한 글로, 여진이 아니라 당에 대한 대응이다.",
+      "belongsTo": "당"
+     },
+     {
+      "n": 2,
+      "why": "진포에서 나세, 심덕부 등이 물리친 것은 왜구이다.",
+      "belongsTo": "왜구"
+     },
+     {
+      "n": 3,
+      "why": "박위를 파견하여 근거지(쓰시마)를 토벌한 것은 왜구에 대한 대응이다.",
+      "belongsTo": "왜구"
+     },
+     {
+      "n": 5,
+      "why": "기유약조를 체결하여 무역을 재개한 상대는 일본이다.",
+      "belongsTo": "일본"
+     }
+    ],
+    "point": "여진에 대한 조선의 교린: 회유(무역소·귀순 장려) + 강경(4군 6진 개척)."
+   },
+   "en": {
+    "clues": [
+     "Kim Jongseo, military commander of Hamgil-do",
+     "Gongheomjin",
+     "Yun Gwan's stele at Seonchunjeom",
+     "Yun Gwan drove out (A) and built nine forts"
+    ],
+    "identifies": "(A) is the 여진 (Jurchen).",
+    "correct": "King Taejong of Joseon set up 무역소 (trading posts) at Gyeongseong and Gyeongwon to placate the Jurchen.",
+    "options": [
+     {
+      "n": 1,
+      "why": "청방인문표 (petition for Kim Inmun's release) was Silla's letter to Tang, a response to Tang, not the Jurchen.",
+      "belongsTo": "Tang"
+     },
+     {
+      "n": 2,
+      "why": "Na Se and Sim Deokbu's victory at 진포 (Jinpo) was against the 왜구 (Japanese pirates).",
+      "belongsTo": "Japanese pirates"
+     },
+     {
+      "n": 3,
+      "why": "Sending Bak Wi to attack their base (Tsushima) was a response to the Japanese pirates.",
+      "belongsTo": "Japanese pirates"
+     },
+     {
+      "n": 5,
+      "why": "The 기유약조 (Giyu Treaty) that reopened trade was concluded with Japan.",
+      "belongsTo": "Japan"
+     }
+    ],
+    "point": "Joseon's policy toward the Jurchen: appeasement (trading posts, inducing settlement) plus force (4 forts and 6 garrisons)."
+   }
+  },
+  "12": {
+   "era": "고려",
+   "ko": {
+    "clues": [
+     "양산 통도사 국장생 석표",
+     "상서호부의 승인",
+     "국사·왕사 제도"
+    ],
+    "identifies": "(가)는 고려이다.",
+    "correct": "고려 숙종 때 의천의 건의로 주전도감을 두고 삼한통보, 해동통보 등 동전을 발행하였다.",
+    "options": [
+     {
+      "n": 2,
+      "why": "솔빈부의 말이 특산품으로 유명한 것은 발해이다.",
+      "belongsTo": "발해"
+     },
+     {
+      "n": 3,
+      "why": "만상이 대청 무역으로 부를 축적한 것은 조선 후기이다.",
+      "belongsTo": "조선 후기"
+     },
+     {
+      "n": 4,
+      "why": "시장 감독 관청인 동시전이 설치된 것은 신라 지증왕 때이다.",
+      "belongsTo": "신라"
+     },
+     {
+      "n": 5,
+      "why": "광산을 전문적으로 경영하는 덕대가 등장한 것은 조선 후기이다.",
+      "belongsTo": "조선 후기"
+     }
+    ],
+    "point": "고려 화폐: 성종 건원중보 → 숙종 삼한통보·해동통보·활구(은병)."
+   },
+   "en": {
+    "clues": [
+     "국장생 석표 (boundary stone) of Tongdosa, Yangsan",
+     "approval of the 상서호부 (Ministry of Revenue)",
+     "국사·왕사 (National and Royal Preceptor) system"
+    ],
+    "identifies": "(A) is Goryeo.",
+    "correct": "Under King Sukjong of Goryeo, the Mint (주전도감) was set up on Uicheon's advice and coins such as Samhan tongbo and Haedong tongbo were issued.",
+    "options": [
+     {
+      "n": 2,
+      "why": "Horses of 솔빈부 (Solbin-bu) being a famed specialty was Balhae.",
+      "belongsTo": "Balhae"
+     },
+     {
+      "n": 3,
+      "why": "만상 (Uiju merchants) growing rich through trade with Qing was late Joseon.",
+      "belongsTo": "Late Joseon"
+     },
+     {
+      "n": 4,
+      "why": "Setting up 동시전 (Dongsijeon), the market supervision office, was Silla under King Jijeung.",
+      "belongsTo": "Silla"
+     },
+     {
+      "n": 5,
+      "why": "The appearance of 덕대 (deokdae, professional mine managers) was late Joseon.",
+      "belongsTo": "Late Joseon"
+     }
+    ],
+    "point": "Goryeo coinage: Geonwon jungbo under Seongjong → Samhan tongbo, Haedong tongbo and hwalgu (silver vase) under Sukjong."
+   }
+  },
+  "13": {
+   "era": "고려",
+   "ko": {
+    "clues": [
+     "상감청자 6점",
+     "청동 정병",
+     "금동 침통",
+     "벨기에 왕립 예술역사박물관 소장"
+    ],
+    "identifies": "(가)는 고려이다.",
+    "correct": "ㄱ은 고려의 나전 칠기 합, ㄷ은 고려 불화인 수월관음도로 모두 고려의 문화유산이다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "ㄴ은 동물 모양의 토기(백제 호자로 보임)로 고려의 문화유산이 아니다.",
+      "belongsTo": "백제"
+     },
+     {
+      "n": 3,
+      "why": "ㄴ은 고려 문화유산이 아니므로 틀린 조합이다.",
+      "belongsTo": "백제"
+     },
+     {
+      "n": 4,
+      "why": "ㄴ과 ㄹ(신라 금관)은 모두 고려의 문화유산이 아니다.",
+      "belongsTo": "백제·신라"
+     },
+     {
+      "n": 5,
+      "why": "ㄹ은 출(出)자형 장식의 신라 금관으로 고려의 문화유산이 아니다.",
+      "belongsTo": "신라"
+     }
+    ],
+    "point": "고려의 대표 공예·미술: 상감청자, 나전 칠기, 청동 은입사 정병, 수월관음도 등 고려 불화."
+   },
+   "en": {
+    "clues": [
+     "six inlaid celadons (상감청자)",
+     "bronze kundika (청동 정병)",
+     "gilt-bronze needle case",
+     "held by the Royal Museums of Art and History, Belgium"
+    ],
+    "identifies": "(A) is Goryeo.",
+    "correct": "ㄱ is a Goryeo mother-of-pearl lacquer box (나전 칠기 합) and ㄷ is the Goryeo Buddhist painting 수월관음도 (Water-Moon Avalokitesvara); both are Goryeo heritage.",
+    "options": [
+     {
+      "n": 1,
+      "why": "ㄴ is an animal-shaped earthenware vessel (apparently a Baekje 호자, tiger-shaped vessel), not Goryeo heritage.",
+      "belongsTo": "Baekje"
+     },
+     {
+      "n": 3,
+      "why": "ㄴ is not Goryeo heritage, so this pair is wrong.",
+      "belongsTo": "Baekje"
+     },
+     {
+      "n": 4,
+      "why": "Neither ㄴ nor ㄹ (a Silla gold crown) is Goryeo heritage.",
+      "belongsTo": "Baekje / Silla"
+     },
+     {
+      "n": 5,
+      "why": "ㄹ is a Silla gold crown with 出-shaped uprights, not Goryeo heritage.",
+      "belongsTo": "Silla"
+     }
+    ],
+    "point": "Goryeo signature crafts and art: inlaid celadon, mother-of-pearl lacquerware, silver-inlaid bronze kundika, Buddhist paintings such as the Water-Moon Avalokitesvara."
+   }
+  },
+  "14": {
+   "era": "고려",
+   "ko": {
+    "clues": [
+     "성종",
+     "서희가 거란 진영에서 담판",
+     "현종",
+     "양규가 무로대와 이수에서 거란을 무찌름"
+    ],
+    "identifies": "거란의 1차 침입(993, 서희의 외교 담판)과 2차 침입(1010, 양규의 활약) 사이 시기이다.",
+    "correct": "강조가 정변을 일으켜 목종을 폐위하고 현종을 옹립하자(1009), 거란은 이를 구실로 2차 침입을 단행하였다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "묘청이 서경에서 난을 일으킨 것은 1135년으로 (가) 이후이다.",
+      "belongsTo": "고려 인종(1135)"
+     },
+     {
+      "n": 2,
+      "why": "이자겸이 척준경에 의해 축출된 것은 1126년으로 (가) 이후이다.",
+      "belongsTo": "고려 인종(1126)"
+     },
+     {
+      "n": 4,
+      "why": "김윤후가 처인성에서 살리타를 사살한 것은 몽골 2차 침입(1232) 때이다.",
+      "belongsTo": "몽골 침입(1232)"
+     },
+     {
+      "n": 5,
+      "why": "다인철소 주민들이 충주에서 항전한 것은 몽골 침입(1253) 때이다.",
+      "belongsTo": "몽골 침입(1253)"
+     }
+    ],
+    "point": "거란 1차(993, 서희·강동 6주) → 강조의 정변(1009) → 2차(1010, 양규) → 3차(1018~1019, 귀주 대첩)."
+   },
+   "en": {
+    "clues": [
+     "King Seongjong",
+     "Seo Hui negotiating in the Khitan camp",
+     "King Hyeonjong",
+     "Yang Gyu defeating the Khitan at Murodae and Isu"
+    ],
+    "identifies": "The period between the first Khitan invasion (993, Seo Hui's negotiation) and the second (1010, Yang Gyu's campaign).",
+    "correct": "Gang Jo staged a coup, deposed King Mokjong and enthroned Hyeonjong (1009), which the Khitan used as a pretext for the second invasion.",
+    "options": [
+     {
+      "n": 1,
+      "why": "Myocheong's rebellion in Seogyeong was in 1135, after (A).",
+      "belongsTo": "Goryeo King Injong (1135)"
+     },
+     {
+      "n": 2,
+      "why": "Yi Jagyeom being ousted by Cheok Jun-gyeong was in 1126, after (A).",
+      "belongsTo": "Goryeo King Injong (1126)"
+     },
+     {
+      "n": 4,
+      "why": "Kim Yunhu killing Sartai at Cheoinseong was during the second Mongol invasion (1232).",
+      "belongsTo": "Mongol invasion (1232)"
+     },
+     {
+      "n": 5,
+      "why": "The people of 다인철소 (Dain iron-working village) resisting at Chungju was during the Mongol invasions (1253).",
+      "belongsTo": "Mongol invasion (1253)"
+     }
+    ],
+    "point": "1st Khitan invasion (993, Seo Hui, six eastern garrison regions) → Gang Jo's coup (1009) → 2nd (1010, Yang Gyu) → 3rd (1018–1019, Gwiju)."
+   }
+  },
+  "15": {
+   "era": "고려",
+   "ko": {
+    "clues": [
+     "제국 대장 공주",
+     "[원의] 강남 지역",
+     "잣과 인삼을 강제로 거둠",
+     "환관을 각지에 파견"
+    ],
+    "identifies": "충렬왕의 왕비인 제국 대장 공주가 활동한 원 간섭기이다.",
+    "correct": "원 간섭기에는 몽골풍이 유행하여 지배층을 중심으로 변발과 호복이 퍼졌다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "원종과 애노가 사벌주에서 봉기한 것은 신라 진성 여왕 때이다.",
+      "belongsTo": "신라 하대"
+     },
+     {
+      "n": 2,
+      "why": "의천이 해동 천태종을 개창한 것은 고려 중기(문종~숙종 무렵)이다.",
+      "belongsTo": "고려 중기"
+     },
+     {
+      "n": 4,
+      "why": "구황촬요가 간행된 것은 조선 명종 때이다.",
+      "belongsTo": "조선 명종"
+     },
+     {
+      "n": 5,
+      "why": "초조 대장경이 조판된 것은 거란 침입기인 고려 현종 때이다.",
+      "belongsTo": "고려 현종"
+     }
+    ],
+    "point": "원 간섭기: 몽골풍(변발·호복)과 고려양, 공녀·환관, 응방, 정동행성."
+   },
+   "en": {
+    "clues": [
+     "제국 대장 공주 (Princess Jeguk, Yuan princess)",
+     "Gangnam region [of Yuan]",
+     "pine nuts and ginseng collected by force",
+     "eunuchs dispatched everywhere"
+    ],
+    "identifies": "The period of Yuan interference, when Princess Jeguk, queen of King Chungnyeol, was active.",
+    "correct": "During Yuan interference, Mongol fashion (몽골풍) spread, and the 변발 (braided Mongol hairstyle) and 호복 (Mongol dress) became popular among the ruling class.",
+    "options": [
+     {
+      "n": 1,
+      "why": "The uprising of Wonjong and Aeno at Sabeolju was under Queen Jinseong of Silla.",
+      "belongsTo": "Late Silla"
+     },
+     {
+      "n": 2,
+      "why": "Uicheon founding the Haedong 천태종 (Cheontae school) was mid-Goryeo (reigns of Munjong–Sukjong).",
+      "belongsTo": "Mid-Goryeo"
+     },
+     {
+      "n": 4,
+      "why": "Publication of 구황촬요 (Essentials of Famine Relief) was under King Myeongjong of Joseon.",
+      "belongsTo": "Joseon King Myeongjong"
+     },
+     {
+      "n": 5,
+      "why": "Carving the 초조 대장경 (first Tripitaka Koreana) was under King Hyeonjong of Goryeo during the Khitan invasions.",
+      "belongsTo": "Goryeo King Hyeonjong"
+     }
+    ],
+    "point": "Yuan interference: Mongol fashion (braids, Mongol dress) and Goryeo style in Yuan, tribute women and eunuchs, Eungbang, Jeongdong Haengseong."
+   }
+  },
+  "16": {
+   "era": "고려",
+   "ko": {
+    "clues": [
+     "조위총",
+     "동·북 양계",
+     "개경의 중방",
+     "서경으로 달려와야 한다"
+    ],
+    "identifies": "무신 정권 초기 서경 유수 조위총이 일으킨 반란(1174)이다.",
+    "correct": "조위총의 난은 정중부, 이의방 등이 일으킨 무신 정변(1170)으로 성립한 무신 정권에 반발하여 일어났다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "노비 만적의 반란 모의는 최충헌 집권기(1198)로 조위총의 난 이후이다.",
+      "belongsTo": "최충헌 집권기"
+     },
+     {
+      "n": 3,
+      "why": "신돈이 전민변정도감의 판사가 된 것은 공민왕 때이다.",
+      "belongsTo": "고려 공민왕"
+     },
+     {
+      "n": 4,
+      "why": "망이·망소이의 봉기는 1176년으로 조위총의 난 이후의 일이다.",
+      "belongsTo": "무신 집권기(1176)"
+     },
+     {
+      "n": 5,
+      "why": "최충헌이 교정도감을 설치한 것은 1209년으로 조위총의 난 이후이다.",
+      "belongsTo": "최씨 무신 정권"
+     }
+    ],
+    "point": "무신 정변(1170) → 김보당의 난(1173)·조위총의 난(1174) → 망이·망소이(1176) → 만적(1198)."
+   },
+   "en": {
+    "clues": [
+     "Jo Wichong",
+     "the two frontier regions (양계) of east and north",
+     "the 중방 (Jungbang, council of generals) in Gaegyeong",
+     "hurry to Seogyeong"
+    ],
+    "identifies": "The revolt of Jo Wichong, regent of Seogyeong, in 1174, early in the military regime.",
+    "correct": "Jo Wichong's revolt was a reaction against the military regime created by the 1170 coup of Jeong Jungbu, Yi Uibang and others.",
+    "options": [
+     {
+      "n": 1,
+      "why": "The slave Manjeok's plot was under Choe Chungheon (1198), after Jo Wichong's revolt.",
+      "belongsTo": "Choe Chungheon era"
+     },
+     {
+      "n": 3,
+      "why": "Sin Don heading the 전민변정도감 (Directorate for Reclassifying Land and Slaves) was under King Gongmin.",
+      "belongsTo": "Goryeo King Gongmin"
+     },
+     {
+      "n": 4,
+      "why": "The uprising of Mangi and Mangsoi was in 1176, after Jo Wichong's revolt.",
+      "belongsTo": "Military regime (1176)"
+     },
+     {
+      "n": 5,
+      "why": "Choe Chungheon setting up the 교정도감 (Gyojeong Dogam) was in 1209, after Jo Wichong's revolt.",
+      "belongsTo": "Choe military regime"
+     }
+    ],
+    "point": "Military coup (1170) → Kim Bodang (1173) and Jo Wichong (1174) revolts → Mangi and Mangsoi (1176) → Manjeok (1198)."
+   }
+  },
+  "17": {
+   "era": "고려",
+   "ko": {
+    "clues": [
+     "최우",
+     "야별초",
+     "좌우(좌별초·우별초)",
+     "신의군"
+    ],
+    "identifies": "(가)는 좌별초·우별초·신의군으로 구성된 삼별초이다.",
+    "correct": "삼별초는 개경 환도 결정에 반발하여 배중손 등의 지휘 아래 강화도·진도·제주도로 옮기며 대몽 항쟁을 전개하였다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "광군사의 통제를 받은 것은 고려 정종 때 거란에 대비해 조직한 광군이다.",
+      "belongsTo": "광군"
+     },
+     {
+      "n": 2,
+      "why": "정미 7조약에 의해 해산된 것은 대한 제국 군대이다.",
+      "belongsTo": "대한 제국 군대"
+     },
+     {
+      "n": 3,
+      "why": "4군 6진을 개척한 것은 조선 세종 때 최윤덕·김종서의 활약이다.",
+      "belongsTo": "조선 세종"
+     },
+     {
+      "n": 5,
+      "why": "평상시 생업에 종사하다 유사시 향토 방위를 맡은 예비군은 조선 초의 잡색군이다.",
+      "belongsTo": "잡색군"
+     }
+    ],
+    "point": "삼별초 = 좌·우별초 + 신의군, 최씨 정권의 사병적 성격, 개경 환도 반대 → 강화·진도·제주 항쟁."
+   },
+   "en": {
+    "clues": [
+     "Choe U",
+     "야별초 (Yabyeolcho, Night Patrols)",
+     "split into left and right units",
+     "신의군 (Sinuigun, escapees from the Mongols)"
+    ],
+    "identifies": "(A) is the 삼별초 (Sambyeolcho, Three Elite Patrols), made up of the left and right patrols and the Sinuigun.",
+    "correct": "Opposing the decision to return the capital to Gaegyeong, the Sambyeolcho under Bae Jungson and others fought the Mongols, moving from Ganghwa to Jindo and Jeju.",
+    "options": [
+     {
+      "n": 1,
+      "why": "Being controlled by the 광군사 (Gwanggunsa) applies to the 광군 (Gwanggun) organised under King Jeongjong of Goryeo against the Khitan.",
+      "belongsTo": "Gwanggun"
+     },
+     {
+      "n": 2,
+      "why": "Being disbanded under the 정미 7조약 (1907 Japan–Korea Treaty) applies to the Korean Empire's army.",
+      "belongsTo": "Korean Empire army"
+     },
+     {
+      "n": 3,
+      "why": "Opening the 4군 6진 (four counties and six garrisons) was under King Sejong of Joseon (Choe Yundeok, Kim Jongseo).",
+      "belongsTo": "Joseon King Sejong"
+     },
+     {
+      "n": 5,
+      "why": "A reserve force that farmed in peacetime and defended its locality in emergencies was the 잡색군 (Japsaekgun) of early Joseon.",
+      "belongsTo": "Japsaekgun"
+     }
+    ],
+    "point": "Sambyeolcho = left and right patrols + Sinuigun; private-army character under the Choe regime; resisted the return to Gaegyeong → Ganghwa, Jindo, Jeju."
+   }
+  },
+  "18": {
+   "era": "고려",
+   "ko": {
+    "clues": [
+     "고려 말 삼은(三隱)",
+     "목은(牧隱)",
+     "이곡의 아들",
+     "고려와 원의 과거 합격",
+     "성리학의 보급"
+    ],
+    "identifies": "'그'는 목은 이색이다.",
+    "correct": "이색은 공민왕 때 성균관 대사성이 되어 정몽주 등을 학관으로 천거하고 성리학 보급에 힘썼다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "역옹패설과 사략을 저술한 것은 이제현이다.",
+      "belongsTo": "이제현"
+     },
+     {
+      "n": 2,
+      "why": "왕명에 의해 삼국사기를 편찬한 것은 김부식이다.",
+      "belongsTo": "김부식"
+     },
+     {
+      "n": 3,
+      "why": "문헌공도를 설립한 것은 최충이다.",
+      "belongsTo": "최충"
+     },
+     {
+      "n": 4,
+      "why": "수선사 결사를 제창한 것은 지눌이다.",
+      "belongsTo": "지눌"
+     }
+    ],
+    "point": "삼은 = 목은 이색·포은 정몽주·야은 길재(또는 도은 이숭인); 이색은 성균관 중영과 성리학 보급."
+   },
+   "en": {
+    "clues": [
+     "one of the 삼은 (Three Eun) of late Goryeo",
+     "목은 (Mogeun)",
+     "son of Yi Gok",
+     "passed the exams of Goryeo and Yuan",
+     "spread Neo-Confucianism"
+    ],
+    "identifies": "'He' is Mogeun Yi Saek.",
+    "correct": "Under King Gongmin, Yi Saek became 대사성 (rector) of the 성균관 (Seonggyungwan), recommended Jeong Mongju and others as instructors, and worked to spread Neo-Confucianism.",
+    "options": [
+     {
+      "n": 1,
+      "why": "Writing 역옹패설 (Yeogong paeseol) and 사략 (Saryak) was Yi Jehyeon.",
+      "belongsTo": "Yi Jehyeon"
+     },
+     {
+      "n": 2,
+      "why": "Compiling the 삼국사기 (History of the Three Kingdoms) by royal order was Kim Busik.",
+      "belongsTo": "Kim Busik"
+     },
+     {
+      "n": 3,
+      "why": "Founding the 문헌공도 (Munheon-gongdo private academy) was Choe Chung.",
+      "belongsTo": "Choe Chung"
+     },
+     {
+      "n": 4,
+      "why": "Proposing the 수선사 결사 (Susonsa society) for Buddhist reform was Jinul.",
+      "belongsTo": "Jinul"
+     }
+    ],
+    "point": "Three Eun = Mogeun Yi Saek, Poeun Jeong Mongju, Yaeun Gil Jae (or Doeun Yi Sungin); Yi Saek revived Seonggyungwan and spread Neo-Confucianism."
+   }
+  },
+  "19": {
+   "era": "조선 전기",
+   "ko": {
+    "clues": [
+     "광통교",
+     "두 차례 왕자의 난으로 즉위",
+     "태조의 계비 신덕 왕후의 능 이장"
+    ],
+    "identifies": "(가)는 조선 태종이다.",
+    "correct": "태종 때(1402) 세계 지도인 혼일강리역대국도지도가 제작되었다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "최무선의 건의로 화통도감이 설치된 것은 고려 우왕 때이다.",
+      "belongsTo": "고려 우왕"
+     },
+     {
+      "n": 2,
+      "why": "경국대전이 완성된 것은 조선 성종 때이다.",
+      "belongsTo": "조선 성종"
+     },
+     {
+      "n": 3,
+      "why": "비변사가 처음 설치된 것은 조선 중종 때(삼포왜란 이후 임시 기구)이다.",
+      "belongsTo": "조선 중종"
+     },
+     {
+      "n": 5,
+      "why": "칠정산이 간행된 것은 조선 세종 때이다.",
+      "belongsTo": "조선 세종"
+     }
+    ],
+    "point": "태종: 왕자의 난·6조 직계제·호패법·사병 혁파·신문고·혼일강리역대국도지도."
+   },
+   "en": {
+    "clues": [
+     "Gwangtonggyo bridge",
+     "took the throne through two Strifes of Princes",
+     "relocated the tomb of Queen Sindeok, Taejo's second queen"
+    ],
+    "identifies": "(A) is King Taejong of Joseon.",
+    "correct": "Under Taejong (1402) the world map 혼일강리역대국도지도 (Honil gangni yeokdae gukdo jido) was made.",
+    "options": [
+     {
+      "n": 1,
+      "why": "Setting up the 화통도감 (Firearms Directorate) on Choe Museon's proposal was under King U of Goryeo.",
+      "belongsTo": "Goryeo King U"
+     },
+     {
+      "n": 2,
+      "why": "Completing the 경국대전 (Gyeongguk daejeon, national code) was under King Seongjong of Joseon.",
+      "belongsTo": "Joseon King Seongjong"
+     },
+     {
+      "n": 3,
+      "why": "The 비변사 (Bibyeonsa, Border Defence Council) was first set up under King Jungjong (a temporary body after the Three Ports Riot).",
+      "belongsTo": "Joseon King Jungjong"
+     },
+     {
+      "n": 5,
+      "why": "Publishing 칠정산 (Chiljeongsan, calendar based on Hanyang) was under King Sejong of Joseon.",
+      "belongsTo": "Joseon King Sejong"
+     }
+    ],
+    "point": "Taejong: Strifes of Princes, direct six-ministry rule, hopae tags, abolishing private armies, Sinmungo drum, Honil gangni map."
+   }
+  },
+  "20": {
+   "era": "조선 후기",
+   "ko": {
+    "clues": [
+     "은대조례",
+     "은대라고 불린 이 기구",
+     "승지들의 사무"
+    ],
+    "identifies": "'이 기구'는 승정원(은대)이다.",
+    "correct": "승정원은 도승지 등 승지를 두고 왕명의 출납을 관장한 국왕 비서 기관이다.",
+    "options": [
+     {
+      "n": 2,
+      "why": "사간원, 사헌부와 함께 3사로 불린 것은 홍문관이다.",
+      "belongsTo": "홍문관"
+     },
+     {
+      "n": 3,
+      "why": "천문 연구, 기상 관측 등을 맡은 것은 관상감(서운관)이다.",
+      "belongsTo": "관상감"
+     },
+     {
+      "n": 4,
+      "why": "실록을 보관하고 관리하는 업무를 담당한 것은 춘추관과 사고이다.",
+      "belongsTo": "춘추관"
+     },
+     {
+      "n": 5,
+      "why": "국왕 직속 사법 기구로 강상죄·반역죄를 처결한 것은 의금부이다.",
+      "belongsTo": "의금부"
+     }
+    ],
+    "point": "승정원(은대) = 왕명 출납, 의금부 = 왕명 죄인, 3사 = 사헌부·사간원·홍문관."
+   },
+   "en": {
+    "clues": [
+     "은대조례 (Eundae jorye, regulations of the Eundae)",
+     "this office called 은대 (Eundae)",
+     "the work of the royal secretaries (승지)"
+    ],
+    "identifies": "'This office' is the 승정원 (Seungjeongwon, Royal Secretariat), nicknamed Eundae.",
+    "correct": "The Seungjeongwon, staffed by royal secretaries headed by the Chief Secretary, handled the transmission of royal orders in and out.",
+    "options": [
+     {
+      "n": 2,
+      "why": "Being called one of the 3사 (Three Offices) with the Saganwon and Saheonbu was the 홍문관 (Hongmungwan).",
+      "belongsTo": "Hongmungwan"
+     },
+     {
+      "n": 3,
+      "why": "Astronomical research and weather observation were the job of the 관상감 (Gwansanggam, Office of Astronomy).",
+      "belongsTo": "Gwansanggam"
+     },
+     {
+      "n": 4,
+      "why": "Keeping and managing the Annals (실록) was the duty of the 춘추관 (Chunchugwan) and the archives (사고).",
+      "belongsTo": "Chunchugwan"
+     },
+     {
+      "n": 5,
+      "why": "The king's own judicial body that tried crimes against moral order and treason was the 의금부 (Uigeumbu).",
+      "belongsTo": "Uigeumbu"
+     }
+    ],
+    "point": "Seungjeongwon (Eundae) = royal orders; Uigeumbu = crimes by royal order; Three Offices = Saheonbu, Saganwon, Hongmungwan."
+   }
+  },
+  "21": {
+   "era": "조선 전기",
+   "ko": {
+    "clues": [
+     "1417년~1475년",
+     "호 보한재",
+     "집현전 학사, 훈민정음 해례본",
+     "계유정난 정난공신",
+     "세조 대 사대교린 외교 주도",
+     "원상"
+    ],
+    "identifies": "검색창에 들어갈 인물은 신숙주이다.",
+    "correct": "신숙주는 일본에 다녀온 경험을 바탕으로 일본의 정치·사회·지리 등을 정리한 해동제국기를 저술하였다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "기해예송에서 기년설(1년설)을 주장한 것은 송시열 등 서인이다.",
+      "belongsTo": "송시열(서인)"
+     },
+     {
+      "n": 2,
+      "why": "반정 공신의 위훈 삭제를 건의한 것은 조광조이다.",
+      "belongsTo": "조광조"
+     },
+     {
+      "n": 3,
+      "why": "예안 향약을 시행한 것은 이황이다.",
+      "belongsTo": "이황"
+     },
+     {
+      "n": 4,
+      "why": "최초로 100리 척을 사용한 동국지도를 제작한 것은 정상기이다.",
+      "belongsTo": "정상기"
+     }
+    ],
+    "point": "신숙주: 집현전·훈민정음·계유정난 공신·해동제국기·국조오례의 편찬 참여."
+   },
+   "en": {
+    "clues": [
+     "1417–1475",
+     "pen name 보한재 (Bohanjae)",
+     "Jiphyeonjeon scholar, Hunminjeongeum Haerye edition",
+     "Gyeyu coup merit subject",
+     "led the sadae-gyorin diplomacy under Sejo",
+     "원상 (wonsang, council elder)"
+    ],
+    "identifies": "The person to search is 신숙주 (Sin Sukju).",
+    "correct": "Drawing on his trip to Japan, Sin Sukju wrote 해동제국기 (Haedong jegukgi, Record of the Countries across the Eastern Sea), describing Japan's politics, society and geography.",
+    "options": [
+     {
+      "n": 1,
+      "why": "Arguing for the one-year mourning (기년설) in the 기해예송 (Gihae mourning controversy) was Song Siyeol and the Westerners.",
+      "belongsTo": "Song Siyeol (Westerners)"
+     },
+     {
+      "n": 2,
+      "why": "Proposing to strip false merit titles of the 반정 공신 (Jungjong restoration merit subjects) was Jo Gwangjo.",
+      "belongsTo": "Jo Gwangjo"
+     },
+     {
+      "n": 3,
+      "why": "Implementing the 예안 향약 (Yean community compact) was Yi Hwang.",
+      "belongsTo": "Yi Hwang"
+     },
+     {
+      "n": 4,
+      "why": "Making the 동국지도 (Dongguk jido) with the first 100-ri scale was Jeong Sanggi.",
+      "belongsTo": "Jeong Sanggi"
+     }
+    ],
+    "point": "Sin Sukju: Jiphyeonjeon, Hunminjeongeum, Gyeyu coup merit subject, Haedong jegukgi, helped compile Gukjo orye-ui."
+   }
+  },
+  "22": {
+   "era": "조선 전기",
+   "ko": {
+    "clues": [
+     "관현맹",
+     "박연의 상소",
+     "여민락 작곡"
+    ],
+    "identifies": "(가)는 조선 세종이다.",
+    "correct": "세종은 유교 윤리 보급을 위해 충신·효자·열녀의 행적을 그림과 글로 엮은 삼강행실도를 편찬하였다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "신문고를 처음 설치한 것은 조선 태종이다.",
+      "belongsTo": "조선 태종"
+     },
+     {
+      "n": 2,
+      "why": "삼수병으로 구성된 훈련도감을 창설한 것은 조선 선조이다.",
+      "belongsTo": "조선 선조"
+     },
+     {
+      "n": 3,
+      "why": "탕평비를 세운 것은 조선 영조이다.",
+      "belongsTo": "조선 영조"
+     },
+     {
+      "n": 4,
+      "why": "대전통편을 간행한 것은 조선 정조이다.",
+      "belongsTo": "조선 정조"
+     }
+    ],
+    "point": "세종: 박연의 아악 정비·여민락·정간보, 삼강행실도·농사직설·칠정산·훈민정음."
+   },
+   "en": {
+    "clues": [
+     "관현맹 (gwanhyeonmaeng, blind court musicians)",
+     "Bak Yeon's memorial",
+     "composed 여민락 (Yeominak)"
+    ],
+    "identifies": "(A) is King Sejong of Joseon.",
+    "correct": "To spread Confucian ethics, Sejong compiled 삼강행실도 (Samgang haengsildo), illustrating exemplary loyal subjects, filial children and virtuous women.",
+    "options": [
+     {
+      "n": 1,
+      "why": "First installing the 신문고 (Sinmungo, petition drum) was King Taejong of Joseon.",
+      "belongsTo": "Joseon King Taejong"
+     },
+     {
+      "n": 2,
+      "why": "Founding the 훈련도감 (Hullyeon Dogam) made up of 삼수병 (three-skill soldiers) was King Seonjo of Joseon.",
+      "belongsTo": "Joseon King Seonjo"
+     },
+     {
+      "n": 3,
+      "why": "Erecting the 탕평비 (Tangpyeong stele) was King Yeongjo of Joseon.",
+      "belongsTo": "Joseon King Yeongjo"
+     },
+     {
+      "n": 4,
+      "why": "Publishing the 대전통편 (Daejeon tongpyeon) was King Jeongjo of Joseon.",
+      "belongsTo": "Joseon King Jeongjo"
+     }
+    ],
+    "point": "Sejong: Bak Yeon's court-music reform, Yeominak, jeonganbo notation; Samgang haengsildo, Nongsa jikseol, Chiljeongsan, Hunminjeongeum."
+   }
+  },
+  "23": {
+   "era": "조선 후기",
+   "ko": {
+    "clues": [
+     "선혜청",
+     "공가(貢價)를 받아 물품 마련",
+     "궁궐과 관청에 납품하는 상인"
+    ],
+    "identifies": "이 상인은 대동법 실시 이후 등장한 공인이다.",
+    "correct": "공납의 폐단을 시정하기 위해 대동법이 실시되면서, 관청에 필요한 물품을 조달하는 공인이 등장하였다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "관수 관급제가 시행된 것은 조선 성종 때이다.",
+      "belongsTo": "조선 성종"
+     },
+     {
+      "n": 2,
+      "why": "건원중보가 주조된 것은 고려 성종 때이다.",
+      "belongsTo": "고려 성종"
+     },
+     {
+      "n": 3,
+      "why": "대동 상회가 설립된 것은 개항기(1883)이다.",
+      "belongsTo": "개항기"
+     },
+     {
+      "n": 5,
+      "why": "신해통공으로 금난전권이 폐지된 것은 정조 때(1791)로 공인 등장 이후이다.",
+      "belongsTo": "조선 정조"
+     }
+    ],
+    "point": "대동법(선혜청 관할, 공물을 쌀·베·동전으로) → 공인 등장 → 상품 화폐 경제 발달."
+   },
+   "en": {
+    "clues": [
+     "선혜청 (Seonhyecheong, Office of Benevolent Relief)",
+     "received 공가 (tribute payments) to procure goods",
+     "merchants supplying the palace and government offices"
+    ],
+    "identifies": "This merchant is the 공인 (gongin, tribute merchant), who appeared after the 대동법 (Daedong law).",
+    "correct": "When the 대동법 (Daedong law) was enforced to fix the abuses of tribute (공납), gongin appeared to procure goods needed by government offices.",
+    "options": [
+     {
+      "n": 1,
+      "why": "The 관수 관급제 (state-managed collection and payment of stipend-land rent) was introduced under King Seongjong of Joseon.",
+      "belongsTo": "Joseon King Seongjong"
+     },
+     {
+      "n": 2,
+      "why": "Minting the metal coin 건원중보 (Geonwon jungbo) was under King Seongjong of Goryeo.",
+      "belongsTo": "Goryeo King Seongjong"
+     },
+     {
+      "n": 3,
+      "why": "Founding the 대동 상회 (Daedong Trading Company) was in the port-opening period (1883).",
+      "belongsTo": "Port-opening period"
+     },
+     {
+      "n": 5,
+      "why": "Abolishing 금난전권 (exclusive market rights) by the Sinhae Tonggong was under King Jeongjo (1791), after gongin appeared.",
+      "belongsTo": "Joseon King Jeongjo"
+     }
+    ],
+    "point": "Daedong law (run by Seonhyecheong, tribute paid in rice, cloth or coin) → gongin appear → growth of a commodity-money economy."
+   }
+  },
+  "24": {
+   "era": "조선 전기",
+   "ko": {
+    "clues": [
+     "한성부 도심의 경계",
+     "둘레 약 18km",
+     "4대문과 4소문",
+     "숭례문·흥인지문·돈의문·숙정문"
+    ],
+    "identifies": "'이 성곽'은 한양 도성(서울 한양도성)이다.",
+    "correct": "정봉수가 후금의 침입(정묘호란)에 맞서 항전한 곳은 평안도 철산의 용골산성으로, 한양 도성과 관련이 없다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "옳은 설명이다. 한양 도성은 조선 개국 초 정도전 등이 설계하였다.",
+      "belongsTo": "한양 도성"
+     },
+     {
+      "n": 2,
+      "why": "옳은 설명이다. 태조 때 도성조축도감을 설치하여 축조를 관장하였다.",
+      "belongsTo": "한양 도성"
+     },
+     {
+      "n": 4,
+      "why": "옳은 설명이다. 태조·세종·숙종 대의 축성과 보수를 거쳐 시기별 축성 기술의 변화가 성벽에 남아 있다.",
+      "belongsTo": "한양 도성"
+     },
+     {
+      "n": 5,
+      "why": "옳은 설명이다. 일제 강점기 도시 정비 계획을 구실로 성벽과 성문 일부가 헐려 크게 훼손되었다.",
+      "belongsTo": "한양 도성"
+     }
+    ],
+    "point": "정봉수 = 용골산성(정묘호란), 한양 도성 = 정도전 설계·도성조축도감·시기별 축성 기술."
+   },
+   "en": {
+    "clues": [
+     "boundary of the Hanseong-bu city centre",
+     "circumference about 18 km",
+     "four great gates and four small gates",
+     "Sungnyemun, Heunginjimun, Donuimun, Sukjeongmun"
+    ],
+    "identifies": "'This fortress wall' is the Hanyang city wall (Seoul City Wall, 한양 도성).",
+    "correct": "Jeong Bongsu resisted the Later Jin invasion (정묘호란, 1627) at 용골산성 (Yonggolsanseong) in Cheolsan, Pyeongan-do, not at the Hanyang city wall.",
+    "options": [
+     {
+      "n": 1,
+      "why": "True: the Hanyang city wall was designed by Jeong Dojeon and others early in the dynasty.",
+      "belongsTo": "Hanyang city wall"
+     },
+     {
+      "n": 2,
+      "why": "True: under Taejo the 도성조축도감 (Directorate for Building the Capital Wall) supervised its construction.",
+      "belongsTo": "Hanyang city wall"
+     },
+     {
+      "n": 4,
+      "why": "True: built and repaired under Taejo, Sejong and Sukjong, the wall shows how Joseon fortification techniques changed over time.",
+      "belongsTo": "Hanyang city wall"
+     },
+     {
+      "n": 5,
+      "why": "True: under Japanese rule, parts of the walls and gates were torn down on the pretext of urban planning.",
+      "belongsTo": "Hanyang city wall"
+     }
+    ],
+    "point": "Jeong Bongsu = Yonggolsanseong (1627 invasion); Hanyang wall = Jeong Dojeon's design, Dogseong Jochuk Dogam, layered building techniques."
+   }
+  },
+  "25": {
+   "era": "조선 전기",
+   "ko": {
+    "clues": [
+     "권율",
+     "행주산",
+     "책(柵)을 설치하여 방비",
+     "적이 결국 패해 후퇴"
+    ],
+    "identifies": "임진왜란 중의 행주 대첩(1593)이다.",
+    "correct": "행주 대첩 이후 명과 일본 사이의 휴전 회담이 결렬되자 왜군이 다시 침입하여 정유재란이 일어났다(1597).",
+    "options": [
+     {
+      "n": 1,
+      "why": "최영이 홍산에서 왜구를 크게 무찌른 것은 고려 우왕 때(1376)이다.",
+      "belongsTo": "고려 우왕"
+     },
+     {
+      "n": 2,
+      "why": "이순신의 한산도 대첩은 1592년 7월로 행주 대첩 이전이다.",
+      "belongsTo": "임진왜란 초기(1592)"
+     },
+     {
+      "n": 4,
+      "why": "이종무가 쓰시마를 정벌한 것은 조선 세종 때(1419)이다.",
+      "belongsTo": "조선 세종"
+     },
+     {
+      "n": 5,
+      "why": "신립이 탄금대에서 항전한 것은 1592년 4월로 행주 대첩 이전이다.",
+      "belongsTo": "임진왜란 초기(1592)"
+     }
+    ],
+    "point": "임진왜란: 탄금대(1592.4) → 한산도(1592.7) → 진주 대첩(1592.10) → 평양성 탈환·행주 대첩(1593) → 휴전 회담 → 정유재란(1597)."
+   },
+   "en": {
+    "clues": [
+     "Gwon Yul",
+     "Haengju mountain",
+     "set up a palisade (책) for defence",
+     "the enemy was finally defeated and retreated"
+    ],
+    "identifies": "The Battle of Haengju (1593) during the Imjin War.",
+    "correct": "After Haengju, peace talks between Ming and Japan broke down and Japanese forces invaded again, starting the 정유재란 (Jeongyu War, 1597).",
+    "options": [
+     {
+      "n": 1,
+      "why": "Choe Yeong's great victory over Japanese pirates at Hongsan was under King U of Goryeo (1376).",
+      "belongsTo": "Goryeo King U"
+     },
+     {
+      "n": 2,
+      "why": "Yi Sunsin's victory at Hansando was in July 1592, before Haengju.",
+      "belongsTo": "Early Imjin War (1592)"
+     },
+     {
+      "n": 4,
+      "why": "Yi Jongmu's expedition against Tsushima was under King Sejong of Joseon (1419).",
+      "belongsTo": "Joseon King Sejong"
+     },
+     {
+      "n": 5,
+      "why": "Sin Rip's last stand at Tangeumdae was in April 1592, before Haengju.",
+      "belongsTo": "Early Imjin War (1592)"
+     }
+    ],
+    "point": "Imjin War: Tangeumdae (Apr 1592) → Hansando (Jul 1592) → Jinju (Oct 1592) → recapture of Pyeongyang and Haengju (1593) → truce talks → Jeongyu War (1597)."
+   }
+  },
+  "26": {
+   "era": "조선 전기",
+   "ko": {
+    "clues": [
+     "양재역 벽서",
+     "여주(女主)가 위에서 정권을 잡고",
+     "간신 이기(李芑)",
+     "대비마마"
+    ],
+    "identifies": "양재역 벽서 사건(1547)으로, 문정 왕후가 수렴청정하던 명종 재위 시기이다.",
+    "correct": "명종 즉위 직후(1545) 윤임(대윤)과 윤원형(소윤) 등 외척 간의 대립으로 을사사화가 일어났다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "사림이 동인과 서인으로 나뉜 것은 이조 전랑 임명 문제를 계기로 한 선조 때(1575)의 일이다.",
+      "belongsTo": "선조"
+     },
+     {
+      "n": 3,
+      "why": "서인이 반정을 일으켜 광해군을 몰아낸 것은 인조반정(1623)이다.",
+      "belongsTo": "인조반정(광해군 말)"
+     },
+     {
+      "n": 4,
+      "why": "김종직 등 사림이 중앙 정계에 진출하기 시작한 것은 성종 때이다.",
+      "belongsTo": "성종"
+     },
+     {
+      "n": 5,
+      "why": "폐비 윤씨 사사 사건이 알려져 김굉필 등이 처형된 것은 연산군 때의 갑자사화(1504)이다.",
+      "belongsTo": "연산군(갑자사화)"
+     }
+    ],
+    "point": "양재역 벽서 사건·을사사화=명종(문정 왕후), 무오·갑자사화=연산군, 기묘사화=중종이다."
+   },
+   "en": {
+    "clues": [
+     "양재역 벽서 (Yangjaeyeok wall poster)",
+     "a queen (女主) holds power above",
+     "the treacherous minister 이기 (Yi Gi)",
+     "대비마마 (the Queen Dowager)"
+    ],
+    "identifies": "This is the 양재역 벽서 사건 (Yangjaeyeok Wall Poster Incident, 1547), during the reign of King 명종 (Myeongjong), when Queen Dowager 문정 왕후 (Munjeong) ruled as regent.",
+    "correct": "Right after Myeongjong's accession (1545), conflict between royal in-law factions, 윤임 (Greater Yun) and 윤원형 (Lesser Yun), caused the 을사사화 (Eulsa Literati Purge).",
+    "options": [
+     {
+      "n": 1,
+      "why": "The split of the 사림 (Sarim) into 동인 (Easterners) and 서인 (Westerners) occurred under King 선조 (Seonjo, 1575) over the appointment of the 이조 전랑 post.",
+      "belongsTo": "King Seonjo"
+     },
+     {
+      "n": 3,
+      "why": "The 서인 (Westerners) staging a coup to depose 광해군 (Gwanghaegun) was the 인조반정 (Injo Restoration, 1623).",
+      "belongsTo": "Injo Restoration (end of Gwanghaegun)"
+     },
+     {
+      "n": 4,
+      "why": "Sarim scholars such as 김종직 (Kim Jong-jik) began entering central politics under King 성종 (Seongjong).",
+      "belongsTo": "King Seongjong"
+     },
+     {
+      "n": 5,
+      "why": "Kim Goeng-pil and others were executed when the death of deposed Queen Yun became known in the 갑자사화 (Gapja Purge, 1504) under 연산군 (Yeonsangun).",
+      "belongsTo": "Yeonsangun (Gapja Purge)"
+     }
+    ],
+    "point": "Yangjaeyeok poster & Eulsa Purge = Myeongjong (Queen Munjeong); Muo & Gapja Purges = Yeonsangun; Gimyo Purge = Jungjong."
+   }
+  },
+  "27": {
+   "era": "조선 후기",
+   "ko": {
+    "clues": [
+     "정조가 정치적 이상을 담아 축조",
+     "정조가 행차할 때 머물렀던 행궁",
+     "장용영 군사를 지휘했던 서장대"
+    ],
+    "identifies": "정조가 축조한 수원 화성이다.",
+    "correct": "수원 화성은 포루·공심돈 등 방어 시설을 갖추었고(ㄴ), 정약용이 고안한 거중기 등을 이용하여 축조되었다(ㄹ).",
+    "options": [
+     {
+      "n": 1,
+      "why": "ㄱ(고종이 아관파천 이후 환궁한 곳)은 경운궁(덕수궁)에 대한 설명이다.",
+      "belongsTo": "경운궁(덕수궁)"
+     },
+     {
+      "n": 2,
+      "why": "ㄱ은 경운궁(덕수궁), ㄷ(당백전 발행으로 건설 비용 충당)은 흥선 대원군의 경복궁 중건에 대한 설명이다.",
+      "belongsTo": "경운궁·경복궁 중건"
+     },
+     {
+      "n": 3,
+      "why": "ㄷ은 흥선 대원군이 경복궁을 중건할 때의 일로 수원 화성과 관계없다.",
+      "belongsTo": "경복궁 중건(흥선 대원군)"
+     },
+     {
+      "n": 5,
+      "why": "ㄷ은 흥선 대원군의 경복궁 중건에 해당하므로 옳지 않다.",
+      "belongsTo": "경복궁 중건(흥선 대원군)"
+     }
+    ],
+    "point": "수원 화성=정조·장용영 외영·거중기·공심돈, 경복궁 중건=흥선 대원군·당백전·원납전이다."
+   },
+   "en": {
+    "clues": [
+     "built by 정조 (Jeongjo) to embody his political ideals",
+     "the detached palace (행궁) where Jeongjo stayed on royal visits",
+     "서장대 (Seojangdae), command post of the 장용영 (Jangyongyeong) troops"
+    ],
+    "identifies": "It is 수원 화성 (Hwaseong Fortress, Suwon), built by King Jeongjo.",
+    "correct": "Hwaseong had defensive works such as 포루 (gun bastions) and 공심돈 (observation towers) (ㄴ), and was built using the 거중기 (crane) designed by 정약용 (Jeong Yak-yong) (ㄹ).",
+    "options": [
+     {
+      "n": 1,
+      "why": "ㄱ (where Gojong returned after the 아관파천 (royal refuge at the Russian legation)) describes 경운궁 (Gyeongungung, i.e. Deoksugung).",
+      "belongsTo": "Gyeongungung (Deoksugung)"
+     },
+     {
+      "n": 2,
+      "why": "ㄱ describes Gyeongungung (Deoksugung), and ㄷ (funding construction by issuing 당백전 (dangbaekjeon coins)) describes the rebuilding of 경복궁 (Gyeongbokgung) by 흥선 대원군 (the Heungseon Daewongun).",
+      "belongsTo": "Gyeongungung; Gyeongbokgung rebuilding"
+     },
+     {
+      "n": 3,
+      "why": "ㄷ refers to the Heungseon Daewongun's rebuilding of Gyeongbokgung, not Hwaseong.",
+      "belongsTo": "Gyeongbokgung rebuilding (Daewongun)"
+     },
+     {
+      "n": 5,
+      "why": "ㄷ belongs to the Daewongun's rebuilding of Gyeongbokgung, so this pair is wrong.",
+      "belongsTo": "Gyeongbokgung rebuilding (Daewongun)"
+     }
+    ],
+    "point": "Hwaseong = Jeongjo, Jangyongyeong outer garrison, geojunggi crane, gongsimdon; Gyeongbokgung rebuilding = Daewongun, dangbaekjeon, wonnapjeon."
+   }
+  },
+  "28": {
+   "era": "조선 후기",
+   "ko": {
+    "clues": [
+     "실옹",
+     "땅덩이는 하루 동안에 한 바퀴를 도는데",
+     "허생",
+     "배가 외국과 통하지 못하고, 수레가 국내에 두루 다니지 못하는"
+    ],
+    "identifies": "(가)는 지전설을 주장한 홍대용의 『의산문답』, (나)는 박지원의 『허생전』으로, 두 사람은 북학파 실학자이다.",
+    "correct": "홍대용은 연행사를 따라 청에 다녀와 『을병연행록』(『연기』)을, 박지원은 『열하일기』를 남겼다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "갑술환국(1694)으로 정계에서 축출된 것은 남인이다.",
+      "belongsTo": "남인(숙종)"
+     },
+     {
+      "n": 2,
+      "why": "양명학을 연구하여 강화학파를 형성한 인물은 정제두이다.",
+      "belongsTo": "정제두"
+     },
+     {
+      "n": 3,
+      "why": "서얼 출신으로 규장각 검서관에 기용된 인물은 박제가·이덕무·유득공 등이다.",
+      "belongsTo": "박제가·이덕무 등"
+     },
+     {
+      "n": 5,
+      "why": "화폐 사용의 폐단을 지적하며 폐전론을 주장한 인물은 이익이다.",
+      "belongsTo": "이익"
+     }
+    ],
+    "point": "홍대용=지전설·의산문답·혼천의, 박지원=열하일기·허생전·양반전·수레와 선박 이용이다."
+   },
+   "en": {
+    "clues": [
+     "실옹 (Sirong)",
+     "the earth turns once a day",
+     "허생 (Heo-saeng)",
+     "ships do not reach foreign lands and carts do not travel throughout the country"
+    ],
+    "identifies": "(가) is 『의산문답』 (Uisan Mundap) by 홍대용 (Hong Dae-yong), advocating the earth's rotation; (나) is 『허생전』 (Tale of Heo-saeng) by 박지원 (Bak Ji-won). Both were 북학파 (Northern Learning) Silhak scholars.",
+    "correct": "Both went to Qing with a 연행사 (envoy mission) and left travel records: Hong Dae-yong's 『을병연행록』 and Bak Ji-won's 『열하일기』 (Jehol Diary).",
+    "options": [
+     {
+      "n": 1,
+      "why": "Those expelled from power in the 갑술환국 (Gapsul Hwanguk, 1694) were the 남인 (Southerners).",
+      "belongsTo": "Southerners (Sukjong)"
+     },
+     {
+      "n": 2,
+      "why": "The scholar who studied 양명학 (Wang Yangming learning) and formed the 강화학파 (Ganghwa School) was 정제두 (Jeong Je-du).",
+      "belongsTo": "Jeong Je-du"
+     },
+     {
+      "n": 3,
+      "why": "Scholars of 서얼 (secondary-son) birth appointed as 규장각 검서관 (Gyujanggak editors) were 박제가 (Bak Je-ga), 이덕무 (Yi Deok-mu), 유득공 and others.",
+      "belongsTo": "Bak Je-ga, Yi Deok-mu, etc."
+     },
+     {
+      "n": 5,
+      "why": "The scholar who opposed the use of currency (폐전론, abolition of coinage) was 이익 (Yi Ik).",
+      "belongsTo": "Yi Ik"
+     }
+    ],
+    "point": "Hong Dae-yong = earth's rotation, Uisan Mundap, armillary sphere; Bak Ji-won = Yeolha Ilgi, Heo-saeng-jeon, Yangban-jeon, use of carts and ships."
+   }
+  },
+  "29": {
+   "era": "조선 후기",
+   "ko": {
+    "clues": [
+     "책가도",
+     "다양한 주제의 민화",
+     "서민들에게도 인기"
+    ],
+    "identifies": "책가도와 민화가 유행한 조선 후기이다.",
+    "correct": "벽란도에서 송의 상인이 인삼을 사는 모습은 예성강 하구 벽란도가 국제 무역항으로 번성한 고려 시대의 모습이므로 조선 후기와 맞지 않다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "판소리는 조선 후기 서민 문화로 널리 유행하였으므로 볼 수 있는 모습이다.",
+      "belongsTo": "조선 후기"
+     },
+     {
+      "n": 2,
+      "why": "탈춤은 조선 후기 장시 등에서 공연되며 양반을 풍자하였으므로 볼 수 있는 모습이다.",
+      "belongsTo": "조선 후기"
+     },
+     {
+      "n": 3,
+      "why": "조선 후기에는 장시가 전국적으로 늘어나 보부상이 활동하였으므로 볼 수 있는 모습이다.",
+      "belongsTo": "조선 후기"
+     },
+     {
+      "n": 4,
+      "why": "조선 후기에는 한글 소설이 유행하여 전기수가 소설을 읽어 주었으므로 볼 수 있는 모습이다.",
+      "belongsTo": "조선 후기"
+     }
+    ],
+    "point": "벽란도·송 상인=고려, 판소리·탈춤·한글 소설·전기수·민화=조선 후기 서민 문화이다."
+   },
+   "en": {
+    "clues": [
+     "책가도 (chaekgado, bookshelf painting)",
+     "민화 (folk painting) of diverse themes",
+     "popular even among commoners"
+    ],
+    "identifies": "It is late Joseon, when chaekgado and folk painting were popular.",
+    "correct": "Song merchants buying ginseng at 벽란도 (Byeongnando) depicts Goryeo, when Byeongnando at the mouth of the Yeseong River flourished as an international port, so it does not fit late Joseon.",
+    "options": [
+     {
+      "n": 1,
+      "why": "판소리 (pansori) spread widely as commoner culture in late Joseon, so this scene fits.",
+      "belongsTo": "Late Joseon"
+     },
+     {
+      "n": 2,
+      "why": "탈춤 (mask dance) was performed at markets in late Joseon and satirized the yangban, so this scene fits.",
+      "belongsTo": "Late Joseon"
+     },
+     {
+      "n": 3,
+      "why": "장시 (local markets) multiplied nationwide in late Joseon and 보부상 (peddlers) were active, so this scene fits.",
+      "belongsTo": "Late Joseon"
+     },
+     {
+      "n": 4,
+      "why": "Hangul novels were popular in late Joseon and 전기수 (professional storytellers) read them aloud, so this scene fits.",
+      "belongsTo": "Late Joseon"
+     }
+    ],
+    "point": "Byeongnando & Song merchants = Goryeo; pansori, mask dance, Hangul novels, jeongisu, folk painting = late Joseon commoner culture."
+   }
+  },
+  "30": {
+   "era": "개항기",
+   "ko": {
+    "clues": [
+     "강화도 광성보",
+     "침입한 미군",
+     "어재연 장군",
+     "결사 항전"
+    ],
+    "identifies": "1871년 미군이 강화도를 침입한 신미양요이다.",
+    "correct": "신미양요(1871)는 오페르트 도굴 사건(1868) 이후에 일어났고, 이를 계기로 척화비(1871)가 건립되었으므로 (라)에 해당한다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "(가)는 홍경래의 난(1811)과 고종 즉위(1863) 사이로, 임술 농민 봉기(1862) 등이 일어난 세도 정치 시기이다.",
+      "belongsTo": "세도 정치기"
+     },
+     {
+      "n": 2,
+      "why": "(나)는 고종 즉위 이후 제너럴셔먼호 사건(1866) 이전으로, 병인박해(1866) 등이 있었다.",
+      "belongsTo": "병인박해 무렵"
+     },
+     {
+      "n": 3,
+      "why": "(다)는 제너럴셔먼호 사건과 오페르트 도굴 사건 사이로, 프랑스군이 침입한 병인양요(1866)가 이 시기이다.",
+      "belongsTo": "병인양요"
+     },
+     {
+      "n": 5,
+      "why": "(마)는 척화비 건립 이후 강화도 조약(1876) 이전으로, 흥선 대원군 하야(1873)와 운요호 사건(1875)이 있었다.",
+      "belongsTo": "운요호 사건 등"
+     }
+    ],
+    "point": "제너럴셔먼호(1866)→병인양요(1866)→오페르트 도굴(1868)→신미양요(1871)→척화비 건립 순서이다."
+   },
+   "en": {
+    "clues": [
+     "광성보 (Gwangseongbo) on Ganghwa Island",
+     "invading American forces",
+     "General 어재연 (Eo Jae-yeon)",
+     "fought to the death"
+    ],
+    "identifies": "It is the 신미양요 (Sinmiyangyo, US expedition to Korea, 1871), when US forces invaded Ganghwa Island.",
+    "correct": "Sinmiyangyo (1871) came after the 오페르트 (Oppert) grave-robbing incident (1868), and the 척화비 (anti-foreign steles, 1871) were erected because of it, so it belongs in (라).",
+    "options": [
+     {
+      "n": 1,
+      "why": "(가) lies between Hong Gyeong-rae's rebellion (1811) and Gojong's accession (1863), the 세도 정치 (in-law dominance) period including the 1862 Imsul peasant uprising.",
+      "belongsTo": "In-law government period"
+     },
+     {
+      "n": 2,
+      "why": "(나) lies after Gojong's accession and before the General Sherman incident (1866), when the 병인박해 (Catholic persecution of 1866) took place.",
+      "belongsTo": "Byeongin Persecution"
+     },
+     {
+      "n": 3,
+      "why": "(다) lies between the General Sherman and Oppert incidents; the French invasion 병인양요 (Byeonginyangyo, 1866) belongs here.",
+      "belongsTo": "Byeonginyangyo"
+     },
+     {
+      "n": 5,
+      "why": "(마) lies after the steles were erected and before the 강화도 조약 (Treaty of Ganghwa, 1876), including the Daewongun's retirement (1873) and the Unyo incident (1875).",
+      "belongsTo": "Unyo incident, etc."
+     }
+    ],
+    "point": "General Sherman (1866) → Byeonginyangyo (1866) → Oppert incident (1868) → Sinmiyangyo (1871) → anti-foreign steles."
+   }
+  },
+  "31": {
+   "era": "개항기",
+   "ko": {
+    "clues": [
+     "파리 만국 박람회장 한국관",
+     "황제로 즉위한 뒤 개혁을 추진하던 고종",
+     "대한 제국"
+    ],
+    "identifies": "고종이 황제로 즉위한 뒤 추진한 대한 제국의 광무개혁이다.",
+    "correct": "광무개혁 때 근대 의료 기관으로 관립 의학교(1899)와 광제원(1900)을 설립하였다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "'건양' 연호는 을미개혁 때 사용되었다.",
+      "belongsTo": "을미개혁"
+     },
+     {
+      "n": 2,
+      "why": "별기군은 1881년 개화 정책의 일환으로 창설되었다.",
+      "belongsTo": "개항 초기 개화 정책(1881)"
+     },
+     {
+      "n": 4,
+      "why": "박문국을 설치하고 한성순보를 발간한 것은 1883년의 일이다.",
+      "belongsTo": "개화 정책(1883)"
+     },
+     {
+      "n": 5,
+      "why": "한일 관계 사료집 편찬과 독립 공채 발행은 대한민국 임시 정부의 활동이다.",
+      "belongsTo": "대한민국 임시 정부"
+     }
+    ],
+    "point": "광무개혁=구본신참·지계 발급·관립 의학교·광제원, 건양 연호=을미개혁이다."
+   },
+   "en": {
+    "clues": [
+     "the Korean pavilion at the Paris Exposition",
+     "Gojong pursuing reforms after being enthroned as emperor",
+     "대한 제국 (Korean Empire)"
+    ],
+    "identifies": "It is the 광무개혁 (Gwangmu Reform) of the Korean Empire, pursued after Gojong became emperor.",
+    "correct": "During the Gwangmu Reform, the state founded the 관립 의학교 (Government Medical School, 1899) and 광제원 (Gwangjewon hospital, 1900).",
+    "options": [
+     {
+      "n": 1,
+      "why": "The era name 건양 (Geonyang) was adopted in the 을미개혁 (Eulmi Reform).",
+      "belongsTo": "Eulmi Reform"
+     },
+     {
+      "n": 2,
+      "why": "The 별기군 (Special Skills Force) was created in 1881 as part of early enlightenment policies.",
+      "belongsTo": "Early enlightenment policy (1881)"
+     },
+     {
+      "n": 4,
+      "why": "Setting up the 박문국 (Bakmunguk) and publishing the 한성순보 (Hanseong Sunbo) happened in 1883.",
+      "belongsTo": "Enlightenment policy (1883)"
+     },
+     {
+      "n": 5,
+      "why": "Compiling the Korea–Japan relations source book and issuing independence bonds were activities of the 대한민국 임시 정부 (Provisional Government).",
+      "belongsTo": "Provisional Government"
+     }
+    ],
+    "point": "Gwangmu Reform = 구본신참 (old as base, new as reference), land certificates, government medical school, Gwangjewon; Geonyang era name = Eulmi Reform."
+   }
+  },
+  "32": {
+   "era": "개항기",
+   "ko": {
+    "clues": [
+     "고부 농민 봉기",
+     "황토현 전투",
+     "전주 화약 체결",
+     "일본군의 경복궁 점령",
+     "논산",
+     "우금치 전투"
+    ],
+    "identifies": "동학 농민 운동의 전개 과정으로, (가)는 일본군의 경복궁 점령 이후 우금치 전투 이전의 2차 봉기 단계이다.",
+    "correct": "일본군의 경복궁 점령 후 농민군이 재봉기하여 남접과 북접이 논산에서 연합한 뒤 공주 우금치로 진격하였다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "교정청 설치는 전주 화약 이후, 일본군의 경복궁 점령 이전의 일이다.",
+      "belongsTo": "전주 화약 직후"
+     },
+     {
+      "n": 2,
+      "why": "전봉준 체포는 우금치 전투 패배 이후의 일이다.",
+      "belongsTo": "우금치 전투 이후"
+     },
+     {
+      "n": 3,
+      "why": "13도 창의군 결성은 1907년 정미의병 때의 일이다.",
+      "belongsTo": "정미의병"
+     },
+     {
+      "n": 4,
+      "why": "안핵사 이용태 파견은 고부 농민 봉기 직후, 황토현 전투 이전의 일이다.",
+      "belongsTo": "고부 봉기 직후"
+     }
+    ],
+    "point": "고부 봉기→안핵사 파견→황토현→전주 화약(집강소·교정청)→경복궁 점령→남북접 연합(논산)→우금치→전봉준 체포 순서이다."
+   },
+   "en": {
+    "clues": [
+     "Gobu peasant uprising",
+     "Battle of Hwangtohyeon",
+     "전주 화약 (Jeonju Truce)",
+     "Japanese occupation of Gyeongbokgung",
+     "논산 (Nonsan)",
+     "Battle of 우금치 (Ugeumchi)"
+    ],
+    "identifies": "This traces the 동학 농민 운동 (Donghak Peasant Movement); (가) is the second uprising stage after the Japanese seized Gyeongbokgung and before Ugeumchi.",
+    "correct": "After the Japanese seized Gyeongbokgung, the peasants rose again; the 남접 (Southern Assembly) and 북접 (Northern Assembly) joined forces at Nonsan and then advanced on Ugeumchi in Gongju.",
+    "options": [
+     {
+      "n": 1,
+      "why": "The 교정청 (Office for Reform) was set up after the Jeonju Truce and before the Japanese seizure of Gyeongbokgung.",
+      "belongsTo": "Right after the Jeonju Truce"
+     },
+     {
+      "n": 2,
+      "why": "전봉준 (Jeon Bong-jun) was captured after the defeat at Ugeumchi.",
+      "belongsTo": "After Ugeumchi"
+     },
+     {
+      "n": 3,
+      "why": "The 13도 창의군 (Righteous Army of 13 Provinces) was formed in 1907 during the Jeongmi uprisings.",
+      "belongsTo": "Jeongmi Righteous Army"
+     },
+     {
+      "n": 4,
+      "why": "The dispatch of 안핵사 (royal inspector) 이용태 (Yi Yong-tae) came right after the Gobu uprising, before Hwangtohyeon.",
+      "belongsTo": "Right after Gobu uprising"
+     }
+    ],
+    "point": "Gobu → inspector sent → Hwangtohyeon → Jeonju Truce (jipgangso, Gyojeongcheong) → Gyeongbokgung seized → North–South union (Nonsan) → Ugeumchi → Jeon Bong-jun captured."
+   }
+  },
+  "33": {
+   "era": "개항기",
+   "ko": {
+    "clues": [
+     "청의 알선으로 서양과 맺은 최초의 조약",
+     "United States – Korea, 1882"
+    ],
+    "identifies": "청의 알선으로 1882년 체결된 조미 수호 통상 조약이다.",
+    "correct": "조미 수호 통상 조약 체결 후 미국 공사가 부임하자, 이에 답하여 민영익을 대표로 한 보빙사가 미국에 파견되었다(1883).",
+    "options": [
+     {
+      "n": 1,
+      "why": "부산·원산·인천의 개항은 강화도 조약(1876)의 결과이다.",
+      "belongsTo": "강화도 조약"
+     },
+     {
+      "n": 2,
+      "why": "김홍집이 조선책략을 소개한 것(1880)은 조미 수호 통상 조약 체결의 배경이다.",
+      "belongsTo": "조약 체결 이전(1880)"
+     },
+     {
+      "n": 4,
+      "why": "운요호 사건(1875)은 강화도 조약 체결의 계기이다.",
+      "belongsTo": "강화도 조약 이전"
+     },
+     {
+      "n": 5,
+      "why": "통리기무아문 설치(1880)는 조약 체결 이전의 개화 정책이다.",
+      "belongsTo": "개화 정책(1880)"
+     }
+    ],
+    "point": "조선책략 유포(1880)→조미 수호 통상 조약(1882, 거중조정·최혜국 대우)→보빙사 파견(1883)이다."
+   },
+   "en": {
+    "clues": [
+     "the first treaty with a Western country, mediated by Qing",
+     "United States – Korea, 1882"
+    ],
+    "identifies": "It is the 조미 수호 통상 조약 (Korea–US Treaty of Amity and Commerce, 1882), concluded through Qing mediation.",
+    "correct": "After the treaty, a US minister arrived in Korea, and in response the 보빙사 (Bobingsa mission) led by 민영익 (Min Yeong-ik) was sent to the US (1883).",
+    "options": [
+     {
+      "n": 1,
+      "why": "Opening Busan, Wonsan and Incheon resulted from the 강화도 조약 (Treaty of Ganghwa, 1876).",
+      "belongsTo": "Treaty of Ganghwa"
+     },
+     {
+      "n": 2,
+      "why": "Kim Hong-jip's introduction of 『조선책략』 (Strategy for Korea, 1880) was a background cause of the Korea–US treaty, not its effect.",
+      "belongsTo": "Before the treaty (1880)"
+     },
+     {
+      "n": 4,
+      "why": "The 운요호 (Unyo) incident (1875) led to the Treaty of Ganghwa.",
+      "belongsTo": "Before the Treaty of Ganghwa"
+     },
+     {
+      "n": 5,
+      "why": "The 통리기무아문 (Office for Extraordinary State Affairs) was set up in 1880, before the treaty.",
+      "belongsTo": "Enlightenment policy (1880)"
+     }
+    ],
+    "point": "Joseon Chaengnyak circulated (1880) → Korea–US treaty (1882; good offices, most-favored-nation) → Bobingsa sent (1883)."
+   }
+  },
+  "34": {
+   "era": "개항기",
+   "ko": {
+    "clues": [
+     "태극 서관",
+     "대한매일신보",
+     "대성 학교",
+     "평양 종로 태극서관"
+    ],
+    "identifies": "태극 서관과 대성 학교를 운영한 신민회이다.",
+    "correct": "신민회는 안창호, 양기탁 등이 조직한 비밀 결사로, 공화정 수립을 목표로 하였다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "민립 대학 설립 운동은 1920년대 조선 교육회 등이 주도하였다.",
+      "belongsTo": "조선 교육회(1920년대)"
+     },
+     {
+      "n": 2,
+      "why": "러시아의 절영도 조차 요구를 저지한 단체는 독립 협회이다.",
+      "belongsTo": "독립 협회"
+     },
+     {
+      "n": 3,
+      "why": "파리 강화 회의에 독립 청원서를 제출한 것은 신한 청년당이 파견한 김규식이다.",
+      "belongsTo": "신한 청년당(김규식)"
+     },
+     {
+      "n": 5,
+      "why": "국문 연구소는 대한 제국 학부 산하에 설치되어 주시경·지석영 등이 활동하였다.",
+      "belongsTo": "대한 제국 학부(국문 연구소)"
+     }
+    ],
+    "point": "신민회=비밀 결사·공화정·대성 학교·오산 학교·태극 서관·자기 회사·105인 사건이다."
+   },
+   "en": {
+    "clues": [
+     "태극 서관 (Taegeuk Bookstore)",
+     "대한매일신보 (Daehan Maeil Sinbo)",
+     "대성 학교 (Daeseong School)",
+     "Taegeuk Bookstore, Jongno, Pyongyang"
+    ],
+    "identifies": "It is the 신민회 (Sinminhoe, New People's Association), which ran the Taegeuk Bookstore and Daeseong School.",
+    "correct": "Sinminhoe was a secret society organized by 안창호 (An Chang-ho), 양기탁 (Yang Gi-tak) and others, aiming at a republic.",
+    "options": [
+     {
+      "n": 1,
+      "why": "The movement to found a private national university was led in the 1920s by the 조선 교육회 (Joseon Education Association) and others.",
+      "belongsTo": "Joseon Education Association (1920s)"
+     },
+     {
+      "n": 2,
+      "why": "The group that blocked Russia's demand to lease 절영도 (Jeolyeong Island) was the 독립 협회 (Independence Club).",
+      "belongsTo": "Independence Club"
+     },
+     {
+      "n": 3,
+      "why": "The independence petition to the Paris Peace Conference was submitted by 김규식 (Kim Kyu-sik), sent by the 신한 청년당 (New Korea Youth Party).",
+      "belongsTo": "New Korea Youth Party (Kim Kyu-sik)"
+     },
+     {
+      "n": 5,
+      "why": "The 국문 연구소 (Korean Language Research Institute) was set up under the Korean Empire's Ministry of Education, with 주시경 (Ju Si-gyeong) and others.",
+      "belongsTo": "Korean Empire Ministry of Education"
+     }
+    ],
+    "point": "Sinminhoe = secret society, republic, Daeseong & Osan schools, Taegeuk Bookstore, porcelain company, 105-Person Incident."
+   }
+  },
+  "35": {
+   "era": "개항기",
+   "ko": {
+    "clues": [
+     "육영 공원의 교사",
+     "고종의 특사가 되어 헤이그를 방문",
+     "대한 제국 멸망사",
+     "웨스트민스터 사원보다 한국 땅에 묻히기를 염원"
+    ],
+    "identifies": "육영 공원 교사로 활동하고 헤이그 특사를 도운 미국인 헐버트이다.",
+    "correct": "헐버트는 육영 공원 학생들을 위해 한글로 된 세계 지리 교재인 『사민필지』를 집필하였다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "화폐 정리 사업을 주도한 것은 일본인 재정 고문 메가타이다.",
+      "belongsTo": "메가타"
+     },
+     {
+      "n": 3,
+      "why": "이화 학당은 미국 선교사 메리 스크랜턴이 설립하였다.",
+      "belongsTo": "메리 스크랜턴"
+     },
+     {
+      "n": 4,
+      "why": "스티븐스를 샌프란시스코에서 사살한 것은 장인환과 전명운이다.",
+      "belongsTo": "장인환·전명운"
+     },
+     {
+      "n": 5,
+      "why": "국채 보상 운동(1907)에 관한 활동으로, 헐버트의 활동이 아니다.",
+      "belongsTo": "국채 보상 운동"
+     }
+    ],
+    "point": "헐버트=육영 공원·사민필지·헤이그 특사 지원·대한 제국 멸망사, 베델=대한매일신보, 스크랜턴=이화 학당이다."
+   },
+   "en": {
+    "clues": [
+     "teacher at 육영 공원 (Yugyeong Gongwon)",
+     "went to The Hague as Gojong's special envoy",
+     "『대한 제국 멸망사』 (The Passing of Korea)",
+     "wished to be buried in Korea rather than Westminster Abbey"
+    ],
+    "identifies": "He is Homer Hulbert (헐버트), an American who taught at Yugyeong Gongwon and assisted the Hague envoys.",
+    "correct": "Hulbert wrote 『사민필지』 (Samin Pilji), a Hangul world-geography textbook for Yugyeong Gongwon students.",
+    "options": [
+     {
+      "n": 1,
+      "why": "The currency reorganization project was led by the Japanese financial adviser 메가타 (Megata).",
+      "belongsTo": "Megata"
+     },
+     {
+      "n": 3,
+      "why": "이화 학당 (Ewha Haktang) was founded by the American missionary Mary F. Scranton (메리 스크랜턴).",
+      "belongsTo": "Mary F. Scranton"
+     },
+     {
+      "n": 4,
+      "why": "Durham Stevens was shot in San Francisco by 장인환 (Jang In-hwan) and 전명운 (Jeon Myeong-un).",
+      "belongsTo": "Jang In-hwan & Jeon Myeong-un"
+     },
+     {
+      "n": 5,
+      "why": "This concerns the 국채 보상 운동 (National Debt Repayment Movement, 1907) and is not Hulbert's activity.",
+      "belongsTo": "National Debt Repayment Movement"
+     }
+    ],
+    "point": "Hulbert = Yugyeong Gongwon, Samin Pilji, aid to Hague envoys, The Passing of Korea; Bethell = Daehan Maeil Sinbo; Scranton = Ewha."
+   }
+  },
+  "36": {
+   "era": "개항기",
+   "ko": {
+    "clues": [
+     "관민 공동회 개회식",
+     "충군애국의 뜻",
+     "백정의 아들",
+     "제중원 의학교 1회 졸업생"
+    ],
+    "identifies": "관민 공동회를 주관한 독립 협회이다(백정 박성춘의 연설).",
+    "correct": "독립 협회는 관민 공동회에서 헌의 6조를 결의하고, 중추원을 개편하여 의회를 설립하려 하였다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "일제의 황무지 개간권 요구를 저지한 단체는 보안회이다.",
+      "belongsTo": "보안회"
+     },
+     {
+      "n": 3,
+      "why": "농촌 계몽을 위한 브나로드 운동은 동아일보가 전개하였다.",
+      "belongsTo": "동아일보"
+     },
+     {
+      "n": 4,
+      "why": "구미 위원부는 대한민국 임시 정부가 외교 활동을 위해 설치하였다.",
+      "belongsTo": "대한민국 임시 정부"
+     },
+     {
+      "n": 5,
+      "why": "여권통문은 서울 북촌의 양반 여성들이 발표하였고, 이를 바탕으로 찬양회가 조직되었다.",
+      "belongsTo": "북촌 양반 여성(찬양회)"
+     }
+    ],
+    "point": "독립 협회=독립문·만민 공동회·관민 공동회·헌의 6조·중추원 개편(의회 설립 운동)이다."
+   },
+   "en": {
+    "clues": [
+     "opening of the 관민 공동회 (Joint Assembly of Officials and People)",
+     "loyalty to the sovereign and love of country",
+     "son of a 백정 (butcher, outcaste)",
+     "first graduate of the Jejungwon medical school"
+    ],
+    "identifies": "It is the 독립 협회 (Independence Club), which organized the Joint Assembly of Officials and People (where the butcher 박성춘 spoke).",
+    "correct": "The Independence Club adopted the 헌의 6조 (Six Articles) at the Joint Assembly and pursued a parliament by reorganizing the 중추원 (Privy Council).",
+    "options": [
+     {
+      "n": 1,
+      "why": "The group that blocked Japan's demand for wasteland reclamation rights was the 보안회 (Boanhoe).",
+      "belongsTo": "Boanhoe"
+     },
+     {
+      "n": 3,
+      "why": "The 브나로드 (V narod) rural enlightenment campaign was run by the Dong-A Ilbo.",
+      "belongsTo": "Dong-A Ilbo"
+     },
+     {
+      "n": 4,
+      "why": "The 구미 위원부 (Korean Commission to America and Europe) was set up by the Provisional Government for diplomacy.",
+      "belongsTo": "Provisional Government"
+     },
+     {
+      "n": 5,
+      "why": "The 여권통문 (Declaration of Women's Rights) was issued by yangban women of Bukchon, Seoul, who then formed the 찬양회 (Chanyanghoe).",
+      "belongsTo": "Bukchon yangban women (Chanyanghoe)"
+     }
+    ],
+    "point": "Independence Club = Independence Gate, Manmin Gongdonghoe, Joint Assembly, Six Articles, parliament via Privy Council reform."
+   }
+  },
+  "37": {
+   "era": "일제강점기",
+   "ko": {
+    "clues": [
+     "정우회 선언",
+     "민족주의적 세력과 과도기적 동맹자적 관계",
+     "신간회",
+     "해소 문제 토의"
+    ],
+    "identifies": "(가)는 정우회 선언(1926), (나)는 신간회 해소를 논의한 전체 대회(1931)이다.",
+    "correct": "광주 학생 항일 운동(1929)은 신간회 활동 시기에 일어났으며, 신간회는 진상 조사단을 파견하였다.",
+    "options": [
+     {
+      "n": 2,
+      "why": "임병찬의 독립 의군부 조직은 1912년의 일로 (가) 이전이다.",
+      "belongsTo": "1910년대"
+     },
+     {
+      "n": 3,
+      "why": "봉오동 전투 승리는 1920년의 일로 (가) 이전이다.",
+      "belongsTo": "1920년"
+     },
+     {
+      "n": 4,
+      "why": "2·8 독립 선언은 1919년의 일로 (가) 이전이다.",
+      "belongsTo": "1919년"
+     },
+     {
+      "n": 5,
+      "why": "조선 의용대 창설은 1938년의 일로 (나) 이후이다.",
+      "belongsTo": "1938년"
+     }
+    ],
+    "point": "정우회 선언(1926)→신간회 창립(1927)→광주 학생 항일 운동(1929)→신간회 해소(1931) 순서이다."
+   },
+   "en": {
+    "clues": [
+     "정우회 (Jeonguhoe) Manifesto",
+     "a transitional alliance with nationalist forces",
+     "신간회 (Singanhoe)",
+     "debate on dissolution"
+    ],
+    "identifies": "(가) is the Jeonguhoe Manifesto (1926); (나) is the Singanhoe national convention that debated its dissolution (1931).",
+    "correct": "The 광주 학생 항일 운동 (Gwangju Student Independence Movement, 1929) occurred while Singanhoe was active; Singanhoe sent a fact-finding team.",
+    "options": [
+     {
+      "n": 2,
+      "why": "임병찬 (Im Byeong-chan) organized the 독립 의군부 (Dongnip Uigunbu) in 1912, before (가).",
+      "belongsTo": "1910s"
+     },
+     {
+      "n": 3,
+      "why": "The victory at 봉오동 (Bongo-dong) was in 1920, before (가).",
+      "belongsTo": "1920"
+     },
+     {
+      "n": 4,
+      "why": "The 2·8 Declaration of Independence by students in Tokyo was in 1919, before (가).",
+      "belongsTo": "1919"
+     },
+     {
+      "n": 5,
+      "why": "The 조선 의용대 (Korean Volunteer Corps) was founded in 1938, after (나).",
+      "belongsTo": "1938"
+     }
+    ],
+    "point": "Jeonguhoe Manifesto (1926) → Singanhoe founded (1927) → Gwangju Student Movement (1929) → Singanhoe dissolved (1931)."
+   }
+  },
+  "38": {
+   "era": "일제강점기",
+   "ko": {
+    "clues": [
+     "박용만",
+     "네브라스카주 한인 소년병 학교",
+     "대조선 국민군단"
+    ],
+    "identifies": "박용만이 대조선 국민군단을 조직한 하와이이다.",
+    "correct": "박용만은 1914년 하와이에서 대조선 국민군단을 조직하여 독립군을 양성하였다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "(가) 서간도에서는 경학사와 신흥 강습소(신흥 무관 학교)가 세워졌다.",
+      "belongsTo": "서간도(경학사·신흥 무관 학교)"
+     },
+     {
+      "n": 2,
+      "why": "(나) 연해주에서는 권업회, 대한 광복군 정부, 대한 국민 의회 등이 활동하였다.",
+      "belongsTo": "연해주(권업회·대한 국민 의회)"
+     },
+     {
+      "n": 3,
+      "why": "(다) 상하이에서는 신한 청년당과 대한민국 임시 정부가 활동하였다.",
+      "belongsTo": "상하이(대한민국 임시 정부)"
+     },
+     {
+      "n": 5,
+      "why": "(마) 멕시코에서는 한인 이주민들이 숭무 학교를 세워 독립군을 양성하였다.",
+      "belongsTo": "멕시코(숭무 학교)"
+     }
+    ],
+    "point": "하와이=대조선 국민군단(박용만), 멕시코=숭무 학교, 미국 본토=대한인 국민회·한인 소년병 학교이다."
+   },
+   "en": {
+    "clues": [
+     "박용만 (Pak Yong-man)",
+     "Korean Youth Military Academy in Nebraska",
+     "대조선 국민군단 (Korean National Brigade)"
+    ],
+    "identifies": "It is Hawaii, where Pak Yong-man organized the Korean National Brigade.",
+    "correct": "In 1914 Pak Yong-man organized the Korean National Brigade in Hawaii to train independence soldiers.",
+    "options": [
+     {
+      "n": 1,
+      "why": "(가) West Jiandao (서간도) was home to the 경학사 (Gyeonghaksa) and 신흥 강습소 (later Sinheung Military Academy).",
+      "belongsTo": "West Jiandao (Gyeonghaksa, Sinheung)"
+     },
+     {
+      "n": 2,
+      "why": "(나) Primorye (연해주) saw the 권업회 (Gwoneophoe), the Korean Restoration Army Government and the 대한 국민 의회 (Korean National Council).",
+      "belongsTo": "Primorye (Gwoneophoe, National Council)"
+     },
+     {
+      "n": 3,
+      "why": "(다) Shanghai was the base of the New Korea Youth Party and the Provisional Government.",
+      "belongsTo": "Shanghai (Provisional Government)"
+     },
+     {
+      "n": 5,
+      "why": "(마) In Mexico, Korean immigrants founded the 숭무 학교 (Sungmu School) to train soldiers.",
+      "belongsTo": "Mexico (Sungmu School)"
+     }
+    ],
+    "point": "Hawaii = Korean National Brigade (Pak Yong-man); Mexico = Sungmu School; US mainland = Korean National Association, Youth Military Academy."
+   }
+  },
+  "39": {
+   "era": "일제강점기",
+   "ko": {
+    "clues": [
+     "조선 혁명군 총사령관",
+     "일제의 밀정에 의해 사망",
+     "신흥 무관 학교 교성 대장",
+     "한국 독립군 총사령관",
+     "한국광복군 총사령관"
+    ],
+    "identifies": "(가)는 조선 혁명군 총사령관 양세봉, (나)는 한국 독립군 총사령관이자 한국광복군 총사령관 지청천이다.",
+    "correct": "지청천이 이끈 한국 독립군은 중국 호로군과 연합하여 대전자령 전투(1933)에서 일본군에 대승을 거두었다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "조선 혁명 간부 학교는 김원봉이 난징에 설립하였다.",
+      "belongsTo": "김원봉"
+     },
+     {
+      "n": 2,
+      "why": "대한 광복회는 박상진 등이 조직하여 친일파를 처단하였다.",
+      "belongsTo": "박상진"
+     },
+     {
+      "n": 4,
+      "why": "중광단을 중심으로 북로 군정서를 조직한 것은 서일 등 대종교 계열이다.",
+      "belongsTo": "서일(대종교)"
+     },
+     {
+      "n": 5,
+      "why": "황푸 군관 학교에 입학한 것은 김원봉 등 의열단원으로, 양세봉·지청천과 무관하다.",
+      "belongsTo": "김원봉 등 의열단원"
+     }
+    ],
+    "point": "양세봉=조선 혁명군·영릉가·흥경성 전투, 지청천=한국 독립군·쌍성보·대전자령 전투·한국광복군 총사령관이다."
+   },
+   "en": {
+    "clues": [
+     "commander of the 조선 혁명군 (Korean Revolutionary Army)",
+     "killed through a Japanese spy",
+     "drill captain at Sinheung Military Academy",
+     "commander of the 한국 독립군 (Korean Independence Army)",
+     "commander of the 한국광복군 (Korean Liberation Army)"
+    ],
+    "identifies": "(가) is 양세봉 (Yang Se-bong), commander of the Korean Revolutionary Army; (나) is 지청천 (Ji Cheong-cheon), commander of the Korean Independence Army and later the Korean Liberation Army.",
+    "correct": "The Korean Independence Army under Ji Cheong-cheon, allied with Chinese forces, won a major victory at 대전자령 (Daejeonjaryeong, 1933).",
+    "options": [
+     {
+      "n": 1,
+      "why": "The 조선 혁명 간부 학교 (Korean Revolutionary Cadre School) was founded in Nanjing by 김원봉 (Kim Won-bong).",
+      "belongsTo": "Kim Won-bong"
+     },
+     {
+      "n": 2,
+      "why": "The 대한 광복회 (Korean Restoration Society) was organized by 박상진 (Bak Sang-jin) and others and punished collaborators.",
+      "belongsTo": "Bak Sang-jin"
+     },
+     {
+      "n": 4,
+      "why": "The 북로 군정서 (Northern Military Administration) was organized around the 중광단 (Junggwangdan) by 서일 (Seo Il) and other Daejonggyo followers.",
+      "belongsTo": "Seo Il (Daejonggyo)"
+     },
+     {
+      "n": 5,
+      "why": "Those who entered the Whampoa Military Academy were Kim Won-bong and other 의열단 (Uiyeoldan) members, not Yang or Ji.",
+      "belongsTo": "Kim Won-bong & Uiyeoldan"
+     }
+    ],
+    "point": "Yang Se-bong = Korean Revolutionary Army, Yeongneungga & Heunggyeong battles; Ji Cheong-cheon = Korean Independence Army, Ssangseongbo & Daejeonjaryeong, Liberation Army commander."
+   }
+  },
+  "40": {
+   "era": "일제강점기",
+   "ko": {
+    "clues": [
+     "조병창 등에 강제 동원된 노동자",
+     "중일 전쟁 이후 침략 전쟁을 확대하던 시기",
+     "탄광, 군수 공장"
+    ],
+    "identifies": "중일 전쟁(1937) 이후 일제의 민족 말살 통치·전시 동원 체제 시기이다.",
+    "correct": "일제는 전시 체제 아래 식량 배급제와 미곡 공출제를 시행하여 쌀 등을 강제로 수탈하였다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "치안 유지법 공포(1925)는 이른바 문화 통치 시기의 일이다.",
+      "belongsTo": "1920년대 문화 통치"
+     },
+     {
+      "n": 2,
+      "why": "토지 조사령 제정(1912)은 1910년대 무단 통치 시기의 일이다.",
+      "belongsTo": "1910년대 무단 통치"
+     },
+     {
+      "n": 3,
+      "why": "헌병 경찰 제도는 1910년대 무단 통치 시기에 실시되었다.",
+      "belongsTo": "1910년대 무단 통치"
+     },
+     {
+      "n": 5,
+      "why": "보통학교 수업 연한 4년은 제1차 조선 교육령(1911)의 내용이다.",
+      "belongsTo": "제1차 조선 교육령"
+     }
+    ],
+    "point": "1910년대=헌병 경찰·토지 조사 사업, 1920년대=치안 유지법·산미 증식 계획, 1937년 이후=국가 총동원법·공출·배급·징용이다."
+   },
+   "en": {
+    "clues": [
+     "workers forcibly mobilized to the 조병창 (army arsenal)",
+     "period of expanding aggressive war after the Sino-Japanese War",
+     "coal mines and munitions factories"
+    ],
+    "identifies": "It is the period of national obliteration rule and wartime mobilization after the Second Sino-Japanese War (1937).",
+    "correct": "Under the wartime system Japan imposed food rationing and 미곡 공출 (compulsory rice delivery), seizing rice by force.",
+    "options": [
+     {
+      "n": 1,
+      "why": "The 치안 유지법 (Peace Preservation Law, 1925) belongs to the so-called cultural rule of the 1920s.",
+      "belongsTo": "1920s cultural rule"
+     },
+     {
+      "n": 2,
+      "why": "The 토지 조사령 (Land Survey Ordinance, 1912) belongs to the military rule of the 1910s.",
+      "belongsTo": "1910s military rule"
+     },
+     {
+      "n": 3,
+      "why": "The 헌병 경찰 (military police) system was used during the 1910s military rule.",
+      "belongsTo": "1910s military rule"
+     },
+     {
+      "n": 5,
+      "why": "A four-year term for common schools was set by the First Joseon Education Ordinance (1911).",
+      "belongsTo": "First Education Ordinance"
+     }
+    ],
+    "point": "1910s = military police, land survey; 1920s = Peace Preservation Law, rice production plan; after 1937 = National Mobilization Law, requisition, rationing, conscripted labor."
+   }
+  },
+  "41": {
+   "era": "일제강점기",
+   "ko": {
+    "clues": [
+     "한국 혁명 여성 동맹",
+     "충칭",
+     "대일 선전 성명서"
+    ],
+    "identifies": "충칭에서 대일 선전 성명서를 발표한 대한민국 임시 정부이다.",
+    "correct": "대한민국 임시 정부는 충칭 시기(1941)에 조소앙의 삼균주의를 기초로 한 대한민국 건국 강령을 발표하였다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "좌우 합작 7원칙은 광복 후 좌우 합작 위원회가 발표하였다(1946).",
+      "belongsTo": "좌우 합작 위원회"
+     },
+     {
+      "n": 2,
+      "why": "경학사는 신민회 인사들이 서간도 삼원보에 조직한 한인 자치 기관이다.",
+      "belongsTo": "신민회(서간도)"
+     },
+     {
+      "n": 3,
+      "why": "신채호의 조선 혁명 선언을 활동 지침으로 삼은 단체는 의열단이다.",
+      "belongsTo": "의열단"
+     },
+     {
+      "n": 4,
+      "why": "한글 맞춤법 통일안과 표준어를 제정한 단체는 조선어 학회이다.",
+      "belongsTo": "조선어 학회"
+     }
+    ],
+    "point": "충칭 임시 정부=한국광복군 창설(1940)·건국 강령(1941)·대일 선전 포고·국내 진공 작전 계획이다."
+   },
+   "en": {
+    "clues": [
+     "한국 혁명 여성 동맹 (Korean Revolutionary Women's League)",
+     "충칭 (Chongqing)",
+     "declaration of war against Japan"
+    ],
+    "identifies": "It is the 대한민국 임시 정부 (Provisional Government of the Republic of Korea), which declared war on Japan from Chongqing.",
+    "correct": "In Chongqing (1941) the Provisional Government proclaimed its 건국 강령 (Founding Program) based on 조소앙 (Jo So-ang)'s 삼균주의 (Doctrine of Three Equalities).",
+    "options": [
+     {
+      "n": 1,
+      "why": "The Seven Principles of Left–Right Cooperation were issued after liberation by the 좌우 합작 위원회 (Left–Right Coalition Committee, 1946).",
+      "belongsTo": "Left–Right Coalition Committee"
+     },
+     {
+      "n": 2,
+      "why": "The 경학사 (Gyeonghaksa) was a Korean self-governing body set up in West Jiandao by Sinminhoe members.",
+      "belongsTo": "Sinminhoe (West Jiandao)"
+     },
+     {
+      "n": 3,
+      "why": "The group guided by 신채호 (Sin Chae-ho)'s 조선 혁명 선언 (Korean Revolution Manifesto) was the 의열단 (Uiyeoldan).",
+      "belongsTo": "Uiyeoldan"
+     },
+     {
+      "n": 4,
+      "why": "The unified Hangul spelling system and standard language were set by the 조선어 학회 (Korean Language Society).",
+      "belongsTo": "Korean Language Society"
+     }
+    ],
+    "point": "Chongqing Provisional Government = Korean Liberation Army (1940), Founding Program (1941), war declaration on Japan, planned homeland offensive."
+   }
+  },
+  "42": {
+   "era": "현대",
+   "ko": {
+    "clues": [
+     "제주도에서 일어난",
+     "남한만의 단독 선거를 반대하는 무장대",
+     "진압 과정에서 수많은 사람이 희생",
+     "아무 글자도 새겨져 있지 않은 비석(백비)"
+    ],
+    "identifies": "1948년 제주에서 일어난 제주 4·3 사건이다.",
+    "correct": "2000년 제주 4·3 사건 진상 규명 및 희생자 명예 회복에 관한 특별법이 제정되었다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "유신 헌법 철폐 요구는 1970년대 유신 반대 운동(개헌 청원 100만인 서명 운동 등)의 내용이다.",
+      "belongsTo": "유신 반대 운동"
+     },
+     {
+      "n": 2,
+      "why": "통일 주체 국민 회의는 1972년 유신 헌법으로 설치되었다.",
+      "belongsTo": "유신 체제"
+     },
+     {
+      "n": 4,
+      "why": "4·13 호헌 철폐와 독재 타도 구호는 6월 민주 항쟁(1987)에서 내세워졌다.",
+      "belongsTo": "6월 민주 항쟁"
+     },
+     {
+      "n": 5,
+      "why": "신한 공사는 미군정이 동양 척식 주식회사 등의 귀속 재산을 관리하기 위해 설립한 것으로 4·3 사건과 관계없다.",
+      "belongsTo": "미군정"
+     }
+    ],
+    "point": "제주 4·3 사건=5·10 총선거 반대 무장 봉기와 진압 과정의 희생, 2000년 특별법 제정이다."
+   },
+   "en": {
+    "clues": [
+     "occurred on Jeju Island",
+     "armed groups opposing separate elections in the South",
+     "many killed during the suppression",
+     "a blank stele with no inscription (백비)"
+    ],
+    "identifies": "It is the 제주 4·3 사건 (Jeju April 3 Incident, 1948).",
+    "correct": "In 2000 a special act was enacted to uncover the truth of the Jeju 4·3 Incident and restore the honor of its victims.",
+    "options": [
+     {
+      "n": 1,
+      "why": "Demanding the abolition of the 유신 헌법 (Yusin Constitution) was part of the 1970s anti-Yusin movement (e.g. the million-signature petition).",
+      "belongsTo": "Anti-Yusin movement"
+     },
+     {
+      "n": 2,
+      "why": "The 통일 주체 국민 회의 (National Conference for Unification) was created by the 1972 Yusin Constitution.",
+      "belongsTo": "Yusin system"
+     },
+     {
+      "n": 4,
+      "why": "The slogans against the April 13 measure to preserve the constitution and against dictatorship belong to the June Democratic Struggle (1987).",
+      "belongsTo": "June Democratic Struggle"
+     },
+     {
+      "n": 5,
+      "why": "신한 공사 (New Korea Company) was set up by the US military government to manage vested property such as Oriental Development Company assets; it is unrelated to 4·3.",
+      "belongsTo": "US military government"
+     }
+    ],
+    "point": "Jeju 4·3 = armed uprising against the May 10 separate election and mass killings during suppression; special act in 2000."
+   }
+  },
+  "43": {
+   "era": "현대",
+   "ko": {
+    "clues": [
+     "국민 보도 연맹 사건",
+     "좌우 대립의 혼란",
+     "영문도 모른 채 끌려 가 죽임을 당했습니다"
+    ],
+    "identifies": "국민 보도 연맹원 학살이 일어난 6·25 전쟁이다.",
+    "correct": "6·25 전쟁 중 1950년 9월 유엔군이 인천 상륙 작전을 전개하여 서울을 수복하였다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "6·3 시위(1964)는 박정희 정부의 한일 회담에 반대한 시위이다.",
+      "belongsTo": "박정희 정부(한일 회담 반대)"
+     },
+     {
+      "n": 2,
+      "why": "애치슨 선언(1950.1)은 6·25 전쟁 발발 이전에 발표되었다.",
+      "belongsTo": "전쟁 이전"
+     },
+     {
+      "n": 3,
+      "why": "브라운 각서(1966)는 베트남 파병과 관련하여 체결되었다.",
+      "belongsTo": "베트남 파병(박정희 정부)"
+     },
+     {
+      "n": 4,
+      "why": "부마 민주 항쟁(1979)은 유신 체제 말기에 일어났다.",
+      "belongsTo": "유신 체제 말기"
+     }
+    ],
+    "point": "애치슨 선언(1950.1)→6·25 전쟁 발발→낙동강 방어선→인천 상륙 작전(1950.9)→중국군 개입→정전 협정(1953)이다."
+   },
+   "en": {
+    "clues": [
+     "국민 보도 연맹 (National Bodo League) incident",
+     "chaos of left–right conflict",
+     "dragged away and killed without knowing why"
+    ],
+    "identifies": "It is the 6·25 전쟁 (Korean War), during which Bodo League members were massacred.",
+    "correct": "During the Korean War, in September 1950, UN forces carried out the Incheon Landing and recaptured Seoul.",
+    "options": [
+     {
+      "n": 1,
+      "why": "The 6·3 시위 (June 3 protests, 1964) opposed the Park Chung-hee government's Korea–Japan talks.",
+      "belongsTo": "Park government (anti Korea–Japan talks)"
+     },
+     {
+      "n": 2,
+      "why": "The Acheson Declaration (January 1950) was issued before the war began.",
+      "belongsTo": "Before the war"
+     },
+     {
+      "n": 3,
+      "why": "The Brown Memorandum (1966) was signed in connection with troop dispatch to Vietnam.",
+      "belongsTo": "Vietnam dispatch (Park government)"
+     },
+     {
+      "n": 4,
+      "why": "The Bu-Ma Democratic Uprising (1979) took place at the end of the Yusin regime.",
+      "belongsTo": "Late Yusin regime"
+     }
+    ],
+    "point": "Acheson Declaration (Jan 1950) → war breaks out → Nakdong perimeter → Incheon Landing (Sep 1950) → Chinese intervention → armistice (1953)."
+   }
+  },
+  "44": {
+   "era": "현대",
+   "ko": {
+    "clues": [
+     "여야 합의로 내각 책임제 개헌안이 통과",
+     "허정 과도 정부",
+     "총선"
+    ],
+    "identifies": "4·19 혁명 직후 허정 과도 정부 시기의 제3차 개헌(1960, 내각 책임제·양원제)이다.",
+    "correct": "개헌 후 7·29 총선으로 민의원과 참의원의 양원제 국회가 구성되었고 장면 내각이 출범하였다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "반민족 행위 처벌법은 1948년 제헌 국회에서 제정되었다.",
+      "belongsTo": "제헌 국회(1948)"
+     },
+     {
+      "n": 2,
+      "why": "제2차 미소 공동 위원회 결렬은 1947년의 일이다.",
+      "belongsTo": "미군정기(1947)"
+     },
+     {
+      "n": 4,
+      "why": "진보당의 조봉암 구속(진보당 사건, 1958)은 이승만 정부 때의 일이다.",
+      "belongsTo": "이승만 정부"
+     },
+     {
+      "n": 5,
+      "why": "유상 매수·유상 분배 원칙의 농지 개혁법은 1949년 이승만 정부 때 제정되었다.",
+      "belongsTo": "이승만 정부"
+     }
+    ],
+    "point": "1960년 3차 개헌=내각 책임제·양원제→7·29 총선→장면 내각이며, 반민법·농지 개혁법·진보당 사건은 모두 그 이전이다."
+   },
+   "en": {
+    "clues": [
+     "cabinet-system constitutional amendment passed by bipartisan agreement",
+     "허정 (Heo Jeong) caretaker government",
+     "general election"
+    ],
+    "identifies": "It is the third constitutional amendment (1960; parliamentary cabinet system, bicameral legislature) under the Heo Jeong caretaker government after the April 19 Revolution.",
+    "correct": "After the amendment, the July 29 election formed a bicameral National Assembly of the 민의원 (House of Representatives) and 참의원 (House of Councillors), and the 장면 (Chang Myon) cabinet took office.",
+    "options": [
+     {
+      "n": 1,
+      "why": "The Anti-National Activities Punishment Act was passed by the Constitutional Assembly in 1948.",
+      "belongsTo": "Constitutional Assembly (1948)"
+     },
+     {
+      "n": 2,
+      "why": "The second US–Soviet Joint Commission broke down in 1947.",
+      "belongsTo": "US military government era (1947)"
+     },
+     {
+      "n": 4,
+      "why": "The arrest of 조봉암 (Jo Bong-am) of the Progressive Party (1958) happened under Syngman Rhee.",
+      "belongsTo": "Syngman Rhee government"
+     },
+     {
+      "n": 5,
+      "why": "The Land Reform Act based on paid purchase and paid distribution was enacted in 1949 under Syngman Rhee.",
+      "belongsTo": "Syngman Rhee government"
+     }
+    ],
+    "point": "1960 third amendment = cabinet system & bicameralism → July 29 election → Chang Myon cabinet; the anti-collaborator law, land reform and Progressive Party case all came earlier."
+   }
+  },
+  "45": {
+   "era": "현대",
+   "ko": {
+    "clues": [
+     "포항 제철소 착공식",
+     "제1차 석유 파동으로 멈춰 선 버스",
+     "100억 불 수출 달성"
+    ],
+    "identifies": "포항 제철소 착공(1970), 제1차 석유 파동(1973), 100억 달러 수출 달성(1977)이 있었던 박정희 정부이다.",
+    "correct": "1971년 정부의 도시 정책에 반발한 광주 대단지(현 성남) 이주민들이 시위를 벌였다(광주 대단지 사건).",
+    "options": [
+     {
+      "n": 1,
+      "why": "최저 임금법은 1986년 전두환 정부 때 제정되었다.",
+      "belongsTo": "전두환 정부"
+     },
+     {
+      "n": 2,
+      "why": "금융 실명제는 김영삼 정부 때 실시되었다.",
+      "belongsTo": "김영삼 정부"
+     },
+     {
+      "n": 3,
+      "why": "한·칠레 자유 무역 협정은 노무현 정부 때 비준되었다.",
+      "belongsTo": "노무현 정부"
+     },
+     {
+      "n": 4,
+      "why": "전국 민주 노동조합 총연맹은 1995년 김영삼 정부 때 창립되었다.",
+      "belongsTo": "김영삼 정부"
+     }
+    ],
+    "point": "박정희 정부=경제 개발 5개년 계획·포항 제철·경부 고속 국도·석유 파동·100억 달러 수출·광주 대단지 사건·전태일 분신이다."
+   },
+   "en": {
+    "clues": [
+     "groundbreaking of the Pohang steelworks",
+     "buses halted by the first oil shock",
+     "US$10 billion in exports achieved"
+    ],
+    "identifies": "It is the 박정희 (Park Chung-hee) government: Pohang steelworks groundbreaking (1970), first oil shock (1973), US$10 billion exports (1977).",
+    "correct": "In 1971, residents relocated to the 광주 대단지 (Gwangju Large Housing Complex, now Seongnam) protested against government urban policy (Gwangju Daedanji Incident).",
+    "options": [
+     {
+      "n": 1,
+      "why": "The Minimum Wage Act was enacted in 1986 under the 전두환 (Chun Doo-hwan) government.",
+      "belongsTo": "Chun Doo-hwan government"
+     },
+     {
+      "n": 2,
+      "why": "The 금융 실명제 (real-name financial transaction system) was introduced under the 김영삼 (Kim Young-sam) government.",
+      "belongsTo": "Kim Young-sam government"
+     },
+     {
+      "n": 3,
+      "why": "The Korea–Chile FTA was ratified under the 노무현 (Roh Moo-hyun) government.",
+      "belongsTo": "Roh Moo-hyun government"
+     },
+     {
+      "n": 4,
+      "why": "The 민주노총 (Korean Confederation of Trade Unions) was founded in 1995 under the Kim Young-sam government.",
+      "belongsTo": "Kim Young-sam government"
+     }
+    ],
+    "point": "Park Chung-hee government = five-year economic plans, Pohang steel, Gyeongbu expressway, oil shocks, $10 billion exports, Gwangju Daedanji Incident, Jeon Tae-il."
+   }
+  },
+  "46": {
+   "era": "현대",
+   "ko": {
+    "clues": [
+     "임을 위한 행진곡",
+     "계엄군에 맞서 시민군으로 활동하다 희생된 윤상원",
+     "광주에서 야학을 운영"
+    ],
+    "identifies": "1980년 5·18 민주화 운동이다.",
+    "correct": "5·18 민주화 운동은 신군부의 비상계엄 전국 확대와 계엄군의 무력 진압에 맞서 광주 시민들이 저항한 운동이다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "시위 도중 이한열이 최루탄에 맞아 희생된 것은 6월 민주 항쟁(1987)이다.",
+      "belongsTo": "6월 민주 항쟁"
+     },
+     {
+      "n": 2,
+      "why": "경무대로 향하던 시위대가 경찰의 총격을 받은 것은 4·19 혁명(1960)이다.",
+      "belongsTo": "4·19 혁명"
+     },
+     {
+      "n": 3,
+      "why": "박종철 고문 치사 사건 진상 규명 요구는 6월 민주 항쟁(1987)의 배경이다.",
+      "belongsTo": "6월 민주 항쟁"
+     },
+     {
+      "n": 5,
+      "why": "3·1 민주 구국 선언(1976)은 유신 체제에 맞선 민주화 운동이다.",
+      "belongsTo": "유신 반대 운동"
+     }
+    ],
+    "point": "5·18 민주화 운동=신군부 비상계엄 확대 반대·시민군·관련 기록물 유네스코 세계 기록 유산 등재이다."
+   },
+   "en": {
+    "clues": [
+     "임을 위한 행진곡 (March for the Beloved)",
+     "윤상원 (Yun Sang-won), killed fighting martial-law troops as a member of the citizens' army",
+     "ran a night school in Gwangju"
+    ],
+    "identifies": "It is the 5·18 민주화 운동 (May 18 Gwangju Democratic Uprising, 1980).",
+    "correct": "The May 18 Uprising was the Gwangju citizens' resistance to the new military's nationwide expansion of martial law and its violent suppression.",
+    "options": [
+     {
+      "n": 1,
+      "why": "Student 이한열 (Lee Han-yeol) was killed by a tear-gas canister during the June Democratic Struggle (1987).",
+      "belongsTo": "June Democratic Struggle"
+     },
+     {
+      "n": 2,
+      "why": "Protesters marching toward 경무대 (Gyeongmudae) were fired on by police in the April 19 Revolution (1960).",
+      "belongsTo": "April 19 Revolution"
+     },
+     {
+      "n": 3,
+      "why": "Demands to uncover the torture death of 박종철 (Park Jong-cheol) fed the June Democratic Struggle (1987).",
+      "belongsTo": "June Democratic Struggle"
+     },
+     {
+      "n": 5,
+      "why": "The 3·1 Declaration for Democratic National Salvation (1976) was a movement against the Yusin regime.",
+      "belongsTo": "Anti-Yusin movement"
+     }
+    ],
+    "point": "May 18 Uprising = resistance to expanded martial law by the new military, citizens' army, records inscribed in UNESCO Memory of the World."
+   }
+  },
+  "47": {
+   "era": "현대",
+   "ko": {
+    "clues": [
+     "6·15 남북 공동 선언",
+     "연합제 안과 낮은 단계의 연방제 안",
+     "10·4 남북 정상 선언",
+     "종전을 선언하는 문제"
+    ],
+    "identifies": "(가)는 김대중 정부의 6·15 남북 공동 선언(2000), (나)는 노무현 정부의 10·4 남북 정상 선언(2007)이다.",
+    "correct": "6·15 남북 공동 선언 이후 합의에 따라 개성 공업 지구 건설이 착공되었다(2003).",
+    "options": [
+     {
+      "n": 1,
+      "why": "남북 조절 위원회는 7·4 남북 공동 성명(1972)에 따라 구성되었다.",
+      "belongsTo": "박정희 정부"
+     },
+     {
+      "n": 2,
+      "why": "7·4 남북 공동 성명은 1972년 박정희 정부 때 발표되었다.",
+      "belongsTo": "박정희 정부"
+     },
+     {
+      "n": 4,
+      "why": "남북한 비핵화 공동 선언은 1991년 노태우 정부 때 채택되었다.",
+      "belongsTo": "노태우 정부"
+     },
+     {
+      "n": 5,
+      "why": "남북 이산가족 고향 방문단의 최초 교환 방문은 1985년 전두환 정부 때 성사되었다.",
+      "belongsTo": "전두환 정부"
+     }
+    ],
+    "point": "7·4 공동 성명(1972)→이산가족 첫 상봉(1985)→남북 기본 합의서·비핵화 공동 선언(1991)→6·15(2000)→개성 공단 착공(2003)→10·4(2007) 순서이다."
+   },
+   "en": {
+    "clues": [
+     "6·15 South–North Joint Declaration",
+     "the South's confederation proposal and the North's loose federation proposal",
+     "10·4 Inter-Korean Summit Declaration",
+     "declaring an end to the war"
+    ],
+    "identifies": "(가) is the 6·15 Joint Declaration (2000, 김대중 Kim Dae-jung government); (나) is the 10·4 Summit Declaration (2007, 노무현 Roh Moo-hyun government).",
+    "correct": "Following agreements after the 6·15 Declaration, construction of the 개성 공업 지구 (Kaesong Industrial Complex) began (2003).",
+    "options": [
+     {
+      "n": 1,
+      "why": "The 남북 조절 위원회 (South–North Coordinating Committee) was formed under the 7·4 Joint Communiqué (1972).",
+      "belongsTo": "Park Chung-hee government"
+     },
+     {
+      "n": 2,
+      "why": "The 7·4 South–North Joint Communiqué was issued in 1972 under Park Chung-hee.",
+      "belongsTo": "Park Chung-hee government"
+     },
+     {
+      "n": 4,
+      "why": "The Joint Declaration on the Denuclearization of the Korean Peninsula was adopted in 1991 under 노태우 (Roh Tae-woo).",
+      "belongsTo": "Roh Tae-woo government"
+     },
+     {
+      "n": 5,
+      "why": "The first exchange of separated-family hometown visit groups took place in 1985 under Chun Doo-hwan.",
+      "belongsTo": "Chun Doo-hwan government"
+     }
+    ],
+    "point": "7·4 Communiqué (1972) → first family reunions (1985) → Basic Agreement & denuclearization declaration (1991) → 6·15 (2000) → Kaesong groundbreaking (2003) → 10·4 (2007)."
+   }
+  },
+  "48": {
+   "era": "조선 후기",
+   "ko": {
+    "clues": [
+     "영조와 정순 왕후의 혼례식 행렬",
+     "왕실이나 국가의 큰 행사",
+     "일체의 관련 사실을 글과 그림으로 기록한 책"
+    ],
+    "identifies": "왕실·국가 행사를 글과 그림으로 기록한 의궤(영조정순왕후가례도감의궤)이다.",
+    "correct": "의궤는 왕의 열람을 위한 어람용을 따로 제작하였고(ㄷ), 병인양요 때 외규장각 의궤 일부가 프랑스군에게 약탈되었다(ㄹ).",
+    "options": [
+     {
+      "n": 1,
+      "why": "ㄱ(사초와 시정기를 바탕으로 편찬)과 ㄴ(편년체)은 조선왕조실록에 대한 설명이다.",
+      "belongsTo": "조선왕조실록"
+     },
+     {
+      "n": 2,
+      "why": "ㄱ은 조선왕조실록에 대한 설명이므로 옳지 않다.",
+      "belongsTo": "조선왕조실록"
+     },
+     {
+      "n": 3,
+      "why": "ㄴ(연대순 편년체)은 조선왕조실록에 대한 설명이므로 옳지 않다.",
+      "belongsTo": "조선왕조실록"
+     },
+     {
+      "n": 4,
+      "why": "ㄴ은 조선왕조실록에 대한 설명이므로 옳지 않다.",
+      "belongsTo": "조선왕조실록"
+     }
+    ],
+    "point": "의궤=행사 기록(글·그림)·어람용·외규장각 약탈(병인양요)·2011년 영구 임대 형식 반환, 실록=사초·시정기·편년체이다."
+   },
+   "en": {
+    "clues": [
+     "royal wedding procession of King Yeongjo and Queen Jeongsun",
+     "major royal or state events",
+     "a book recording every related fact in text and pictures"
+    ],
+    "identifies": "It is the 의궤 (uigwe, royal protocols), here the record of the wedding of Yeongjo and Queen Jeongsun.",
+    "correct": "Separate 어람용 (royal-viewing) copies of uigwe were made for the king (ㄷ), and some Oegyujanggak uigwe were looted by French troops during the 병인양요 (French campaign of 1866) (ㄹ).",
+    "options": [
+     {
+      "n": 1,
+      "why": "ㄱ (compiled from 사초 (historians' drafts) and 시정기 (administrative records)) and ㄴ (chronological 편년체 format) describe the 조선왕조실록 (Annals of the Joseon Dynasty).",
+      "belongsTo": "Annals of the Joseon Dynasty"
+     },
+     {
+      "n": 2,
+      "why": "ㄱ describes the Annals of the Joseon Dynasty, so this pair is wrong.",
+      "belongsTo": "Annals of the Joseon Dynasty"
+     },
+     {
+      "n": 3,
+      "why": "ㄴ (chronological format) describes the Annals of the Joseon Dynasty, so this pair is wrong.",
+      "belongsTo": "Annals of the Joseon Dynasty"
+     },
+     {
+      "n": 4,
+      "why": "ㄴ describes the Annals of the Joseon Dynasty, so this pair is wrong.",
+      "belongsTo": "Annals of the Joseon Dynasty"
+     }
+    ],
+    "point": "Uigwe = event records in text and pictures, royal-viewing copies, looted from Oegyujanggak in 1866, returned in 2011 on permanent loan; Annals = sacho, sijeonggi, chronological format."
+   }
+  },
+  "49": {
+   "era": "고려",
+   "ko": {
+    "clues": [
+     "독서삼품",
+     "쌍기가 의견을 올리니",
+     "조광조",
+     "현량방정과의 뜻",
+     "판임관을 임명할 시에는 ... 시험을 거쳐"
+    ],
+    "identifies": "(가) 신라 원성왕의 독서삼품과, (나) 고려 광종의 과거제, (다) 조선 중종 때 조광조의 현량과, (라) 갑오개혁 시기의 관리 임용 규정이다.",
+    "correct": "(나)의 과거제는 광종이 왕권 강화를 위해 쌍기의 건의로 시행하였고(ㄴ), (다)의 현량과는 중종 때 조광조 등 사림파가 주장하였다(ㄷ).",
+    "options": [
+     {
+      "n": 1,
+      "why": "ㄱ: (가) 독서삼품과는 신라 원성왕 때의 제도로, 최승로의 시무 28조(고려 성종)와 관계없다.",
+      "belongsTo": "신라 원성왕"
+     },
+     {
+      "n": 2,
+      "why": "ㄱ은 독서삼품과(신라)를 고려 성종 때의 시무 28조와 잘못 연결하였으므로 옳지 않다.",
+      "belongsTo": "신라 원성왕"
+     },
+     {
+      "n": 4,
+      "why": "ㄹ: (라)는 갑오개혁 시기의 관리 임용 규정으로, 임술 농민 봉기(1862) 수습책은 삼정이정청 설치이다.",
+      "belongsTo": "갑오개혁"
+     },
+     {
+      "n": 5,
+      "why": "ㄹ은 갑오개혁 시기의 자료를 임술 농민 봉기 수습책과 잘못 연결하였으므로 옳지 않다.",
+      "belongsTo": "갑오개혁"
+     }
+    ],
+    "point": "독서삼품과=원성왕, 과거제=광종(쌍기), 현량과=중종(조광조), 과거제 폐지·새 관리 임용법=갑오개혁, 임술 농민 봉기 수습=삼정이정청이다."
+   },
+   "en": {
+    "clues": [
+     "독서삼품 (three-grade reading examination)",
+     "on the proposal of 쌍기 (Ssanggi)",
+     "조광조 (Jo Gwang-jo)",
+     "the spirit of Han's 현량방정과",
+     "appointing junior officials after examination"
+    ],
+    "identifies": "(가) is Silla King 원성왕 (Wonseong)'s 독서삼품과; (나) is Goryeo King 광종 (Gwangjong)'s civil-service examination (과거제); (다) is the 현량과 (recommendation exam) urged by Jo Gwang-jo under Joseon King 중종 (Jungjong); (라) is an official-appointment rule from the 갑오개혁 (Gabo Reform).",
+    "correct": "The examination in (나) was introduced by Gwangjong on Ssanggi's advice to strengthen royal power (ㄴ), and the 현량과 in (다) was advocated by Sarim officials such as Jo Gwang-jo under Jungjong (ㄷ).",
+    "options": [
+     {
+      "n": 1,
+      "why": "ㄱ: the 독서삼품과 in (가) was a Silla system under King Wonseong, unrelated to 최승로 (Choe Seung-ro)'s 시무 28조 (28-article policy memorial) under Goryeo King Seongjong.",
+      "belongsTo": "Silla King Wonseong"
+     },
+     {
+      "n": 2,
+      "why": "ㄱ wrongly links the Silla 독서삼품과 to the Goryeo-era 28-article memorial, so this pair is wrong.",
+      "belongsTo": "Silla King Wonseong"
+     },
+     {
+      "n": 4,
+      "why": "ㄹ: (라) is a Gabo Reform appointment rule; the response to the 임술 농민 봉기 (Imsul Peasant Uprising, 1862) was the 삼정이정청 (Office for Rectifying the Three Administrations).",
+      "belongsTo": "Gabo Reform"
+     },
+     {
+      "n": 5,
+      "why": "ㄹ wrongly links the Gabo Reform material to the Imsul uprising response, so this pair is wrong.",
+      "belongsTo": "Gabo Reform"
+     }
+    ],
+    "point": "독서삼품과 = Wonseong; gwageo exam = Gwangjong (Ssanggi); 현량과 = Jungjong (Jo Gwang-jo); exam abolished & new appointment rules = Gabo Reform; Imsul uprising response = Samjeong Ijeongcheong."
+   }
+  },
+  "50": {
+   "era": "고려",
+   "ko": {
+    "clues": [
+     "쌍기가 의견을 올리니 처음으로 ㉠이 제도",
+     "시·부·송 및 시무책으로 시험하여 진사",
+     "조광조",
+     "㉡이 제도는 한(漢)에서 시행한 현량방정과의 뜻"
+    ],
+    "identifies": "㉠은 고려 광종 때 시행된 과거제, ㉡은 조선 중종 때 조광조가 건의한 현량과이다.",
+    "correct": "고려 과거제에서는 시험관인 지공거와 합격자 사이에 좌주와 문생 관계가 형성되어 문벌 형성에 영향을 주었다.",
+    "options": [
+     {
+      "n": 1,
+      "why": "역분전은 고려 태조가 공신 등에게 지급한 토지로, 광종의 과거제 시행 결과가 아니다.",
+      "belongsTo": "고려 태조"
+     },
+     {
+      "n": 3,
+      "why": "제술과·명경과·잡과·승과로 구성된 것은 고려의 과거제(㉠)로, 현량과와 관계없다.",
+      "belongsTo": "고려 과거제"
+     },
+     {
+      "n": 4,
+      "why": "관시·한성시·향시로 나뉜 것은 조선 과거의 초시로, 천거제인 현량과의 설명이 아니다.",
+      "belongsTo": "조선 과거제(초시)"
+     },
+     {
+      "n": 5,
+      "why": "홍범 14조(1895)는 갑오개혁 시기에 반포되었으며, 과거제는 갑오개혁 때 폐지되었다.",
+      "belongsTo": "갑오개혁"
+     }
+    ],
+    "point": "고려 과거제=광종·쌍기·제술과/명경과/잡과(+승과)·좌주와 문생, 현량과=중종·조광조·천거 후 간단한 시험이다."
+   },
+   "en": {
+    "clues": [
+     "on Ssanggi's proposal, system ㉠ was first introduced",
+     "jinsa selected by examinations in poetry, rhapsody, eulogy and policy essays",
+     "조광조 (Jo Gwang-jo)",
+     "system ㉡ follows the Han dynasty's 현량방정과"
+    ],
+    "identifies": "㉠ is the 과거제 (civil-service examination) introduced under Goryeo King Gwangjong; ㉡ is the 현량과 (recommendation-based exam) proposed by Jo Gwang-jo under Joseon King Jungjong.",
+    "correct": "In the Goryeo examination system, a 좌주 (jwaju, mentor)–문생 (munsaeng, disciple) bond formed between the 지공거 (chief examiner) and the successful candidates.",
+    "options": [
+     {
+      "n": 1,
+      "why": "역분전 (yeokbunjeon) was land granted by Goryeo founder 태조 (Taejo) to meritorious subjects, not a result of Gwangjong's examinations.",
+      "belongsTo": "Goryeo Taejo"
+     },
+     {
+      "n": 3,
+      "why": "The division into 제술과 (composition), 명경과 (classics), 잡과 (technical) and 승과 (Buddhist) exams describes the Goryeo examination ㉠, not the 현량과.",
+      "belongsTo": "Goryeo examination system"
+     },
+     {
+      "n": 4,
+      "why": "The 관시 (Seonggyungwan exam), 한성시 (Hanseong exam) and 향시 (provincial exams) were the preliminary rounds of the Joseon gwageo, not the 현량과.",
+      "belongsTo": "Joseon examination (preliminary round)"
+     },
+     {
+      "n": 5,
+      "why": "The 홍범 14조 (Fourteen Articles of Hongbeom, 1895) were proclaimed during the Gabo Reform, which abolished the gwageo.",
+      "belongsTo": "Gabo Reform"
+     }
+    ],
+    "point": "Goryeo gwageo = Gwangjong, Ssanggi, composition/classics/technical (+monk) exams, jwaju–munsaeng; 현량과 = Jungjong, Jo Gwang-jo, recommendation plus simple test."
+   }
+  }
+ }
+}
