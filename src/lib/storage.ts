@@ -148,6 +148,26 @@ export function removeWrong(id: string): void {
 export const saveRetrySet = (ids: string[]) => write(KEYS.retry, ids);
 export const loadRetrySet = () => read<string[]>(KEYS.retry, []);
 
+/** Wipe every record (results, notebook, retry set, unfinished attempts); preferences stay. */
+export function clearAllData(): void {
+  const keys = new Set(memory.keys());
+  try {
+    for (let i = 0; i < window.localStorage.length; i++) keys.add(window.localStorage.key(i) ?? "");
+  } catch {
+    // storage unavailable: only the in-memory copies exist
+  }
+  for (const k of keys) {
+    if (!k.startsWith(`${NS}:`) || k === KEYS.prefs) continue;
+    memory.delete(k);
+    try {
+      window.localStorage.removeItem(k);
+    } catch {
+      // ignore
+    }
+  }
+  listeners.forEach((fn) => fn());
+}
+
 // ---- preferences -------------------------------------------------------------
 
 export const DEFAULT_PREFS: Prefs = { lang: "ko", layout: "single", theme: "system", shufflePractice: false };
