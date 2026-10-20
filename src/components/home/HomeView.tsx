@@ -1,11 +1,12 @@
 "use client";
 // Home: an unfinished attempt (if any) and the table of contents of available rounds.
 import Link from "next/link";
-import { useMemo } from "react";
+import { useMemo, useState } from "react";
+import { Modal } from "@/components/runner/Modal";
 import { GradeBadge } from "@/components/site/GradeBadge";
 import { formatClock, TIME_LIMIT_MS } from "@/lib/grade";
 import { usePrefs, useStored } from "@/lib/prefs";
-import { listActiveAttempts, loadHistory } from "@/lib/storage";
+import { clearAllData, listActiveAttempts, loadHistory } from "@/lib/storage";
 import type { Attempt, AttemptResult, ExamSummary } from "@/lib/types";
 
 const L = {
@@ -18,6 +19,10 @@ const L = {
     noDate: "시행일 미상",
     points: "점",
     contents: "목차",
+    clearAll: "내 기록 모두 지우기",
+    clearAllTitle: "모든 기록을 지울까요?",
+    clearAllBody: "응시 기록, 오답 노트, 풀고 있던 시험이 모두 삭제됩니다. 되돌릴 수 없습니다.",
+    clearAllOk: "모두 지우기",
   },
   en: {
     lead: "Sit real past papers under the 80-minute exam conditions.",
@@ -28,6 +33,10 @@ const L = {
     noDate: "Date unknown",
     points: "pts",
     contents: "Contents",
+    clearAll: "Delete all my history",
+    clearAllTitle: "Delete all your history?",
+    clearAllBody: "Your attempt records, wrong-answer notebook and unfinished exams will be deleted. This can't be undone.",
+    clearAllOk: "Delete everything",
   },
 };
 
@@ -130,6 +139,48 @@ export function HomeView({ rounds }: { rounds: ExamSummary[] }) {
           })}
         </ol>
       </section>
+
+      {(history?.length || active?.length) ? <ClearAllButton /> : null}
+    </div>
+  );
+}
+
+function ClearAllButton() {
+  const { prefs, t } = usePrefs();
+  const l = L[prefs.lang];
+  const [open, setOpen] = useState(false);
+  const btn = "inline-flex min-h-10 items-center rounded-md border px-4 font-sans text-sm";
+
+  return (
+    <div className="flex justify-end border-t border-rule-soft pt-6">
+      <button
+        type="button"
+        onClick={() => setOpen(true)}
+        className={`${btn} border-rule-soft text-ink-soft transition-colors hover:border-bad hover:text-bad`}
+      >
+        {l.clearAll}
+      </button>
+      <Modal open={open} onClose={() => setOpen(false)} label={l.clearAllTitle}>
+        <div className="p-5 font-sans">
+          <h2 className="mb-3 border-b border-rule pb-2 text-base font-bold">{l.clearAllTitle}</h2>
+          <p className="text-sm text-ink-soft">{l.clearAllBody}</p>
+          <div className="mt-4 flex justify-end gap-2">
+            <button type="button" onClick={() => setOpen(false)} className={`${btn} border-rule-soft hover:bg-paper-sunk`} data-autofocus>
+              {t.cancel}
+            </button>
+            <button
+              type="button"
+              onClick={() => {
+                clearAllData();
+                setOpen(false);
+              }}
+              className={`${btn} border-bad bg-bad font-medium text-paper hover:opacity-90`}
+            >
+              {l.clearAllOk}
+            </button>
+          </div>
+        </div>
+      </Modal>
     </div>
   );
 }
