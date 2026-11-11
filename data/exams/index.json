@@ -158,5 +158,13 @@
   "date": null,
   "source": "ocr",
   "timeLimitMinutes": 80
+ },
+ {
+  "round": 80,
+  "title": "제80회 한국사능력검정시험 심화",
+  "year": 2026,
+  "date": null,
+  "source": "text",
+  "timeLimitMinutes": 80
  }
 ]
